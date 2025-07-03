@@ -1,0 +1,50 @@
+---
+const { t } = Astro.props;
+---
+<section class="bg-white py-16 px-4">
+  <div class="max-w-7xl mx-auto">
+    <header class="text-center mb-10">
+      <div class="inline-flex items-center gap-2 px-4 py-1 bg-gray-100 rounded-full shadow-sm text-sm sm:text-base text-gray-700 font-medium">
+        <i class="fas fa-certificate text-red-500"></i>
+        {t.certification}
+      </div>
+    </header>
+
+    <div class="grid md:grid-cols-2 gap-6 mb-14 text-gray-700 text-base font-medium">
+      <div class="bg-gray-50 p-6 rounded-2xl shadow hover:shadow-md transition">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2">{t.routeTitle}</h3>
+        <p>{t.routeText}</p>
+      </div>
+      <div class="bg-gray-50 p-6 rounded-2xl shadow hover:shadow-md transition space-y-2">
+        <p><strong>{t.duration}:</strong> {t.durationValue}</p>
+        <p><strong>{t.clientType}:</strong> {t.clientTypeValue}</p>
+        <p><strong>{t.serviceType}:</strong> {t.serviceTypeValue}</p>
+      </div>
+    </div>
+
+    <h3 class="text-3xl font-bold text-center text-gray-900 mb-10">{t.itinerary}</h3>
+
+    {[ 
+      { title: t.day01Title, items: [t.day01Text] },
+      { title: t.day02Title, items: t.day02Schedule },
+      { title: t.day03Title, items: t.day03Schedule },
+      { title: t.day04Title, items: t.day04Schedule },
+      { title: t.day05Title, items: t.day05Schedule }
+    ].map((day) => (
+      <article class="relative border-l-4 border-green-700 bg-white rounded-2xl shadow-md p-6 mb-10 transition hover:shadow-lg">
+        <span class="absolute -left-2.5 top-6 w-4 h-4 bg-green-700 border-4 border-white rounded-full shadow"></span>
+        <h4 class="text-2xl font-bold text-green-800 mb-4">{day.title}</h4>
+        {day.items.map((text: string) => (
+          <p class="text-base leading-relaxed mb-4">{text}</p>
+        ))}
+      </article>
+    ))}
+
+    <div class="bg-white rounded-2xl shadow-md p-6 mb-10 border-l-4 border-green-600">
+      <h3 class="text-3xl font-extrabold text-green-800 mb-6 tracking-tight">{t.includedTitle}</h3>
+      <ul class="list-disc list-inside space-y-2 text-gray-800 mb-2">
+        {t.includedItems.map((item: string) => <li>{item}</li>)}
+      </ul>
+    </div>
+  </div>
+</section>

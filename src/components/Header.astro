@@ -1,0 +1,133 @@
+---
+// components/Header.astro
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import es from '../i18n/es.json';
+import en from '../i18n/en.json';
+
+// Ruta actual
+const pathname = Astro.url.pathname;
+const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
+const switchLocale = currentLocale === 'es' ? 'en' : 'es';
+
+// Mapeo manual entre rutas dinámicas en español e inglés
+const routeMap: { [key: string]: string } = {
+    '/es/cusco/4-dias-3-noches': '/en/cusco/4-days-3-nights',
+    '/en/cusco/4-days-3-nights': '/es/cusco/4-dias-3-noches',
+    '/es/cusco/5-dias-4-noches': '/en/cusco/5-days-4-nights',
+    '/en/cusco/5-days-4-nights': '/es/cusco/5-dias-4-noches',
+    '/es/cusco/5-dias-4-noches-surhume': '/en/cusco/5-days-4-nights-surhume',
+    '/en/cusco/5-days-4-nights-surhume': '/es/cusco/5-dias-4-noches-surhume',
+    '/es/cusco/6-dias-5-noches': '/en/cusco/6-days-5-nights',
+    '/en/cusco/6-days-5-nights': '/es/cusco/6-dias-5-noches',
+    '/es/tarapoto/6-dias-5-noches': '/en/tarapoto/6-days-5-nights',
+    '/en/tarapoto/6-days-5-nights': '/es/tarapoto/6-dias-5-noches',
+    '/es/tarapoto/4-dias-3-noches': '/en/tarapoto/4-days-3-nights',
+    '/en/tarapoto/4-days-3-nights': '/es/tarapoto/4-dias-3-noches',
+    '/es/tarapoto/5-dias-4-noches': '/en/tarapoto/5-days-4-nights',
+    '/en/tarapoto/5-days-4-nights': '/es/tarapoto/5-dias-4-noches',
+    '/es/ayacucho/4-dias-3-noches': '/en/ayacucho/4-days-3-nights',
+    '/en/ayacucho/4-days-3-nights': '/es/ayacucho/4-dias-3-noches',
+    '/es/mancora/3-dias-2-noches': '/en/mancora/3-days-2-nights',
+    '/en/mancora/3-days-2-nights': '/es/mancora/3-dias-2-noches',
+};
+const currentPath = pathname.toLowerCase().replace(/\/$/, '');
+
+const switchUrl = routeMap[currentPath] || getRelativeLocaleUrl(switchLocale, pathname.replace(/^\/(es|en)/, ''));
+
+const i18n = currentLocale === 'es' ? es : en;
+
+const destinationKeys = [
+    'cajamarca', 'ayacucho', 'cusco', 'tarapoto', 'mancora', 'selva-central', 'iquitos', 'arequipa', 'puno'
+] as const;
+
+const links = destinationKeys.map((path) => ({
+    name: i18n.menu[path],
+    url: getRelativeLocaleUrl(currentLocale, path)
+}));
+---
+
+<header id="main-header" class="fixed top-0 left-0 w-full backdrop-blur-md z-50">
+    <nav class="container mx-auto flex items-center justify-between px-4 py-4">
+        <div>
+            <a href={`/${currentLocale}/`} class="text-white font-bold text-xl tracking-wide hover:text-yellow-400 transition-colors duration-300">
+                PDT <span class="text-yellow-400">Peruvian Travel</span>
+            </a>
+        </div>
+
+        <button id="menu-toggle" class="xl:hidden text-white focus:outline-none" aria-label="Abrir Menú">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-9 w-9" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+        </button>
+
+        <ul id="menu" class="max-h-0 overflow-hidden xl:overflow-visible xl:max-h-none xl:flex flex-col xl:flex-row items-center text-white absolute xl:relative top-full left-0 w-full xl:w-auto bg-gray-950 bg-opacity-80 xl:bg-transparent shadow-md xl:shadow-none transition-[max-height] duration-500 ease-in-out text-center">
+            <li>
+                <a href={`/${currentLocale}/`} class="block py-3 px-4 hover:text-yellow-400 transition menu-link">
+                    {i18n.menu.inicio}
+                </a>
+            </li>
+            {links.map(link => (
+                <li>
+                    <a href={link.url} class="block py-3 px-4 hover:text-yellow-400 transition menu-link">
+                        {link.name}
+                    </a>
+                </li>
+            ))}
+            <li class="border-t border-gray-700 xl:border-none w-full xl:w-auto">
+                <a href={switchUrl} class="flex justify-center items-center py-3 px-4 hover:text-yellow-400 transition gap-2">
+                    <img src={switchLocale === 'es' ? '/flags/pe.png' : '/flags/eu.png'} alt={switchLocale} class="w-5 h-5 rounded-full" />
+                    <span>{switchLocale === 'es' ? 'Español' : 'English'}</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <script is:inline>
+        document.addEventListener("DOMContentLoaded", () => {
+            const header = document.getElementById("main-header");
+            const menuToggle = document.getElementById("menu-toggle");
+            const menu = document.getElementById("menu");
+            const menuLinks = document.querySelectorAll(".menu-link");
+
+            if (header) {
+                window.addEventListener("scroll", () => {
+                    header.style.background = window.scrollY > 50 ? "rgba(10, 10, 10, 0.75)" : "transparent";
+                });
+            }
+
+            if (menuToggle && menu) {
+                menuToggle.addEventListener("click", () => {
+                    menu.classList.toggle("max-h-0");
+                    menu.classList.toggle("max-h-screen");
+                });
+
+                menuLinks.forEach(link => {
+                    link.addEventListener("click", () => {
+                        menu.classList.remove("max-h-screen");
+                        menu.classList.add("max-h-0");
+                    });
+                });
+
+                window.addEventListener("resize", () => {
+                    if (window.innerWidth >= 1280) {
+                        menu.classList.add("max-h-0");
+                    }
+                });
+            }
+
+            const currentPath = window.location.pathname.toLowerCase();
+            menuLinks.forEach(link => {
+                const href = link.getAttribute("href")?.toLowerCase();
+                if (!href) return;
+
+                const isExactMatch = currentPath === href;
+                const isHome = href === '/' || href === '/es/' || href === '/en/';
+                const isActive = isExactMatch || (isHome && currentPath === href);
+
+                link.classList.toggle("text-yellow-400", isActive);
+                link.classList.toggle("font-bold", isActive);
+                link.classList.toggle("text-white", !isActive);
+            });
+        });
+    </script>
+</header>

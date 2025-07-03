@@ -1,0 +1,54 @@
+{
+    "title": "Máncora: 3 Días / 2 Noches",
+    "description": "Disfruta de un paquete turístico de 3 días y 2 noches en las hermosas playas de Máncora, con alojamiento, traslados y actividades incluidas.",
+    "itinerary": [
+        {
+            "day": 1,
+            "title": "Llegada a Máncora",
+            "activities": [
+                "Recepción en el terminal o aeropuerto.",
+                "Traslado al hotel seleccionado.",
+                "Tarde libre para disfrutar de la playa."
+            ]
+        },
+        {
+            "day": 2,
+            "title": "Tour y Actividades",
+            "activities": [
+                "Desayuno en el hotel.",
+                "Tour a los Manglares de Tumbes o avistamiento de tortugas (según temporada).",
+                "Tarde libre para actividades opcionales: surf, paseo en cuatrimoto, etc."
+            ]
+        },
+        {
+            "day": 3,
+            "title": "Despedida",
+            "activities": [
+                "Desayuno en el hotel.",
+                "Tiempo libre hasta la hora de salida.",
+                "Traslado al terminal o aeropuerto."
+            ]
+        }
+    ],
+    "includes": [
+        "2 noches de alojamiento en hotel seleccionado",
+        "Desayunos diarios",
+        "Traslados de llegada y salida",
+        "Tour según itinerario"
+    ],
+    "not_included": [
+        "Almuerzos y cenas",
+        "Gastos personales",
+        "Actividades opcionales",
+        "Propinas"
+    ],
+    "recommendations": [
+        "Llevar bloqueador solar y repelente",
+        "Ropa ligera y traje de baño",
+        "Dinero en efectivo para gastos personales"
+    ],
+    "contact": {
+        "email": "info@pdtperuviantravel.com",
+        "phone": "+51 999 999 999"
+    }
+}

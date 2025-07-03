@@ -1,0 +1,58 @@
+{
+    "title": "Máncora: 4 Días / 3 Noches",
+    "description": "Disfruta de las hermosas playas de Máncora con este paquete de 4 días y 3 noches.",
+    "itinerary": [
+        {
+            "day": 1,
+            "title": "Llegada a Máncora",
+            "activities": [
+                "Recepción en el terminal o aeropuerto.",
+                "Traslado al hotel seleccionado.",
+                "Tarde libre para disfrutar de la playa."
+            ]
+        },
+        {
+            "day": 2,
+            "title": "Tour a las Playas",
+            "activities": [
+                "Desayuno en el hotel.",
+                "Visita a las playas de Punta Sal y Vichayito.",
+                "Tiempo libre para actividades acuáticas."
+            ]
+        },
+        {
+            "day": 3,
+            "title": "Día Libre",
+            "activities": [
+                "Desayuno en el hotel.",
+                "Día libre para explorar Máncora o realizar actividades opcionales."
+            ]
+        },
+        {
+            "day": 4,
+            "title": "Retorno",
+            "activities": [
+                "Desayuno en el hotel.",
+                "Check-out y traslado al terminal o aeropuerto."
+            ]
+        }
+    ],
+    "includes": [
+        "Traslados de llegada y salida.",
+        "03 noches de alojamiento en hotel seleccionado.",
+        "Desayunos diarios.",
+        "Tour a las playas mencionadas.",
+        "Guía turístico en español."
+    ],
+    "not_included": [
+        "Almuerzos y cenas.",
+        "Gastos personales.",
+        "Actividades opcionales.",
+        "Propinas."
+    ],
+    "recommendations": [
+        "Llevar bloqueador solar y repelente.",
+        "Ropa ligera y traje de baño.",
+        "Documentos personales."
+    ]
+}

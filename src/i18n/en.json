@@ -1,0 +1,213 @@
+{
+  	"menu": {
+    	"inicio": "Home",
+    	"cajamarca": "Cajamarca",
+    	"ayacucho": "Ayacucho",
+    	"cusco": "Cusco",
+    	"tarapoto": "Tarapoto",
+    	"mancora": "Mancora",
+    	"selva-central": "Central Jungle",
+    	"iquitos": "Iquitos",
+    	"arequipa": "Arequipa",
+    	"puno": "Puno"
+  	},
+  	"slides": [
+    	{ "title": "MACHU PICCHU - CUSCO", "buttonText": "Ask Now" },
+    	{ "title": "VILLA RICA - OXAPAMPA", "buttonText": "Ask Now" },
+    	{ "title": "SAN CRISTOBAL - TARMA", "buttonText": "Ask Now" }
+  	],
+  	"packagesSection": {
+    	"title": "The best tour packages",
+    	"description": "Discover the best travel packages with <strong>PDT Peruvian Travel</strong>. We are your ideal choice for trips as a couple, with family, or with friends. Celebrate your honeymoon, birthday, or anniversary in the most exclusive hotels and lodges in the Amazon rainforest. We guarantee unforgettable experiences and exceptional service.",
+    	"consultText": "Consult package",
+    	"packages": [
+      		{
+        		"title": "UNFORGETTABLE CUSCO VIP 4D/3N",
+        		"image": "/cusco-inolvidable-4d.png",
+        		"link": "cusco/4-dias-3-noches"
+      		},
+      		{
+        		"title": "UNFORGETTABLE CUSCO VIP 5D/4N SURHUME",
+        		"image": "/cusco-inolvidable-5d.png",
+        		"link": "cusco/5-dias-4-noches-surhume"
+      		},
+      		{
+        		"title": "UNFORGETTABLE CUSCO VIP 5D/4N",
+        		"image": "/cusco-inolvidable-5d-4n.png",
+        		"link": "cusco/5-dias-4-noches"
+      		},
+			{
+        		"title": "UNFORGETTABLE CUSCO VIP 6D/5N PUNO - AREQUIPA",
+        		"image": "/cusco-inolvidable-6d-5n.png",
+        		"link": "cusco/6-dias-5-noches"
+      		},
+			{
+        		"title": "MÁNCORA PREMIUM 3D/2N",
+        		"image": "/mancora-3-dias.png",
+        		"link": "mancora/3-dias-2-noches"
+      		},
+			{
+        		"title": "MÁNCORA PREMIUM 5D/4N",
+        		"image": "/mancora-5-dias.png",
+        		"link": "mancora/5-dias-4-noches"
+      		},
+			{
+        		"title": "TARAPOTO KUÉLAP MYSTIC VIP 6D/5N",
+        		"image": "/kuelap-6-dias.png",
+        		"link": "tarapoto/tarapoto-kuelap-mistico"
+      		},
+			{
+        		"title": "TARAPOTO VIP 4D/3N",
+        		"image": "/tarapoto-4-dias.png",
+        		"link": "tarapoto/4-dias-3-noches"
+      		},
+			{
+        		"title": "TARAPOTO VIP 5D/4N",
+        		"image": "/tarapoto-5-dias.png",
+        		"link": "tarapoto/5-dias-4-noches"
+      		},
+			{
+        		"title": "HUANCAYO - SELVA CENTRAL MYSTIC 5D/4N",
+        		"image": "/huancayo-5-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO BORG - CIT 5D/4N",
+        		"image": "/perene-5-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO - BORG 4D/3N",
+        		"image": "/perene-4-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO 3D/2N",
+        		"image": "/perene-3-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA 2D/1N",
+        		"image": "/perene-2-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "COLOMBIA - SAN ANDRÉS",
+        		"image": "/san-andres.png",
+        		"link": "colombia/san-andres"
+      		},
+			{
+        		"title": "ARUBA",
+        		"image": "/aruba.png",
+        		"link": "caribe/aruba"
+      		},
+			{
+        		"title": "PUNTA CANA",
+        		"image": "/punta-cana.png",
+        		"link": "republica-dominicana/punta-cana"
+      		},
+			{
+        		"title": "CARTAGENA DE INDIAS",
+        		"image": "/cartagena-de-indias.png",
+        		"link": "colombia/cartagena-de-indias"
+      		}
+    	]
+  	},
+	"ctaIquitos": {
+		"tag": "Explore Iquitos",
+		"title": "History and Transformation",
+		"description": "Located in the northeastern jungle of Peru, Iquitos is the capital of Loreto and Maynas, surrounded by the Amazon, Nanay, and Itaya rivers. Founded in 1757 by Jesuit missionaries as San Pablo de los Napeanos, the city was inhabited by the Iquitos people after the Napeanos left in the late 18th century. Between 1880 and 1914, the rubber boom drove its growth, attracting Peruvians and Europeans in search of opportunity. This boom turned Iquitos into a commercial center, modernizing the city with new architecture and public services that improved the quality of life for its residents.",
+		"button": "Inquire now"
+	},
+	"footer": {
+		"contactTitle": "Contact Us",
+		"logisticsOffice": "Logistics Office: Gabriel Torres 116 - San Juan de Miraflores - Lima.",
+		"commercialOffice": "Commercial Office: Jr. Progreso 418 - Chanchamayo - Junin.",
+		"touristAttractions": "Tourist Attractions",
+		"relatedLinks": "Related Links",
+		"mightInterestYou": "You Might Also Like",
+		"rights": "All rights reserved",
+		"designedBy": "Designed by",
+		"linkList": {
+			"mincetur": "Mincetur",
+			"ytuqueplanes": "Y tú qué planes?",
+			"gore": "GORE Amazonas",
+			"tripadvisor": "Tripadvisor",
+			"marcaPeru": "Marca Perú"
+		},
+		"interestList": {
+			"irapay": "Irapay Amazon",
+			"heliconia": "Heliconia Lodge",
+			"cumaceba": "Cumaceba Lodge",
+			"pacaya": "Pacaya Samiria",
+			"tours": "Daily Tours"
+		}
+	},
+	"cajamarcaTour": {
+		"certification": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+		"routeTitle": "Route",
+		"routeText": "CITY – CUMBE MAYO / BAÑOS DEL INCA – GRANJA DE PORCON – CAJAMARCA",
+		"duration": "Duration",
+		"durationValue": "04 days / 03 nights",
+		"clientType": "Client Type",
+		"clientTypeValue": "Delegation",
+		"serviceType": "Service Type",
+		"serviceTypeValue": "Private",
+		"itinerary": "Itinerary",
+		"day01Title": "Day 01: Trip to Cajamarca",
+		"day01Text": "--:-- hrs: Meeting at the school or transport company. Prior coordination with the Educational Institution.",
+		"day02Title": "Day 02: Cajamarca Historical City Tour",
+		"day02Schedule": [
+			"08:30 hrs: Cajamarca, transfer to selected hotel.",
+			"09:00 hrs: Breakfast in Cajamarca and acclimatization time. Lunch.",
+			"14:00 hrs: We begin our city tour, visiting the Cathedral San Francisco, Museums of religious art, ethnography and archaeology, Colonial Hospital, The Rescue Room and Santa Apolonia Hill.",
+			"19:00 hrs: Dinner.",
+			"Overnight at hotel."
+		],
+		"day03Title": "Day 03: Cumbe Mayo – Rock Forest – La Collpa Hacienda – Inca Baths",
+		"day03Schedule": [
+			"08:00 hrs: Breakfast.",
+			"09:00 hrs: Visit to Bellavista viewpoint, Layzon, Forest Park, and then the Cumbe Mayo Archaeological Center.",
+			"14:00 hrs: Lunch.",
+			"15:00 hrs: Visit to La Collpa hacienda, cow call, and Inca thermal baths.",
+			"19:30 hrs: Overnight."
+		],
+		"day04Title": "Day 04: Porcón Farm – Otuzco – Los Alpes Ranch – Hydrangea Garden",
+		"day04Schedule": [
+			"08:00 hrs: Breakfast.",
+			"09:00 hrs: Visit to Porcón Farm with exotic animals, trout hatchery, and forestry activities.",
+			"13:00 hrs: Lunch.",
+			"13:00 hrs: Visit to Otuzco necropolis, hanging bridge, and dairy tastings at Los Alpes Ranch.",
+			"19:00 hrs: Overnight."
+		],
+		"day05Title": "Day 05: Free Day and Departure",
+		"day05Schedule": [
+			"08:30 hrs: Breakfast.",
+			"09:00 hrs: Visit to Cajamarca craft market. Lunch and trip at the appropriate time.",
+			"--:-- hrs: Departure."
+		],
+		"includedTitle": "The Program Includes",
+		"includedItems": [
+			"Pickup and arrival at the school.",
+			"Interprovincial transport: Piura – Cajamarca – Piura.",
+			"Private tourist transport.",
+			"Transfers IN/OUT.",
+			"03 nights of hotel in Cajamarca.",
+			"01 night of night recreation.",
+			"04 breakfasts.",
+			"03 lunches.",
+			"04 dinners as detailed in the program.",
+			"04 days of tours (according to itinerary).",
+			"Local tourism guide.",
+			"Group photos throughout the trip.",
+			"Agency staff accompanying the group for safety.",
+			"First aid staff.",
+			"Tour as mentioned, first aid kit.",
+			"Professional guiding and tourist entertainment.",
+			"Tickets to all tourist sites.",
+			"Transport with SOAT insurance policy.",
+			"Permanent and personalized assistance."
+		]
+	}
+
+}

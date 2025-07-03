@@ -1,0 +1,37 @@
+---
+interface Props {
+    i18n: {
+        ctaIquitos: {
+        tag: string;
+        title: string;
+        description: string;
+        button: string;
+        };
+    };
+}
+
+const { i18n } = Astro.props;
+---
+<section class="bg-blue-50">
+    <div class="grid grid-cols-1 lg:grid-cols-2 max-w-7xl px-8 py-24 mx-auto justify-center items-center gap-8">
+        <img src="/cta-selva.avif" alt="Tours en Iquitos, Perú - Amazonía Peruana" class="rounded-md order-2 lg:order-1" loading="lazy" />
+        <div class="order-1 lg:order-2 space-y-2">
+            <p class="uppercase text-green-700 font-medium">
+                {i18n.ctaIquitos.tag}
+            </p>
+            <h3 class="text-green-700 font-bold text-2xl lg:text-3xl">
+                {i18n.ctaIquitos.title}
+            </h3>
+            <p class="text-gray-900 text-justify text-sm">
+                {i18n.ctaIquitos.description}
+            </p>
+            <a target="_blank" href="#" class="inline-flex items-center justify-center hover:bg-green-800 font-bold rounded-md bg-green-700 text-white text-sm px-6 py-3" aria-label="Contacto de WhatsApp">
+                {i18n.ctaIquitos.button}
+                <i class="fa-brands fa-whatsapp fa-2xl ml-2"></i>
+            </a>
+        </div>
+    </div>
+</section>
+
+
+

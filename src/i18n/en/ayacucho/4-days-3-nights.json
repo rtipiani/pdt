@@ -1,0 +1,106 @@
+{
+	"title": "Magical Ayacucho 4D/3N",
+	"certificate": "",
+	"itinerary": [
+		{
+		"day": "Day 01: City Tour - Elegant Huamanga",
+		"activities": [
+			{ "time": "15:30 hrs", "text": "Main Square, colonial mansions (Castilla y Zamora, Boza y Solís, Velarde Álvarez)." },
+			{ "time": "16:00 hrs", "text": "Santo Domingo Temple." },
+			{ "time": "16:20 hrs", "text": "Hipólito Unánue Museum." },
+			{ "time": "16:40 hrs", "text": "Santa Ana neighborhood and visit to craft workshops (textile and Huamanga stone carving)." },
+			{ "time": "17:00 hrs", "text": "Monastery of Santa Teresa of the Discalced Carmelites." },
+			{ "time": "17:30 hrs", "text": "Acuchimay Hill Viewpoint." },
+			{ "time": "18:00 hrs", "text": "Valdelirios Promenade (Arch of Triumph)." },
+			{ "time": "18:30 hrs", "text": "Basilica Cathedral of Ayacucho." }
+		]
+		},
+		{
+		"day": "Day 02: Colonial Temples Circuit",
+		"activities": [
+			{ "time": "15:30 hrs", "text": "Basilica Cathedral of Ayacucho (Altarpieces, museum, architecture, crypt, and viewpoint)." },
+			{ "time": "16:00 hrs", "text": "Santo Domingo Temple (Altarpieces, museum, architecture, and viewpoint)." },
+			{ "time": "16:30 hrs", "text": "San Francisco de Paula Temple (Altarpieces, architecture, high choir, and viewpoint)." },
+			{ "time": "17:00 hrs", "text": "Compañía de Jesús Temple (Altarpieces, architecture, and exhibition hall)." }
+		]
+		},
+		{
+		"day": "Day 03 AM: Wari – Quinua – Historic Sanctuary of the Pampa de Ayacucho",
+		"activities": [
+			{ "time": "09:30 hrs", "text": "Visit to the Wari Archaeological Complex, capital of the first Andean empire." },
+			{ "time": "11:30 hrs", "text": "Tour of the artisan town of Quinua, pottery workshops and craft market." },
+			{ "time": "13:30 hrs", "text": "Visit to the Historic Sanctuary of the Pampa de Ayacucho and the 44-meter-high Obelisk." }
+		]
+		},
+		{
+		"day": "Day 03 PM: Pikimachay Cave – Huanta",
+		"activities": [
+			{ "time": "15:00 hrs", "text": "Pikimachay Cave, refuge of the Pacaycasa man (18,000–20,000 B.C.)." },
+			{ "time": "16:00 hrs", "text": "Colonial Bridge of Ayahuarcuna and Viewpoint of the Crosses." },
+			{ "time": "17:00 hrs", "text": "City tour in Huanta: Main Square, Main Church, Sacred Heart of Jesus Temple, Stone Bishop." },
+			{ "time": "18:00 hrs", "text": "Visit to beekeeping centers: tasting of honey, jams, spirits, and seven-seed chicha." },
+			{ "time": "18:30 hrs", "text": "Visit to the Occochaca Waterfall." }
+		]
+		},
+		{
+		"day": "Day 04 AM: Inca City of Vilcashuamán – Intihuatana",
+		"activities": [
+			{ "time": "08:00 hrs", "text": "Visit to the Raimondi Puya forest in the Manallasacc community." },
+			{ "time": "10:00 hrs", "text": "Tour of the Intihuatana archaeological complex: Pomaccocha Lagoon, Sun Gate, Inca Baths, Acllawasi, and Inca Palace." },
+			{ "time": "12:30 hrs", "text": "Archaeological city of Vilcashuamán: Pachacútec Square, Temple of the Sun and Moon, and Inca Ushno Pyramid." }
+		]
+		},
+		{
+		"day": "Day 04 PM: Waterfalls Route – Cangallo",
+		"activities": [
+			{ "time": "14:00 hrs", "text": "20-minute hike to Pumapaqcha." },
+			{ "time": "15:00 hrs", "text": "2-hour trek to visit Batan and Qorimaqma waterfalls, crossing tunnels built by the local community." },
+			{ "time": "17:00 hrs", "text": "Swim at Wawapuquio (natural carbonated water pool)." },
+			{ "time": "18:00 hrs", "text": "City tour of Cangallo: main square." }
+		]
+		}
+	],
+	"includesTitle": "The Program Includes",
+	"includesSubtitle": "(Valid all year round – Low season)",
+	"includes": [
+		"Flight or bus Lima – Ayacucho – Lima.",
+		"Reception and transfer: airport / accommodation / airport.",
+		"Transportation for the scheduled tours.",
+		"Specialized guide in Spanish.",
+		"04 excursions according to itinerary.",
+		"03 nights of accommodation.",
+		"04 breakfasts.",
+		"Travel advice.",
+		"Permanent and personalized assistance.",
+		"First aid kit.",
+		"Vehicle with SOAT insurance.",
+		"Includes all legal taxes."
+	],
+	"notIncluded": [
+		"Lunches and dinners.",
+		"Entrance fees to tourist attractions.",
+		"Personal or extra expenses."
+	],
+	"conditions": [
+		"Rates valid only for low season.",
+		"Non-refundable. Postponable for up to 4 months (except long holidays).",
+		"Reservation confirmed with 50% payment. The balance must be paid 1 day before the trip.",
+		"Room check-in: 13:00 hrs.",
+		"Room check-out: 12:00 hrs.",
+		"Check extra night rates depending on accommodation.",
+		"Minimum 2 people per reservation.",
+		"Children from 3 to 5 years old: 15% discount.",
+		"Children 5 years and older pay full fare.",
+		"Itinerary subject to change due to weather or strikes without prior notice."
+	],
+	"recommendations": [
+		"Light clothing.",
+		"Sunglasses.",
+		"Cap or hat.",
+		"Comfortable sneakers.",
+		"Flashlight.",
+		"Camera or camcorder.",
+		"Repellent and sunscreen.",
+		"Personal documents."
+	]
+}

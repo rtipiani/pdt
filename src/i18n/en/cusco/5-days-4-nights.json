@@ -1,0 +1,99 @@
+{
+  "title": "Millennial Cusco 5D/4N",
+  "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Day 01: Travel to Cusco & City Tour",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Flight to Cusco." },
+        { "time": "--:-- hrs", "text": "Transfer to selected hotel." },
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "10:00 hrs", "text": "Acclimatization morning with visits to the cathedral, Cristo Blanco viewpoint, Plaza Regocijo, San Francisco square, and more." },
+        { "time": "13:30 hrs", "text": "Lunch." },
+        { "time": "14:30 hrs", "text": "Visit to nearby archaeological sites:" },
+        { "time": "15:00 hrs", "text": "Sacsayhuamán: Inca ceremonial fortress." },
+        { "time": "16:00 hrs", "text": "Q'enqo: Ritual labyrinth with semicircular amphitheater and underground galleries." },
+        { "time": "17:00 hrs", "text": "Pukapukara: Inca military construction." },
+        { "time": "17:30 hrs", "text": "Tambomachay: Ritual water site and rest area for Inca nobility." },
+        { "time": "19:30 hrs", "text": "Arrival at hotel." },
+        { "time": "20:30 hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 02: Sacred Valley of the Incas",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Breakfast." },
+        { "time": "08:30 hrs", "text": "Pick-up from hotel. Sacred Valley tour begins." },
+        { "time": "10:30 hrs", "text": "Pisaq: Impressive Inca construction with agricultural terraces and noble residential areas. Visit modern town." },
+        { "time": "13:30 hrs", "text": "Urubamba: Buffet lunch. Continue to Maras, Moray and salt mines." },
+        { "time": "15:00 hrs", "text": "Ollantaytambo: Tour of the Inca fortress with religious and administrative sectors." },
+        { "time": "--:-- hrs", "text": "Chinchero: Known for textiles and cathedral. Return to hotel and overnight." }
+      ]
+    },
+    {
+      "day": "Day 03: Visit to the Wonder of the World \"Machu Picchu\"",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Breakfast or light snack." },
+        { "time": "--:-- hrs", "text": "Bus ride to Machu Picchu (30 min)." },
+        { "time": "09:00 hrs", "text": "2-hour guided tour in Machu Picchu: Temple of the Three Windows, the Sun Clock, and more. Free time afterwards." },
+        { "time": "13:00 hrs", "text": "Lunch." },
+        { "time": "15:00 hrs", "text": "Visit to Aguas Calientes hot springs." },
+        { "time": "19:00 hrs", "text": "Dinner." },
+        { "time": "--:-- hrs", "text": "Return train to Ollantaytambo and private transfer to Cusco." },
+        { "time": "--:-- hrs", "text": "Arrival and overnight in Cusco hotel." }
+      ]
+    },
+    {
+      "day": "Day 04: Cusco - Rainbow Mountain or Abode of the Gods",
+      "activities": [
+        { "time": "05:30 hrs", "text": "Depart by transport to Cusipata community (1.5 h)." },
+        { "time": "06:00 hrs", "text": "Continue 30 min to Chillihuani, passing scenic spots like Tintinko, Río Tigre, Llacto. View native fauna and flora." },
+        { "time": "--:-- hrs", "text": "Start 1.5 h hike to Rainbow Mountain. Scenic views of the Red Valley, Ausangate snowcap, and lagoons. Lunch and photos." },
+        { "time": "--:-- hrs", "text": "Descent and 2-hour return trip to Cusco. Arrival at hotel approx. 18:30 hrs." },
+        { "time": "08:30 hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 05: Free Day in Cusco - Flight to Lima",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "09:30 hrs", "text": "Pick-up from hotel." },
+        { "time": "10:00 hrs", "text": "Visit to Pachacutec Viewpoint." },
+        { "time": "11:00 hrs", "text": "Twelve-Angle Stone." },
+        { "time": "11:30 hrs", "text": "Sacred Temple of Cusco." },
+        { "time": "12:00 hrs", "text": "Souvenir shopping at Cusco's main artisan markets." },
+        { "time": "--:-- hrs", "text": "Lunch." },
+        { "time": "--:-- hrs", "text": "Transfer to the airport and return flight to Lima." }
+      ]
+    }
+  ],
+  "includesTitle": "Our Program Includes",
+  "includesSubtitle": "(All-inclusive system – One-time payment)",
+  "includes": [
+    "Pick-up and return to school.",
+    "Flight Lima – Cusco – Lima (11 kg travel backpack).",
+    "Private tourist transport in Cusco.",
+    "IN/OUT transfers.",
+    "04 nights of accommodation in Cusco.",
+    "01 night of evening entertainment.",
+    "05 breakfasts.",
+    "03 lunches.",
+    "02 buffet lunches.",
+    "04 dinners as detailed in the program.",
+    "05 days of tours (as per itinerary).",
+    "Group photos throughout the trip.",
+    "Trip video.",
+    "PROMOTIONAL BANNER.",
+    "Group celebration party.",
+    "EXPEDITION TOURIST TRAIN.",
+    "Aguas Calientes hot springs.",
+    "Local tour guide.",
+    "01 agency staff member accompanying the group for the entire trip.",
+    "First aid personnel.",
+    "All tours mentioned in the program with first aid kit.",
+    "Professional guiding and tour entertainment.",
+    "Entrance tickets to all tourist attractions.",
+    "Transport with SOAT insurance policy.",
+    "Permanent and personalized assistance."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Tarapoto - Chachapoyas - Kuelap - Mysterious",
+    "description": "Immerse yourself in the beauty of the Peruvian jungle by visiting waterfalls like Ahuashiyacu, Lago Lindo, the Castle of Lamas, and other natural and cultural destinations. Whether traveling as a couple, with family, or friends, we offer exclusive itineraries, quality accommodations, and personalized service to make your trip a truly unforgettable experience.",
+    "consultNow": "Inquire now",
+    "packages": [
+        {
+            "title": "Mystical Tarapoto Kuelap",
+            "duration": "6D/5N",
+            "image": "/kuelap-6-dias.png",
+            "link": "6-days-5-nights"
+        },
+        {
+            "title": "VIP Tarapoto",
+            "duration": "4D/3N",
+            "image": "/kuelap-6-d.png",
+            "link": "4-days-3-nights"
+        },
+        {
+            "title": "VIP Tarapoto",
+            "duration": "5D/4N",
+            "image": "/kuelap-5-dias.png",
+            "link": "5-days-4-nights"
+        }
+    ]
+}

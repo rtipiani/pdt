@@ -1,0 +1,111 @@
+---
+interface Props {
+    i18n: {
+        footer: {
+            contactTitle: string;
+            logisticsOffice: string;
+            commercialOffice: string;
+            touristAttractions: string;
+            relatedLinks: string;
+            mightInterestYou: string;
+            rights: string;
+            designedBy: string;
+            linkList: {
+                mincetur: string;
+                ytuqueplanes: string;
+                gore: string;
+                tripadvisor: string;
+                marcaPeru: string;
+            };
+            interestList: {
+                irapay: string;
+                heliconia: string;
+                cumaceba: string;
+                pacaya: string;
+                tours: string;
+            };
+        };
+    };
+}
+const { i18n } = Astro.props;
+---
+<footer class="bg-gray-950 text-white py-12">
+    <div class="max-w-7xl mx-auto px-6 lg:px-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <!-- Contacto -->
+        <div>
+            <h2 class="text-xl font-bold">{i18n.footer.contactTitle}</h2>
+            <div class="mt-4 space-y-4 text-gray-300">
+                <p class="flex items-center gap-2">
+                    <i class="fa-solid fa-location-dot text-white"></i>
+                    {i18n.footer.logisticsOffice}
+                </p>
+                <p class="flex items-center gap-2">
+                    <i class="fa-solid fa-location-dot text-white"></i>
+                    {i18n.footer.commercialOffice}
+                </p>
+                <a href="tel:+51980852997" class="flex items-center gap-2 hover:text-orange-500">
+                    <i class="fa-solid fa-phone text-white"></i>
+                    +51 980 852 997
+                </a>
+                <a href="tel:+51993681884" class="flex items-center gap-2 hover:text-orange-500">
+                    <i class="fa-solid fa-phone text-white"></i>
+                    +51 993 681 884
+                </a>
+                <a href="mailto:pdtperuvian.info@gmail.com" class="flex items-center gap-2 hover:text-orange-500">
+                    <i class="fa-solid fa-envelope text-white"></i>
+                    pdtperuvian.info@gmail.com
+                </a>
+            </div>
+            <div class="flex gap-4 mt-4">
+                <a href="https://www.facebook.com/PdtPeruvianTravelEIRL" target="_blank" aria-label="Facebook" class="hover:text-orange-500"><i class="fa-brands fa-facebook fa-xl"></i></a>
+                <a href="https://www.instagram.com/pdtperuviantravel" target="_blank" aria-label="Instagram" class="hover:text-orange-500"><i class="fa-brands fa-instagram fa-xl"></i></a>
+                <a href="https://wa.link/dp0hui" target="_blank" aria-label="Whatsapp" class="hover:text-orange-500"><i class="fa-brands fa-whatsapp fa-xl"></i></a>
+                <a href="https://youtube.com/@pdtperuviantravel839" target="_blank" aria-label="YouTube" class="hover:text-orange-500"><i class="fa-brands fa-youtube fa-xl"></i></a>
+                <a href="https://www.tiktok.com/@pdt.peruvian.trav" target="_blank" aria-label="TikTok" class="hover:text-orange-500"><i class="fa-brands fa-tiktok fa-xl"></i></a>
+            </div>
+        </div>
+
+        <!-- Atractivos -->
+        <div>
+            <h3 class="text-xl font-bold">{i18n.footer.touristAttractions}</h3>
+            <div class="grid grid-cols-3 gap-2 mt-4">
+                {['cajamarca-4d-3n', 'cajamarca-6d-5n', 'cusco-inolvidable-4d', 'cusco-inolvidable-6d-5n', 'huancayo-5-dias', 'mancora-5-dias', 'perene-4-dias', 'perene-5-dias', 'tarapoto-5-dias'].map((img) => (
+                    <img src={`/${img}.png`} alt="Paquete turístico" class="w-full h-auto rounded-md" loading="lazy" />
+                ))}
+            </div>
+        </div>
+
+        <!-- Links relacionados -->
+        <div>
+            <h3 class="text-xl font-bold">{i18n.footer.relatedLinks}</h3>
+            <ul class="mt-4 space-y-2 text-gray-400">
+                <li><a href="https://www.gob.pe/mincetur" class="hover:text-orange-500" target="_blank">{i18n.footer.linkList.mincetur}</a></li>
+                <li><a href="https://www.ytuqueplanes.com/" class="hover:text-orange-500" target="_blank">{i18n.footer.linkList.ytuqueplanes}</a></li>
+                <li><a href="https://www.gob.pe/institucion/regionamazonas/funcionarios?sheet=2" class="hover:text-orange-500" target="_blank">{i18n.footer.linkList.gore}</a></li>
+                <li><a href="https://www.tripadvisor.com/" class="hover:text-orange-500" target="_blank">{i18n.footer.linkList.tripadvisor}</a></li>
+                <li><a href="https://peru.info/es-pe/" class="hover:text-orange-500" target="_blank">{i18n.footer.linkList.marcaPeru}</a></li>
+            </ul>
+        </div>
+
+        <!-- También te podría interesar -->
+        <div>
+            <h3 class="text-xl font-bold">{i18n.footer.mightInterestYou}</h3>
+            <ul class="mt-4 space-y-2 text-gray-400">
+                <li><a href="/paquetes/irapay-amazon" class="hover:text-orange-500">{i18n.footer.interestList.irapay}</a></li>
+                <li><a href="/paquetes/heliconia-lodge" class="hover:text-orange-500">{i18n.footer.interestList.heliconia}</a></li>
+                <li><a href="/paquetes/cumaceba-lodge" class="hover:text-orange-500">{i18n.footer.interestList.cumaceba}</a></li>
+                <li><a href="/paquetes/pacaya-samiria" class="hover:text-orange-500">{i18n.footer.interestList.pacaya}</a></li>
+                <li><a href="/paquetes/tours-diarios" class="hover:text-orange-500">{i18n.footer.interestList.tours}</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="border-t border-gray-700 mt-8"></div>
+
+    <div class="text-center py-4 text-gray-400 text-sm">
+        &copy; 2025 PDT Peruvian Travel - {i18n.footer.rights} | RUC: 20600601165.
+        <p>
+            {i18n.footer.designedBy} <a href="https://www.facebook.com/rubenestebantipiania" class="hover:text-white" target="_blank">Rubén Tipiani</a>
+        </p>
+    </div>
+</footer>

@@ -1,0 +1,107 @@
+{
+  "title": "Millenary Cusco 6D/5N",
+  "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Day 01: Travel to Cusco & City Tour",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Flight to Cusco." },
+        { "time": "--:-- hrs", "text": "Transfer to selected hotel." },
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "10:00 hrs", "text": "Acclimatization morning: visit the Cathedral, Cristo Blanco viewpoint, San Cristóbal viewpoint, Regocijo Square, San Francisco Square, and more." },
+        { "time": "13:30 hrs", "text": "Lunch." },
+        { "time": "14:30 hrs", "text": "Visit nearby archaeological sites:" },
+        { "time": "15:00 hrs", "text": "Sacsayhuamán: Inca ceremonial fortress." },
+        { "time": "16:00 hrs", "text": "Q'enqo: Ceremonial labyrinth with underground galleries." },
+        { "time": "17:00 hrs", "text": "Pukapukara: Inca military construction." },
+        { "time": "17:30 hrs", "text": "Tambomachay: Ritual water site and Inca resting place." },
+        { "time": "19:30 hrs", "text": "Arrival at hotel." },
+        { "time": "20:30 hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 02: Sacred Valley of the Incas",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Breakfast." },
+        { "time": "08:30 hrs", "text": "Pick-up and departure to the Sacred Valley." },
+        { "time": "10:30 hrs", "text": "Pisaq: Agricultural terraces, Intihuatana temple and modern town." },
+        { "time": "13:30 hrs", "text": "Urubamba: Buffet lunch. Then visit Maras Moray and Salt Mines." },
+        { "time": "15:00 hrs", "text": "Ollantaytambo: Inca fortress and religious/administrative buildings." },
+        { "time": "--:-- hrs", "text": "Chincheros: Textile town and colonial church. Return to hotel." }
+      ]
+    },
+    {
+      "day": "Day 03: Visit to the Wonder of the World \"Machu Picchu\"",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Breakfast or light snack." },
+        { "time": "--:-- hrs", "text": "Bus ride to Machu Picchu (30 min)." },
+        { "time": "09:00 hrs", "text": "2-hour guided tour in Machu Picchu. Free time to explore afterwards." },
+        { "time": "13:00 hrs", "text": "Lunch." },
+        { "time": "15:00 hrs", "text": "Visit to the Inca Hot Springs in Aguas Calientes." },
+        { "time": "19:00 hrs", "text": "Dinner." },
+        { "time": "--:-- hrs", "text": "Return train to Ollantaytambo and private transfer to Cusco." },
+        { "time": "--:-- hrs", "text": "Arrival and overnight in Cusco." }
+      ]
+    },
+    {
+      "day": "Day 04: Puno - Lake Titicaca \"Uros\" - Copacabana Bolivia",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "09:30 hrs", "text": "Boat tour to the Uros floating islands. Cultural exchange and games. Countryside lunch." },
+        { "time": "--:-- hrs", "text": "Visit to Copacabana (Bolivia): Basilica and sacred observatory of the Chiripa culture." },
+        { "time": "--:-- hrs", "text": "Travel to Arequipa." }
+      ]
+    },
+    {
+      "day": "Day 05: Arequipa - Chivay - City Tour",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Arrival in Arequipa, accommodation, breakfast." },
+        { "time": "--:-- hrs", "text": "Tour to Chivay - Condor Route. Lunch." },
+        { "time": "--:-- hrs", "text": "City tour in Arequipa: Main Square, Cathedral, Cloisters, Church of the Company, Santa Catalina Monastery." },
+        { "time": "--:-- hrs", "text": "Free afternoon to visit chocolatiers and local shops. Travel to Cusco." }
+      ]
+    },
+    {
+      "day": "Day 06: Free day in Cusco - Flight to Lima",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "09:30 hrs", "text": "Pick-up from hotel." },
+        { "time": "10:00 hrs", "text": "Visit to Pachacutec viewpoint." },
+        { "time": "11:00 hrs", "text": "Twelve-Angled Stone." },
+        { "time": "11:30 hrs", "text": "Sacred Temple of Cusco." },
+        { "time": "12:00 hrs", "text": "Souvenir shopping at artisanal markets." },
+        { "time": "--:-- hrs", "text": "Lunch." },
+        { "time": "--:-- hrs", "text": "Transfer to airport for return flight to Lima." }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "(All-inclusive system – One-time payment)",
+  "includes": [
+    "Pick-up and drop-off at school.",
+    "Round-trip flight Lima – Cusco – Lima.",
+    "Tourist transportation by private bus Cusco – Puno – Arequipa.",
+    "IN/OUT transfers.",
+    "04 nights accommodation in Cusco.",
+    "01 night of nighttime recreation.",
+    "06 breakfasts.",
+    "05 lunches.",
+    "01 buffet lunch.",
+    "05 dinners as detailed in the itinerary.",
+    "06 tour days (according to itinerary).",
+    "Group photographs during the trip.",
+    "Trip video.",
+    "PROMOTION BANNER.",
+    "Group party.",
+    "EXPEDITION TOURIST TRAIN.",
+    "Hot springs in Aguas Calientes.",
+    "Local tour guide.",
+    "01 agency staff member accompanying the group throughout the trip.",
+    "First aid staff.",
+    "Tours mentioned in the program, First aid kit.",
+    "Professional guidance and tourist entertainment.",
+    "Entrance tickets to all tourist sites.",
+    "Transport with SOAT insurance policy.",
+    "Permanent and personalized assistance."
+  ]
+}

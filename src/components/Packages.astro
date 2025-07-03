@@ -1,0 +1,38 @@
+---
+const { packagesSection } = Astro.props;
+interface Package {
+    title: string;
+    image: string;
+    link: string;
+}
+---
+<section class="bg-white my-14">
+    <div class="max-w-7xl mx-auto px-4">
+        <div class="mb-8 text-center">
+            <h3 class="text-4xl font-bold mb-4 text-gray-950">{packagesSection.title}</h3>
+            <p class="text-gray-950" set:html={packagesSection.description} />
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {packagesSection.packages.map((pkg: Package) => (
+                <div class="bg-gray-50 bg-opacity-65 rounded-md px-6 py-4">
+                    <img src={pkg.image} alt={pkg.title} class="object-cover rounded-lg w-full h-44" loading="lazy" />
+                    <div class="pt-8 pb-4">
+                        <a href={pkg.link} class="block text-xl text-gray-950 font-bold h-14 hover:text-orange-600 transition-colors">
+                            {pkg.title}
+                        </a>
+                    </div>
+                    <div class="border border-orange-600 my-4"></div>
+                    <a href={pkg.link} class="flex justify-between items-center group">
+                        <p class="text-gray-950 font-bold group-hover:text-orange-600 transition-colors">
+                            {packagesSection.consultText}
+                        </p>
+                        <span class="w-8 h-8 flex items-center justify-center bg-gray-950 rounded-full group-hover:bg-orange-600 transition-colors">
+                            <i class="fas fa-angle-right text-white"></i>
+                        </span>
+                    </a>
+                </div>
+            ))}
+        </div>
+    </div>
+</section>

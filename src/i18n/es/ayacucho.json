@@ -1,0 +1,13 @@
+{
+    "title": "Los mejores paquetes turísticos",
+    "description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel. Somos tu opción ideal para viajes en pareja, en familia o con amigos. Celebra tu luna de miel, cumpleaños o aniversario en los más exclusivos hoteles y lodges de la selva amazónica. Garantizamos experiencias inolvidables y un servicio de calidad excepcional.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Ayacucho",
+            "duration": "4D/3N",
+            "image": "/ayacucho-4-dias.png",
+            "link": "4-dias-3-noches"
+        }
+    ]
+}

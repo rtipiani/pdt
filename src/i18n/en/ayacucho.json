@@ -1,0 +1,13 @@
+{
+  "title": "The Best Tour Packages",
+  "description": "Discover the best tour packages with <strong>PDT Peruvian Travel</strong>. We are your ideal choice for trips as a couple, with family, or friends. Celebrate your honeymoon, birthday, or anniversary in the most exclusive hotels and lodges of the Amazon jungle. We guarantee unforgettable experiences and exceptional quality service.",
+  "consultNow": "Consult now",
+  "packages": [
+    {
+      "title": "Ayacucho",
+      "duration": "4D/3N",
+      "image": "/ayacucho-4-dias.png",
+      "link": "4-days-3-nights"
+    }
+  ]
+}

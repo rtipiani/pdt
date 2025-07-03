@@ -1,0 +1,82 @@
+{
+  "title": "Tarapoto - Chachapoyas - Mysterious Kuelap",
+  "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Day 01: Flight & Native City Tour Lamas",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Flight to Tarapoto." },
+        { "time": "09:00 hrs", "text": "Free morning to acclimatize, then we will begin the tour in Lamas, considered the folkloric capital of the Peruvian Amazon and the city of three natural levels, where nature, folklore, and culture intertwine. Visit to the native neighborhood, viewpoint, and handicrafts." },
+        { "time": "20:00 hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 02: Laguna Azul Tour",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "09:00 hrs", "text": "Departure to Laguna Azul, along the Fernando Belaunde Terry South highway to Puerto López, where we will cross the Huallaga River on a captive raft. Then we arrive at the majestic Laguna Azul (430.80 ha, approx. 35 m deep). Boat ride, visit Dos de Mayo village, swimming, jet ski and zipline (optional)." },
+        { "time": "19:00 hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 03: Ecotouristic Excursion to Santa Elena",
+      "activities": [
+        { "time": "06:00 hrs", "text": "Early departure to the Posic area." },
+        { "time": "08:00 hrs", "text": "Breakfast, hotel check-in." },
+        { "time": "09:00 hrs", "text": "Canoe tour to the wetlands and renaco forests of Santa Elena (Alto Mayo), sailing along the Romero River, landscape appreciation, observation of birds and primates. Overnight in Rioja." },
+        { "time": "14:00 hrs", "text": "Lunch at Yacumama resort and visit to Tioyacu recreational center." },
+        { "time": "16:00 hrs", "text": "Departure to Chachapoyas (4-hour trip)." },
+        { "time": "20:00 hrs", "text": "Dinner and overnight in Chachapoyas (3-star hotel)." }
+      ]
+    },
+    {
+      "day": "Day 04: Excursion to Kuelap",
+      "activities": [
+        { "time": "07:00 hrs", "text": "Breakfast." },
+        { "time": "08:00 hrs", "text": "Departure to Tingo to board the cable cars to the Kuelap archaeological complex. Visit the site museum, fortress, gateways, military areas, and ceremonial tinteros. Return to Chachapoyas. Overnight in 3-star hotel." }
+      ]
+    },
+    {
+      "day": "Day 05: Gocta Waterfall & Trip to Tarapoto",
+      "activities": [
+        { "time": "05:00 hrs", "text": "Departure." },
+        { "time": "06:00 hrs", "text": "Breakfast (to-go) and visit to Gocta waterfall, one of the tallest in the world. Observation of wildlife and plants." },
+        { "time": "13:00 hrs", "text": "Lunch." },
+        { "time": "14:00 hrs", "text": "Departure to Tarapoto, dinner and overnight stay." }
+      ]
+    },
+    {
+      "day": "Day 06: Tarapoto & Ahuashiyacu Waterfall Tour",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Breakfast." },
+        { "time": "--:45 hrs", "text": "Visit to Ahuashiyacu waterfall, located in the Amazon district of San Martín, 14 km from downtown. Enjoyment and free afternoon. Departure to airport." }
+      ]
+    }
+  ],
+  "includesTitle": "Our Program Includes",
+  "includesSubtitle": "(All-inclusive system – One-time payment)",
+  "includes": [
+    "Pick-up and drop-off at the school.",
+    "Flight Lima – Tarapoto – Lima.",
+    "Private tourist transportation.",
+    "IN/OUT transfers.",
+    "03 nights at Corporate Hotel with pool 3***.",
+    "02 nights at Colonial Hotel in Chachapoyas 3***.",
+    "01 night of evening entertainment.",
+    "06 breakfasts.",
+    "06 lunches.",
+    "05 dinners as outlined in the itinerary.",
+    "06 days of tours (as per itinerary).",
+    "Group photos throughout the trip.",
+    "Trip video.",
+    "Group party.",
+    "Group banner.",
+    "Official tour guide.",
+    "01 agency staff member accompanying the group for full assistance.",
+    "Tours mentioned in the program, first aid kit.",
+    "Professional guiding and tourist entertainment.",
+    "Entrance tickets to all tourist sites.",
+    "Transport with SOAT insurance policy.",
+    "Permanent and personalized assistance."
+  ]
+}

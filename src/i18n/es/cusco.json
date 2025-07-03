@@ -1,0 +1,31 @@
+{
+    "title": "Cusco Inolvidable",
+    "description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel en la mágica ciudad del Cusco...",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Cusco Inolvidable VIP",
+            "duration": "4D/3N",
+            "image": "/cusco-inolvidable-4d.png",
+            "link": "4-dias-3-noches"
+        },
+        {
+            "title": "Cusco Inolvidable VIP",
+            "duration": "5D/4N SURHUME",
+            "image": "/cusco-inolvidable-5d.png",
+            "link": "5-dias-4-noches-surhume"
+        },
+        {
+            "title": "Cusco Inolvidable VIP",
+            "duration": "5D/4N",
+            "image": "/cusco-inolvidable-5d-4n.png",
+            "link": "5-dias-4-noches"
+        },
+        {
+            "title": "Cusco Inolvidable VIP",
+            "duration": "6D/5N",
+            "image": "/cusco-inolvidable-6d-5n.png",
+            "link": "6-dias-5-noches"
+        }
+    ]
+}

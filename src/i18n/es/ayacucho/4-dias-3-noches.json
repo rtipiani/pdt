@@ -1,0 +1,106 @@
+{
+  	"title": "Ayacucho Mágico 4D/3N",
+  	"certificate": "",
+  	"itinerary": [
+    	{
+      		"day": "Día 01: City Tour - Huamanga Señorial",
+      		"activities": [
+        		{ "time": "15:30 hrs", "text": "Plaza Mayor, casonas coloniales (Castilla y Zamora, Boza y Solís, Velarde Álvarez)." },
+        		{ "time": "16:00 hrs", "text": "Templo de Santo Domingo." },
+        		{ "time": "16:20 hrs", "text": "Museo Hipólito Unánue." },
+        		{ "time": "16:40 hrs", "text": "Barrio de Santa Ana y visita a talleres artesanales (textil y tallado en piedra de Huamanga)." },
+        		{ "time": "17:00 hrs", "text": "Monasterio de Santa Teresa de las Carmelitas Descalzas." },
+        		{ "time": "17:30 hrs", "text": "Mirador del Cerro Acuchimay." },
+        		{ "time": "18:00 hrs", "text": "Alameda Valdelirios (Arco del Triunfo)." },
+        		{ "time": "18:30 hrs", "text": "Basílica Catedral de Ayacucho." }
+      		]
+    	},
+		{
+			"day": "Día 02: Circuito de Templos Coloniales",
+			"activities": [
+				{ "time": "15:30 hrs", "text": "Basílica Catedral de Ayacucho (Retablos, museo, arquitectura, cripta y mirador)." },
+				{ "time": "16:00 hrs", "text": "Templo de Santo Domingo (Retablos, museo, arquitectura y mirador)." },
+				{ "time": "16:30 hrs", "text": "Templo San Francisco de Paula (Retablos, arquitectura, coro alto y mirador)." },
+				{ "time": "17:00 hrs", "text": "Templo Compañía de Jesús (Retablos, arquitectura, sala de exposición)." }
+			]
+		},
+		{
+			"day": "Día 03 AM: Wari – Quinua – Pampa de Ayacucho",
+			"activities": [
+				{ "time": "09:30 hrs", "text": "Visita al Complejo Arqueológico de Wari, capital del primer imperio andino." },
+				{ "time": "11:30 hrs", "text": "Recorrido por el pueblo artesanal de Quinua, talleres de alfarería y mercado artesanal." },
+				{ "time": "13:30 hrs", "text": "Visita al Santuario Histórico de la Pampa de Ayacucho y al Obelisco de 44 metros de altura." }
+			]
+		},
+		{
+			"day": "Día 03 PM: Cueva de Pikimachay – Huanta",
+			"activities": [
+				{ "time": "15:00 hrs", "text": "Cueva de Pikimachay, refugio del hombre de Pacaycasa (18–20 mil años a.C.)." },
+				{ "time": "16:00 hrs", "text": "Puente Colonial de Ayahuarcuna y mirador de las Cruces." },
+				{ "time": "17:00 hrs", "text": "City tour en Huanta: Plaza Mayor, Iglesia Matriz, Templo Corazón de Jesús, Obispo de Piedra." },
+				{ "time": "18:00 hrs", "text": "Visita a centros apícolas: degustación de miel, mermeladas y tragos típicos." },
+				{ "time": "18:30 hrs", "text": "Visita a la Cascada de Occochaca." }
+			]
+		},
+		{
+			"day": "Día 04 AM: Ciudad Inca de Vilcashuamán – Intihuatana",
+			"activities": [
+				{ "time": "08:00 hrs", "text": "Visita al rodal de puyas de Raimondi en la comunidad de Manallasacc." },
+				{ "time": "10:00 hrs", "text": "Exploración del complejo arqueológico de Intihuatana: Laguna Pomaccocha, Portada del Sol, Baños del Inca, Acllawasi y Palacio del Inca." },
+				{ "time": "12:30 hrs", "text": "Ciudad arqueológica de Vilcashuamán: Plaza Pachacútec, Templo del Sol y la Luna, pirámide Inca Ushno." }
+			]
+		},
+		{
+			"day": "Día 04 PM: Ruta de Cataratas – Cangallo",
+			"activities": [
+				{ "time": "14:00 hrs", "text": "Caminata de 20 minutos hacia Citrate de Pumapaqcha." },
+				{ "time": "15:00 hrs", "text": "Trekking de 2 horas para visitar cataratas Batan y Qorimaqma, cruzando túneles comunitarios." },
+				{ "time": "17:00 hrs", "text": "Chapuzón en Wawapuquio (piscina de aguas gasificadas)." },
+				{ "time": "18:00 hrs", "text": "City tour en Cangallo: plaza principal." }
+			]
+		}
+  	],
+	"includesTitle": "El Programa Incluye",
+	"includesSubtitle": "(Válido todo el año – Temporada baja)",
+	"includes": [
+		"Vuelo o bus Lima – Ayacucho – Lima.",
+		"Recepción y traslado: aeropuerto / alojamiento / aeropuerto.",
+		"Transporte para los tours programados.",
+		"Guía especializado en español.",
+		"04 excursiones según itinerario.",
+		"03 noches de alojamiento.",
+		"04 desayunos.",
+		"Asesoramiento de viaje.",
+		"Asistencia permanente y personalizada.",
+		"Equipo de primeros auxilios.",
+		"Movilidad con seguro SOAT.",
+		"Incluye todos los impuestos de ley."
+	],
+	"notIncluded": [
+		"Almuerzos y cenas.",
+		"Entradas a los atractivos turísticos.",
+		"Gastos extras o personales."
+	],
+	"conditions": [
+		"Tarifas válidas solo para temporada baja.",
+		"Tarifa no reembolsable, postergable hasta 4 meses (excepto feriados largos).",
+		"Reserva confirmada con 50% de pago. El saldo se paga 1 día antes del viaje.",
+		"Ingreso a la habitación: 13:00 hrs.",
+		"Salida de la habitación: 12:00 hrs.",
+		"Consultar tarifa por noche adicional según alojamiento.",
+		"Mínimo 2 personas por reserva.",
+		"Niños de 3 a 5 años: 15% de descuento.",
+		"Desde 5 años pagan tarifa completa.",
+		"Itinerario sujeto a cambios por clima o huelgas sin previo aviso."
+	],
+	"recommendations": [
+		"Ropa ligera.",
+		"Lentes de sol.",
+		"Gorra o sombrero.",
+		"Zapatillas cómodas.",
+		"Linterna.",
+		"Cámara fotográfica o filmadora.",
+		"Repelente y bloqueador solar.",
+		"Documentos personales."
+	]
+}

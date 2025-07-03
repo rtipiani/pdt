@@ -1,0 +1,27 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import cuscoData from '../../../i18n/en/cusco.json';
+import PackageCard from '../../../components/PackageCard.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+---
+<Layout>
+    <Breadcrumb image="/bc-cusco.png" title="Cusco" alt="Imagen de Cusco" lang="en"/>
+    <section class="bg-white my-14">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="mb-8 text-center">
+                <h3 class="text-4xl font-bold mb-4 text-gray-950">
+                    {cuscoData.title}
+                </h3>
+                <p class="text-gray-950">
+                    {cuscoData.description}
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {cuscoData.packages.map((pkg) => (
+                    <PackageCard title={pkg.title} duration={pkg.duration} image={pkg.image} link={pkg.link} i18n={{ consultNow: cuscoData.consultNow }} />
+                ))}
+            </div>
+        </div>
+    </section>
+</Layout>

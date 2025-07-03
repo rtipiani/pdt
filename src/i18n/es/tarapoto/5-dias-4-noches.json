@@ -1,0 +1,73 @@
+{
+  "title": "Tarapoto Misterioso 5D/4N",
+  "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Día 01: Vuelo & City Tour Nativo Lamas",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Vuelo a Tarapoto." },
+        { "time": "09:00 hrs", "text": "Legada al hotel e instalarnos, Mañana libre para aclimatarnos." },
+        { "time": "13:00 hrs", "text": "Almuerzo." },
+        { "time": "14:00 hrs", "text": "Luego Iniciaremos el tour en Lamas considerada la capital folclórica de la amazonia peruana y la ciudad de los tres pisos naturales, en donde se entrelazan la naturaleza, el folklore y la cultura, un lugar ideal para sus vacaciones (barrio nativo, mirador y artesanías)." },
+        { "time": "20:00 hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 02: Tour Laguna Azul",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Desayuno." },
+        { "time": "09:00 hrs", "text": "Partida a la Laguna Azul. Conociendo la carretera Fernando Belaúnde Terry Sur hasta Puerto López donde cruzaremos el río Huallaga en una Balsa cautiva, luego llegamos a la majestuosa Laguna Azul la cual alcanza una extensión de 430.80 hectáreas y una profundidad aproximada de 35 metros. La laguna es hábitat de una gran variedad, peces de aves y flora nuestra excursión consiste en embarcarnos en un bote a motor por la laguna, el caserío Dos de Mayo, podremos bañarnos y relajarnos a gusto, disfrutaremos de paseo en moto acuática y practica de canopi (opc)." },
+        { "time": "19:00 hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 03: Tours Alto Mayo - Rioja & Moyobamba",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Ubicado al norte de Tarapoto, conformada el tour por dos ciudades Moyobamba y rioja. Visitaremos visita a un orquidiario, baños termales de san mateo." },
+        { "time": "13:00 hrs", "text": "Almuerzo tipico." },
+        { "time": "14:00 hrs", "text": "Visita al naciente rio Tioyacu, aventura en un parque temático del lugar, cuevas y terminaremos con un refrescante chapuzon en las aguas cristalinas." },
+        { "time": "19:00 hrs", "text": "Llegada al hotel y cena." }
+      ]
+    },
+    {
+      "day": "Día 04: Tour Catarata Carpishuyacu - Miradores",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Desayuno y salida a La catarata de Carpishuyacu es una de las cascadas mas bonitas y exóticas de toda el area de Tarapoto. Se compone de dos caídas de agua que bajan de forma escalonada hasta un recodo donde la corriente se estanca y forma una piscina natural de intenso color verde. La poza tiene una profundidad de seis metros en la parte mas honda por lo que es necesario saber nadar para adentrarse en ella. Para llegar a la catarata se realizan unos asequibles 45 minutos de caminata y en la ultima parte además se encuentran unos baños termales al aire libre que permiten relajarse y descansar antes de reemprender el viaje. Cabe destacar que el sendero por el que transcurre el paseo es un poco complicado. En algunos tramos hay que salvar algunos desniveles con escaleras y cruzar un río en una pequeña balsa." },
+        { "time": "13:30 hrs", "text": "Almuerzo típico y salida para tarapoto." },
+        { "time": "19:00 hrs", "text": "Llegada al hotel y cena." }
+      ]
+    },
+    {
+      "day": "Día 05: Tarapoto & Tours Catarata Ahuashiyacu",
+      "activities": [
+        { "time": "09:00 hrs", "text": "Desayuno." },
+        { "time": "12:45 hrs", "text": "Almuerzo, Visita a la catarata de ahuashiyacu es una caída de agua situada en el distrito amazónico del departamento de San Martin. Se encuentra a una distancia de 14 km desde el centro de la ciudad más próxima, diversión dentro de la catarata y tarde libre. A la hora adecuada salida al aeropuerto." }
+      ]
+    }
+  ],
+  "includesTitle": "Nuestro Sistema Incluye",
+  "includesSubtitle": "(Sistema todo incluido – Pago único)",
+  "includes": [
+    "Recojo y llegada en el colegio.",
+    "Vuelo Lima – Tarapoto – Lima.",
+    "Transporte Turístico privado.",
+    "Traslados IN/OUT.",
+    "04 Noches de Hotel CasaBosque con piscina 3*** / Similar.",
+    "01 noche de recreación nocturna.",
+    "04 desayunos.",
+    "05 almuerzos.",
+    "04 cenas con forme detalla el programa.",
+    "04 días de tours (según itinerario).",
+    "Fotografías del grupo durante todo el viaje.",
+    "Video del grupo.",
+    "Fiesta para el grupo.",
+    "BANDEROLA PARA EL GRUPO.",
+    "Guía oficial de turismo.",
+    "01 personal de la agencia que realiza el viaje completo con la promoción para dar seguridad en cumplimiento del tour.",
+    "Tour mencionado en el programa, Botiquín de primeros auxilios.",
+    "Guiado Profesional y entretenimiento turístico.",
+    "Boleto de ingreso a todos los lugares turísticos.",
+    "Movilidad con Póliza de seguro SOAT.",
+    "Asistencia permanente y personalizada."
+  ]
+}

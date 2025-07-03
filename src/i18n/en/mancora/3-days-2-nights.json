@@ -1,0 +1,49 @@
+{
+    "title": "Mancora: 3 Days / 2 Nights",
+    "description": "Enjoy a relaxing getaway to the beautiful beaches of Mancora with this 3-day, 2-night package.",
+    "itinerary": [
+        {
+            "day": 1,
+            "title": "Arrival in Mancora",
+            "activities": [
+                "Transfer from the airport or bus station to the hotel.",
+                "Check-in and free time to explore the beach.",
+                "Overnight at selected hotel."
+            ]
+        },
+        {
+            "day": 2,
+            "title": "Beach Day & Optional Activities",
+            "activities": [
+                "Breakfast at the hotel.",
+                "Free day to enjoy the beach or optional activities (surfing, whale watching, etc.).",
+                "Overnight at selected hotel."
+            ]
+        },
+        {
+            "day": 3,
+            "title": "Departure",
+            "activities": [
+                "Breakfast at the hotel.",
+                "Check-out and transfer to the airport or bus station."
+            ]
+        }
+    ],
+    "includes": [
+        "2 nights accommodation in Mancora.",
+        "Daily breakfast.",
+        "Transfers in/out.",
+        "Personalized assistance."
+    ],
+    "not_included": [
+        "Flights or bus tickets to/from Mancora.",
+        "Meals not specified.",
+        "Optional activities.",
+        "Personal expenses."
+    ],
+    "recommendations": [
+        "Bring sunscreen and swimwear.",
+        "Carry light clothing and a hat.",
+        "Don't forget your camera."
+    ]
+}

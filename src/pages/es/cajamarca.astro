@@ -1,0 +1,11 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import CajamarcaTour from '../../components/CajamarcaTour.astro';
+import es from '../../i18n/es.json';
+const i18n = es;
+---
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-cajamarca.png" title="Cajamarca" alt="Imagen de Cajamarca" lang="es"/>
+    <CajamarcaTour t={es.cajamarcaTour} />
+</Layout>

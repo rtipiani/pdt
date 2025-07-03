@@ -1,0 +1,25 @@
+{
+    "title": "Tarapoto - Chachapoyas - Kuelap - Misterioso",
+    "description": "Sumérgete en la belleza de la selva peruana visitando cataratas como Ahuashiyacu, el Lago Lindo, el Castillo de Lamas y otros destinos naturales y culturales. Ya sea en pareja, familia o con amigos, te brindamos itinerarios exclusivos, alojamiento de calidad y una atención personalizada que harán de tu viaje una experiencia realmente inolvidable.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Tarapoto Kuélap Místico",
+            "duration": "6D/5N",
+            "image": "/kuelap-6-dias.png",
+            "link": "6-dias-5-noches"
+        },
+        {
+            "title": "Tarapoto VIP",
+            "duration": "4D/3N",
+            "image": "/kuelap-6-d.png",
+            "link": "4-dias-3-noches"
+        },
+        {
+            "title": "Tarapoto VIP",
+            "duration": "5D/4N",
+            "image": "/kuelap-5-dias.png",
+            "link": "5-dias-4-noches"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Tarapoto - Chachapoyas - Kuelap Misterioso",
+  "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Día 01: Vuelo & City Tour Nativo Lamas",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Vuelo a Tarapoto." },
+        { "time": "09:00 hrs", "text": "Mañana libre para aclimatarnos y luego iniciaremos el tour en Lamas considerada la capital folclórica de la amazonia peruana y la ciudad de los tres pisos naturales, en donde se entrelazan la naturaleza, el folklore y la cultura, un lugar ideal para sus vacaciones (barrio nativo, mirador y artesanías)." },
+        { "time": "20:00 hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 02: Tour Laguna Azul",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Desayuno." },
+        { "time": "09:00 hrs", "text": "Partida a la Laguna Azul conociendo la carretera Fernando Belaúnde Terry Sur hasta Puerto López donde cruzaremos el río Huallaga en una balsa cautiva. Luego llegamos a la majestuosa Laguna Azul de 430.80 hectáreas y una profundidad aproximada de 35 metros. Paseo en bote, caserío Dos de Mayo, baño, paseo en moto acuática y canopi (opc)." },
+        { "time": "19:00 hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 03: Excursión Ecoturística a Santa Elena",
+      "activities": [
+        { "time": "06:00 hrs", "text": "A primera hora iniciamos nuestro recorrido de naturaleza viva dirigiéndonos a la localidad de Posic." },
+        { "time": "08:00 hrs", "text": "Desayuno, acomodación en hotel." },
+        { "time": "09:00 hrs", "text": "Excursión en canoa a los humedales y renacales de Santa Elena del Alto Mayo, navegación por el río Romero, observación de aves y primates. Pernocte en Rioja." },
+        { "time": "14:00 hrs", "text": "Almuerzo en Yacumama y visita al centro recreacional de Tioyacu." },
+        { "time": "16:00 hrs", "text": "Partida a Chachapoyas (4 horas de viaje)." },
+        { "time": "20:00 hrs", "text": "Cena y pernocte en Chachapoyas (hotel 3 estrellas)." }
+      ]
+    },
+    {
+      "day": "Día 04: Excursión a Kuelap",
+      "activities": [
+        { "time": "07:00 hrs", "text": "Desayuno." },
+        { "time": "08:00 hrs", "text": "Nos dirigimos a Tingo, abordamos las telecabinas para visitar el monumento arqueológico de Kuelap, museo de sitio, pórticos, tinteros. Retorno a Chachapoyas. Pernocte en hotel 3 estrellas." }
+      ]
+    },
+    {
+      "day": "Día 05: Catarata Gocta y Viaje a Tarapoto & Hotel",
+      "activities": [
+        { "time": "05:00 hrs", "text": "Partida." },
+        { "time": "06:00 hrs", "text": "Desayuno (para llevar) y visita a la catarata Gocta, avistamiento de flora y fauna silvestre." },
+        { "time": "13:00 hrs", "text": "Almuerzo." },
+        { "time": "14:00 hrs", "text": "Partida a Tarapoto, cena y pernocte." }
+      ]
+    },
+    {
+      "day": "Día 06: Tarapoto & Tour Catarata Ahuashiyacu",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Desayuno." },
+        { "time": "--:45 hrs", "text": "Visita a la catarata de Ahuashiyacu. Diversión y tarde libre. Salida al aeropuerto." }
+      ]
+    }
+  ],
+  "includesTitle": "Nuestro Sistema Incluye",
+  "includesSubtitle": "(Sistema todo incluido – Pago único)",
+  "includes": [
+    "Recojo y llegada en el colegio.",
+    "Vuelo Lima – Tarapoto – Lima.",
+    "Transporte Turístico privado.",
+    "Traslados IN/OUT.",
+    "03 Noches de Hotel Corporativo con piscina 3***.",
+    "02 Noches en Chachapoyas Hotel Colonial 3***.",
+    "01 noche de recreación nocturna.",
+    "06 desayunos.",
+    "06 almuerzos.",
+    "05 cenas con forme detalla el programa.",
+    "06 días de tours (según itinerario).",
+    "Fotografías del grupo durante todo el viaje.",
+    "Video de viaje.",
+    "Fiesta para el grupo.",
+    "BANDEROLA PARA EL GRUPO.",
+    "Guía oficial de turismo.",
+    "01 personal de la agencia que realiza el viaje completo con la promoción para dar seguridad en cumplimiento del tour.",
+    "Tour mencionado en el programa, Botiquín de primeros auxilios.",
+    "Guiado Profesional y entretenimiento turístico.",
+    "Boleto de ingreso a todos los lugares turísticos.",
+    "Movilidad con Póliza de seguro SOAT.",
+    "Asistencia permanente y personalizada."
+  ]
+}

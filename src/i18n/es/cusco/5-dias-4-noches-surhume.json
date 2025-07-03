@@ -1,0 +1,99 @@
+{
+  "title": "Cusco Milenario 5D/4N SURHUME",
+  "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Día 01: Viaje a Cusco & City Tour",
+      "activities": [
+        { "time": "--:-- hrs", "text": "Salida con destino a Cusco en avión." },
+        { "time": "--:-- hrs", "text": "Traslado al hotel elegido." },
+        { "time": "08:30 hrs", "text": "Desayuno." },
+        { "time": "10:00 hrs", "text": "Mañana de climatización, cusqueño donde podremos visitar la forma del Cusco en Puma donde recorreremos la catedral, mirador cristo blanco, mirador san Cristóbal, plaza regocijo, plaza san Francisco y muchos más." },
+        { "time": "13:30 hrs", "text": "Almuerzo." },
+        { "time": "14:30 hrs", "text": "Luego visitaremos los restos arqueológicos que se encuentran aledaños a la ciudad de Cusco los cuales son:" },
+        { "time": "15:00 hrs", "text": "<strong>Sacsayhuamán</strong>: Fortaleza ceremonial inca." },
+        { "time": "16:00 hrs", "text": "<strong>Q'enqo</strong>: laberinto arqueológico dedicado al rito y son de particular interés su anfiteatro de forma semicircular y sus galerías subterráneas." },
+        { "time": "17:00 hrs", "text": "<strong>Pukapukara</strong>: Construcción militar inca." },
+        { "time": "17:30 hrs", "text": "<strong>Tambomachay</strong>: sitio arqueológico que fuera destinado para el culto al agua y para que el potentado del Imperio incaico pudiese descansar." },
+        { "time": "19:30 hrs", "text": "Llegada al hotel." },
+        { "time": "20:30 hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 02: Valle Sagrado de los Incas - Maras Moray y Saline",
+      "activities": [
+        { "time": "08:00 hrs", "text": "Desayuno." },
+        { "time": "08:30 hrs", "text": "Recojo en el Hotel, Luego iniciaremos nuestra excursión al Valle Sagrado de los Incas..." },
+        { "time": "10:30 hrs", "text": "<strong>Pisaq</strong>: Impresionante construcción edificada en el periodo del auge del imperio Incaico..." },
+        { "time": "13:30 hrs", "text": "<strong>Urubamba</strong>: Tendremos un delicioso almuerzo Buffet... Luego nos dirigiremos al pueblo de: Maras Moray y salineras." },
+        { "time": "15:00 hrs", "text": "<strong>Ollantaytambo</strong>: Visitaremos la hermosa fortaleza... También construcciones de tipo religioso y administrativos." },
+        { "time": "--:-- hrs", "text": "Finalmente, visitaremos <strong>Chincheros</strong>: un hermoso distrito de textiles y catedral. Posteriormente, llegada al hotel y pernocte." }
+      ]
+    },
+    {
+      "day": "Día 03: Visita a la Maravilla del Mundo 'Machu Picchu'",
+      "activities": [
+        { "time": "04:00 hrs", "text": "Salida a Olaytaytambo." },
+        { "time": "06:00 hrs", "text": "Luego abordaremos el tren, haremos un viaje de 2.30 Hrs Aprox..." },
+        { "time": "09:00 hrs", "text": "Desayuno y a la hora adecuada abordaremos el bus hacia la ciudadela de Machu Picchu..." },
+        { "time": "13:00 hrs", "text": "Almuerzo." },
+        { "time": "15:00 hrs", "text": "Visita a los Baños Termales del Inca para relajarse." },
+        { "time": "19:00 hrs", "text": "Cena." },
+        { "time": "21:30 hrs", "text": "Luego tomaremos el tren de retorno a Ollantaytambo..." },
+        { "time": "--:-- hrs", "text": "Llegada a Cusco y pernocte en el hotel." }
+      ]
+    },
+    {
+      "day": "Día 04: Cusco - Tours Valle Sur y Humedales de Huasao",
+      "activities": [
+        { "time": "05:30 hrs", "text": "Desayuno." },
+        { "time": "08:00 hrs", "text": "Recojo en el Hotel." },
+        { "time": "--:-- hrs", "text": "Visita a Tipón, centro ceremonial Inca..." },
+        { "time": "--:-- hrs", "text": "Visita a los humedales de Huasao..." },
+        { "time": "--:-- hrs", "text": "Visita al complejo Arqueológico de Pikillacta..." },
+        { "time": "--:-- hrs", "text": "Visita a la Iglesia de Andahuaylillas, 'La Sixtina de América'." }
+      ]
+    },
+    {
+      "day": "Día 05: Cusco día de paseo y libre - Vuelo a Lima",
+      "activities": [
+        { "time": "08:30 hrs", "text": "Desayuno." },
+        { "time": "09:30 hrs", "text": "Recojo en el hotel." },
+        { "time": "10:00 hrs", "text": "Mirador de Pachacutec." },
+        { "time": "11:00 hrs", "text": "Piedra de 12 ángulos, Mirador San Cristobal, Calle 7 Borreguitos, Acueducto de Sapantiana, Plaza San Blas." },
+        { "time": "13:30 hrs", "text": "Almuerzo." },
+        { "time": "15:00 hrs", "text": "Compras en mercados artesanales como Mercado San Pedro." },
+        { "time": "--:-- hrs", "text": "A la hora adecuada retorno al lugar de origen." }
+      ]
+    }
+  ],
+  "includesTitle": "Nuestro Sistema Incluye",
+  "includesSubtitle": "(Sistema todo incluido – Pago único)",
+  "includes": [
+    "Recojo y llegada en el colegio.",
+    "Vuelo Lima – Cusco – Lima. (Mochila de viaje de 11 Kg.)",
+    "Transporte Turístico en bus privado Cusco.",
+    "Traslados IN/OUT.",
+    "04 Noches de alojamiento en Cusco.",
+    "01 Noche de recreación nocturna.",
+    "05 Desayunos.",
+    "03 Almuerzos.",
+    "02 Almuerzos buffet.",
+    "04 Cenas conforme detalla el programa.",
+    "05 Días de tours (según itinerario).",
+    "Fotografías del grupo durante todo el viaje.",
+    "Video del viaje.",
+    "BANDEROLA PARA LA PROMOCIÓN.",
+    "Fiesta para el grupo.",
+    "TREN TURÍSTICO EXPEDITION.",
+    "Baños termales de aguas calientes.",
+    "Guía local de turismo.",
+    "01 personal de la agencia que realiza el viaje completo con la promoción para dar seguridad en cumplimiento del tour.",
+    "Personal de primeros auxilios.",
+    "Tour mencionado en el programa, Botiquín de primeros auxilios.",
+    "Guiado Profesional y entretenimiento turístico.",
+    "Boleto de ingreso a todos los lugares turísticos.",
+    "Movilidad con Póliza de seguro SOAT.",
+    "Asistencia permanente y personalizada."
+  ]
+}

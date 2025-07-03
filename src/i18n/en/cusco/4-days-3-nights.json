@@ -1,0 +1,88 @@
+{
+    "title": "Millenary Cusco 4D/3N",
+    "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "itinerary": [
+        {
+        "day": "Day 01: Travel to Cusco & City Tour.",
+        "activities": [
+            { "time": "--:-- hrs", "text": "Flight to Cusco." },
+            { "time": "--:-- hrs", "text": "Transfer to the selected hotel." },
+            { "time": "08:30 hrs", "text": "Breakfast." },
+            { "time": "10:00 hrs", "text": "Acclimatization morning. We will visit landmarks such as the Cathedral, Cristo Blanco Viewpoint, Regocijo Square, San Francisco, and more." },
+            { "time": "13:30 hrs", "text": "Lunch." },
+            { "time": "14:30 hrs", "text": "Visit to the archaeological sites near the city of Cusco:" },
+            { "time": "15:00 hrs", "text": "Sacsayhuamán: Inca ceremonial fortress." },
+            { "time": "16:00 hrs", "text": "Q'enqo: Ceremonial labyrinth with underground galleries." },
+            { "time": "17:00 hrs", "text": "Pukapukara: Inca military construction." },
+            { "time": "17:30 hrs", "text": "Tambomachay: Ritual water center and imperial rest site." },
+            { "time": "19:30 hrs", "text": "Arrival at the hotel." },
+            { "time": "20:00 hrs", "text": "Dinner." }
+        ]
+        },
+        {
+        "day": "Day 02: Sacred Valley of the Incas.",
+        "activities": [
+            { "time": "08:00 hrs", "text": "Breakfast." },
+            { "time": "08:30 hrs", "text": "Hotel pick-up. We will begin our tour to the Sacred Valley of the Incas, visiting its best architectural remains." },
+            { "time": "10:30 hrs", "text": "Pisaq: Impressive Inca construction. We'll see agricultural terraces, the Intihuatana temple, and visit the modern town of Pisaq, inhabited by Inca descendants." },
+            { "time": "13:30 hrs", "text": "Urubamba: Buffet lunch at one of the best restaurants. Then we will head to the town of:" },
+            { "time": "15:00 hrs", "text": "Ollantaytambo: Visit the fortress with its symmetrical terraces and 15th-century religious and administrative buildings." },
+            { "time": "--:-- hrs", "text": "Finally, we will visit Chincheros: a beautiful district known for its textiles and cathedral. Then, return to the hotel and overnight stay." }
+        ]
+        },
+        {
+        "day": "Day 03: Visit to the World Wonder \"Machu Picchu\".",
+        "activities": [
+            { "time": "--:-- hrs", "text": "Breakfast or snack." },
+            { "time": "--:-- hrs", "text": "We will take the bus to the Machu Picchu citadel. The trip takes approximately 30 minutes." },
+            { "time": "09:00 hrs", "text": "2-hour guided tour of Machu Picchu, visiting landmarks like the Temple of the Three Windows, the Sun Clock, and more. Free time afterwards." },
+            { "time": "13:00 hrs", "text": "Lunch." },
+            { "time": "15:00 hrs", "text": "Visit to the Inca Hot Springs for relaxation." },
+            { "time": "19:00 hrs", "text": "Dinner." },
+            { "time": "--:-- hrs", "text": "Return by train to Ollantaytambo. Then private transfer to the city of Cusco." },
+            { "time": "--:-- hrs", "text": "Arrival in Cusco and overnight stay at the hotel." }
+        ]
+        },
+        {
+        "day": "Day 04: Free Day in Cusco - Flight to Lima.",
+        "activities": [
+            { "time": "08:30 hrs", "text": "Breakfast." },
+            { "time": "09:30 hrs", "text": "Hotel pick-up." },
+            { "time": "10:00 hrs", "text": "Pachacutec Viewpoint." },
+            { "time": "11:00 hrs", "text": "12-Angled Stone." },
+            { "time": "11:30 hrs", "text": "Sacred Temple of Cusco." },
+            { "time": "12:00 hrs", "text": "Souvenir shopping at artisan markets." },
+            { "time": "--:-- hrs", "text": "Lunch." },
+            { "time": "--:-- hrs", "text": "Transfer to the airport and return flight to Lima." }
+        ]
+        }
+    ],
+    "includesTitle": "Our Program Includes",
+    "includesSubtitle": "(All-inclusive system – One-time payment)",
+    "includes": [
+        "Pick-up and arrival at the school.",
+        "Tourist transport in private bus in Cusco.",
+        "IN/OUT transfers.",
+        "03 nights of accommodation in Cusco.",
+        "01 night of nighttime recreation.",
+        "04 breakfasts.",
+        "03 lunches.",
+        "01 buffet lunch.",
+        "03 dinners as detailed in the program.",
+        "04 tour days (according to itinerary).",
+        "Group photos throughout the trip.",
+        "Trip video.",
+        "BANNER FOR THE GROUP.",
+        "Party for the group.",
+        "EXPEDITION TOURIST TRAIN.",
+        "Hot springs of Aguas Calientes.",
+        "Local tour guide.",
+        "01 agency staff member accompanying the group for safety and coordination.",
+        "First aid personnel.",
+        "Mentioned tours in the program, first aid kit.",
+        "Professional guide and tourist entertainment.",
+        "Admission tickets to all tourist sites.",
+        "Transportation with SOAT insurance policy.",
+        "Permanent and personalized assistance."
+    ]
+}

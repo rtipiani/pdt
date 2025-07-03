@@ -1,0 +1,212 @@
+{
+	"menu": {
+		"inicio": "Inicio",
+		"cajamarca": "Cajamarca",
+		"ayacucho": "Ayacucho",
+		"cusco": "Cusco",
+		"tarapoto": "Tarapoto",
+		"mancora": "Máncora",
+		"selva-central": "Selva Central",
+		"iquitos": "Iquitos",
+		"arequipa": "Arequipa",
+		"puno": "Puno"
+	},
+    "slides": [
+        { "title": "MACHU PICCHU - CUSCO", "buttonText": "Consultar Ahora" },
+    	{ "title": "VILLA RICA - OXAPAMPA", "buttonText": "Consultar Ahora" },
+    	{ "title": "SAN CRISTOBAL - TARMA", "buttonText": "Consultar Ahora" }
+  	],
+  	"packagesSection": {
+    	"title": "Los mejores paquetes turísticos",
+    	"description": "Descubre los mejores paquetes turísticos con <strong>PDT Peruvian Travel</strong>. Somos tu opción ideal para viajes en pareja, en familia o con amigos. Celebra tu luna de miel, cumpleaños o aniversario en los más exclusivos hoteles y lodges de la selva amazónica. Garantizamos experiencias inolvidables y un servicio de calidad excepcional.",
+    	"consultText": "Consultar paquete",
+    	"packages": [
+      		{
+        		"title": "CUSCO INOLVIDABLE VIP 4D/3N",
+        		"image": "/cusco-inolvidable-4d.png",
+        		"link": "cusco/4-dias-3-noches"
+      		},
+      		{
+        		"title": "CUSCO INOLVIDABLE VIP 5D/4N SURHUME",
+        		"image": "/cusco-inolvidable-5d.png",
+        		"link": "cusco/5-dias-4-noches-surhume"
+      		},
+      		{
+        		"title": "CUSCO INOLVIDABLE VIP 5D/4N",
+        		"image": "/cusco-inolvidable-5d-4n.png",
+        		"link": "cusco/5-dias-4-noches"
+      		},
+			{
+        		"title": "CUSCO INOLVIDABLE VIP 6D/5N PUNO - AREQUIPA",
+        		"image": "/cusco-inolvidable-6d-5n.png",
+        		"link": "cusco/6-dias-5-noches"
+      		},
+			{
+        		"title": "MÁNCORA PREMIUM 3D/2N",
+        		"image": "/mancora-3-dias.png",
+        		"link": "mancora/3-dias-2-noches"
+      		},
+			{
+        		"title": "MÁNCORA PREMIUM 5D/4N",
+        		"image": "/mancora-5-dias.png",
+        		"link": "mancora/5-dias-4-noches"
+      		},
+			{
+        		"title": "TARAPOTO KUÉLAP MÍSTICO VIP 6D/5N",
+        		"image": "/kuelap-6-dias.png",
+        		"link": "tarapoto/tarapoto-kuelap-mistico"
+      		},
+			{
+        		"title": "TARAPOTO VIP 4D/3N",
+        		"image": "/tarapoto-4-dias.png",
+        		"link": "tarapoto/4-dias-3-noches"
+      		},
+			{
+        		"title": "TARAPOTO VIP 5D/4N",
+        		"image": "/tarapoto-5-dias.png",
+        		"link": "tarapoto/5-dias-4-noches"
+      		},
+			{
+        		"title": "HUANCAYO - SELVA CENTRAL MISTICO 5D/4N",
+        		"image": "/huancayo-5-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO BORG - CIT 5D/4N",
+        		"image": "/perene-5-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO - BORG 4D/3N",
+        		"image": "/perene-4-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA - POZUZO 3D/2N",
+        		"image": "/perene-3-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "PERENÉ - OXAPAMPA 2D/1N",
+        		"image": "/perene-2-dias.png",
+        		"link": "#"
+      		},
+			{
+        		"title": "COLOMBIA - SAN ANDRÉS",
+        		"image": "/san-andres.png",
+        		"link": "colombia/san-andres"
+      		},
+			{
+        		"title": "ARUBA",
+        		"image": "/aruba.png",
+        		"link": "caribe/aruba"
+      		},
+			{
+        		"title": "PUNTA CANA",
+        		"image": "/punta-cana.png",
+        		"link": "republica-dominicana/punta-cana"
+      		},
+			{
+        		"title": "CARTAGENA DE INDIAS",
+        		"image": "/cartagena-de-indias.png",
+        		"link": "colombia/cartagena-de-indias"
+      		}
+    	]
+  	},
+	"ctaIquitos": {
+		"tag": "Exploremos Iquitos",
+		"title": "Historia y Transformación",
+		"description": "Ubicada en la selva noreste del Perú, Iquitos es la capital de Loreto y Maynas, rodeada por los ríos Amazonas, Nanay e Itaya. Fundada en 1757 por la misión jesuita como San Pablo de los Napeanos, la ciudad fue habitada por los Iquitos tras la partida de los napeanos a finales del siglo XVIII. Entre 1880 y 1914, la fiebre del caucho impulsó su crecimiento, atrayendo a peruanos y europeos en busca de oportunidades. Este auge convirtió a Iquitos en un centro comercial, modernizando la ciudad con nueva arquitectura y servicios públicos que mejoraron la calidad de vida de sus habitantes.",
+		"button": "Consultar ahora"
+	},
+	"footer": {
+		"contactTitle": "Contáctanos",
+		"logisticsOffice": "Oficina Logística: Gabriel Torres 116 - San Juan de Miraflores - Lima.",
+		"commercialOffice": "Oficina Comercial: Jr. Progreso 418 - Chanchamayo - Junin.",
+		"relatedLinks": "Links relacionados",
+		"mightInterestYou": "También te Podría Interesar",
+		"touristAttractions": "Atractivos turísticos",
+		"rights": "Todos los derechos reservados",
+		"designedBy": "Diseñado por",
+		"linkList": {
+			"mincetur": "Mincetur",
+			"ytuqueplanes": "¿Y tú qué planes?",
+			"gore": "GORE Amazonas",
+			"tripadvisor": "Tripadvisor",
+			"marcaPeru": "Marca Perú"
+		},
+		"interestList": {
+			"irapay": "Irapay Amazon",
+			"heliconia": "Heliconia Lodge",
+			"cumaceba": "Cumaceba Lodge",
+			"pacaya": "Pacaya Samiria",
+			"tours": "Tours Diarios"
+		}
+	},
+	"cajamarcaTour": {
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+		"routeTitle": "Ruta",
+		"routeText": "CITY – CUMBE MAYO / BAÑOS DEL INCA – GRANJA DE PORCON – CAJAMARCA",
+		"duration": "Duración",
+		"durationValue": "04 días / 03 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Delegación",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Viaje a Cajamarca",
+		"day01Text": "--:-- hrs: Reunión en el colegio o empresa de transporte. Previa coordinación con la Institución Educativa.",
+		"day02Title": "Día 02: City Tour Cajamarca Histórico",
+		"day02Schedule": [
+			"08:30 hrs: Cajamarca, traslado al hotel seleccionado.",
+			"09:00 hrs: Desayuno en Cajamarca y tiempo de climatización. Almuerzo.",
+			"14:00 hrs: Iniciamos nuestro city tour, conociendo los siguientes lugares turísticos: Catedral San Francisco, Museos de Arte religioso, etnográfico y arqueológico, Hospital Colonial, El Cuarto de Rescate y Colina de Santa Apolonia.",
+			"19:00 hrs: Cena.",
+			"Pernocte en hotel."
+		],
+		"day03Title": "Día 03: Cumbe Mayo – Bosque de Rocas – Hacienda La Collpa – Baños del Inca",
+		"day03Schedule": [
+			"08:00 hrs: Desayuno.",
+			"09:00 hrs: Visitaremos Bellavista (Mirador de Cajamarca), Layzon, Parque forestal, y el Centro Arqueológico de Cumbe Mayo.",
+			"14:00 hrs: Almuerzo.",
+			"15:00 hrs: Visita a la ex Hacienda La Collpa, llamado de las vacas y los Baños Termales del Inca.",
+			"19:30 hrs: Pernocte."
+		],
+		"day04Title": "Día 04: Granja Porcón – Ventanillas de Otuzco – Fundo Los Alpes – Jardín de Hortensias",
+		"day04Schedule": [
+			"08:00 hrs: Desayuno.",
+			"09:00 hrs: Visita a la Granja Porcón con animales exóticos, criadero de truchas y actividades forestales.",
+			"13:00 hrs: Almuerzo.",
+			"13:00 hrs: Visita a la necrópolis de Otuzco, puente colgante, y degustación de productos lácteos en el Fundo Los Alpes.",
+			"19:00 hrs: Pernocte."
+		],
+		"day05Title": "Día 05: Día libre y viaje",
+		"day05Schedule": [
+			"08:30 hrs: Desayuno.",
+			"09:00 hrs: Paseo por el mercado artesanal de Cajamarca. Almuerzo y viaje a la hora adecuada.",
+			"--:-- hrs: Viaje."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Recojo y llegada en el colegio.",
+			"Transporte interprovincial Cama: Piura – Cajamarca – Piura.",
+			"Transporte Turístico privado.",
+			"Traslados IN/OUT.",
+			"03 Noches de Hotel en Cajamarca.",
+			"01 noche de recreación nocturna.",
+			"04 desayunos.",
+			"03 Almuerzos.",
+			"04 cenas conforme detalla el programa.",
+			"04 días de tours (según itinerario).",
+			"Guía local de turismo.",
+			"Fotografías del grupo durante todo el viaje.",
+			"01 personal de la agencia que realiza el viaje completo con la promoción para dar seguridad en cumplimiento del tour.",
+			"Personal de primeros auxilios.",
+			"Tour mencionado en el programa, botiquín de primeros auxilios.",
+			"Guiado Profesional y entretenimiento turístico.",
+			"Boleto de ingreso a todos los lugares turísticos.",
+			"Movilidad con Póliza de seguro SOAT.",
+			"Asistencia permanente y personalizada."
+		]
+	}
+}
