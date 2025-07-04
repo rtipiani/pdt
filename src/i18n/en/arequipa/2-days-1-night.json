@@ -1,0 +1,39 @@
+{
+  "title": "Arequipa Express 2D/1N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "AREQUIPA – COLCA – CRUZ DEL CONDOR",
+    "clientType": "Group, Couples, Friends",
+    "serviceType": "Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Arequipa to Chivay",
+      "activities": [
+        {
+          "time": "07:30 hrs",
+          "text": "Departure to Chivay with scenic stops along the way. Lunch included. Free afternoon to visit the hot springs (optional)."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Cruz del Condor and Return",
+      "activities": [
+        {
+          "time": "06:00 hrs",
+          "text": "Visit to the Cruz del Condor. Observation of condors and exploration of traditional villages in the valley. Return to Arequipa in the afternoon."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "Full service – One-time payment",
+  "includes": [
+    "Shared tourist transportation",
+    "01 night accommodation in Chivay",
+    "01 breakfast and 01 lunch",
+    "Colca Canyon Tour",
+    "Local guide",
+    "Travel assistance"
+  ]
+}

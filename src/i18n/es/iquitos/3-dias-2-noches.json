@@ -1,0 +1,56 @@
+{
+    "title": "Iquitos Misterioso 3D/2N",
+    "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "summary": {
+        "route": "VUELO / IQUITOS – AMAZONAS – FUNDO PEDRITO",
+        "clientType": "Grupo",
+        "serviceType": "Privado"
+    },
+    "itinerary": [
+        {
+            "day": "Día 01: Vuelo a Iquitos - City Tour",
+            "activities": [
+                {
+                    "time": "--:-- hrs",
+                    "text": "Vuelo y llegada a Iquitos, recepción en el aeropuerto y traslado al hotel. Visita panorámica por la ciudad: plazas, catedrales y malecón. Tiempo libre."
+                }
+            ]
+        },
+        {
+            "day": "Día 02: Full Day Amazonas y Fundo Pedrito",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Salida en bote por el río Amazonas. Observación de delfines rosados, visita a la tribu Yagua para conocer su cultura, danzas y uso de cerbatana. Almuerzo en refugio amazónico. Continuación hacia Barrio Florido y caminata al Fundo Pedrito para ver caimanes, paiches y Victoria regia. Retorno a Iquitos."
+                }
+            ]
+        },
+        {
+            "day": "Día 03: Despedida",
+            "activities": [
+                {
+                    "time": "08:30 hrs",
+                    "text": "Desayuno. Tiempo libre para disfrutar del hotel o realizar compras. Traslado al aeropuerto. Fin del tour."
+                }
+            ]
+        }
+    ],
+    "includesTitle": "Nuestro Sistema Incluye",
+    "includesSubtitle": "Sistema todo incluido – Pago único",
+    "includes": [
+        "Vuelo Lima – Iquitos – Lima",
+        "Transporte turístico en bus privado",
+        "Traslados IN/OUT",
+        "02 noches de alojamiento en hotel *** con piscina",
+        "03 desayunos",
+        "Tours según itinerario (2 días de excursiones)",
+        "Guía local de turismo",
+        "Personal de la agencia durante todo el viaje",
+        "Personal de primeros auxilios",
+        "Botiquín de primeros auxilios",
+        "Guiado profesional y entretenimiento turístico",
+        "Entradas a todos los lugares turísticos",
+        "Movilidad con seguro SOAT",
+        "Asistencia permanente y personalizada"
+    ]
+}

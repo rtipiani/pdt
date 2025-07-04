@@ -1,0 +1,50 @@
+{
+  "title": "Classic Arequipa 3D/2N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "AREQUIPA – COLCA – CRUZ DEL CONDOR",
+    "clientType": "Group, Couples, Families",
+    "serviceType": "Private / Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Arrival in Arequipa - City Tour",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Reception and transfer to the hotel. In the afternoon, city tour including the historic center and viewpoints."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Colca Canyon",
+      "activities": [
+        {
+          "time": "06:00 hrs",
+          "text": "Departure to the Colca Canyon. Visit to the Cruz del Condor and picturesque towns in the valley. Return to Arequipa in the afternoon."
+        }
+      ]
+    },
+    {
+      "day": "Day 03: Farewell",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Breakfast and free time. Transfer to the airport or terminal."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "Full service – One-time payment",
+  "includes": [
+    "IN/OUT transfers",
+    "02 nights of hotel accommodation",
+    "Daily breakfasts",
+    "City tour in Arequipa",
+    "Full Day Colca Canyon Tour",
+    "Professional guide",
+    "Tourist entrance tickets",
+    "Permanent assistance"
+  ]
+}

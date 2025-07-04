@@ -1,0 +1,59 @@
+{
+  "title": "Arequipa Mágica 4D/3N",
+  "certificate": "Operador autorizado por MINCETUR",
+  "summary": {
+    "route": "AREQUIPA – CITY TOUR – COLCA – CRUZ DEL CÓNDOR – MIRADORES",
+    "clientType": "Grupo, Parejas, Familias",
+    "serviceType": "Privado / Compartido"
+  },
+  "itinerary": [
+    {
+      "day": "Día 01: Llegada a Arequipa - City Tour",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Recepción en el aeropuerto/terminal y traslado al hotel. Por la tarde, City Tour por el Centro Histórico, Monasterio de Santa Catalina, miradores y barrios tradicionales."
+        }
+      ]
+    },
+    {
+      "day": "Día 02: Rumbo al Cañón del Colca",
+      "activities": [
+        {
+          "time": "07:30 hrs",
+          "text": "Salida hacia Chivay, pasando por la Reserva Nacional de Salinas y Aguada Blanca. Paradas en Patahuasi, Mirador de los Volcanes. Almuerzo y tarde libre en Chivay."
+        }
+      ]
+    },
+    {
+      "day": "Día 03: Cruz del Cóndor",
+      "activities": [
+        {
+          "time": "06:00 hrs",
+          "text": "Visita a la Cruz del Cóndor para observar el vuelo del cóndor. Visita a pueblos tradicionales como Maca y Yanque. Retorno a Arequipa por la tarde."
+        }
+      ]
+    },
+    {
+      "day": "Día 04: Despedida",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Desayuno. Tiempo libre para compras o paseo adicional. Traslado al aeropuerto o terminal."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Nuestro Sistema Incluye",
+  "includesSubtitle": "Servicio completo – Pago único",
+  "includes": [
+    "Traslados IN/OUT",
+    "03 noches de alojamiento en hotel",
+    "Desayunos diarios",
+    "City tour en Arequipa",
+    "Tour al Cañón del Colca 2D/1N",
+    "Guía profesional",
+    "Entradas turísticas",
+    "Asistencia permanente"
+  ]
+}

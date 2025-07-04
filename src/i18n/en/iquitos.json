@@ -7,19 +7,19 @@
             "title": "Classic Iquitos - Jungle and Adventure",
             "duration": "4D/3N",
             "image": "/iquitos-clasico-4-dias.png",
-            "link": "iquitos-clasico-4-dias-3-noches"
+            "link": "4-days-3-nights"
         },
         {
             "title": "Magical Iquitos - Pacaya Samiria Reserve",
             "duration": "5D/4N",
             "image": "/iquitos-pacaya-5-dias.png",
-            "link": "5-dias-4-noches"
+            "link": "5-days-4-nights"
         },
         {
             "title": "Essential Iquitos - Nature and Culture",
             "duration": "3D/2N",
             "image": "/iquitos-esencial-3-dias.png",
-            "link": "iquitos-esencial-3-dias-2-noches"
+            "link": "3-days-2-nights"
         }
     ]
 }

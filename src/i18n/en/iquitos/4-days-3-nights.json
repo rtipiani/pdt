@@ -1,0 +1,65 @@
+{
+    "title": "Mysterious Iquitos 4D/3N",
+    "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "summary": {
+        "route": "FLIGHT / IQUITOS – QUISTOCOCHA – AMAZON – PEDRITO FARM",
+        "clientType": "Group",
+        "serviceType": "Private"
+    },
+    "itinerary": [
+        {
+            "day": "Day 01: Flight to Iquitos - City Tour",
+            "activities": [
+                {
+                    "time": "--:-- hrs",
+                    "text": "Flight and arrival in Iquitos, airport reception and transfer to the hotel. Visit to the surroundings of Iquitos: squares, cathedrals, viewpoints. Free time."
+                }
+            ]
+        },
+        {
+            "day": "Day 02: Quistococha Lagoon and Manatees",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Pick-up from your hotel and city tour in Iquitos with a local guide. Visit to the ACOBIA manatee conservation center and the Quistococha national zoo. Time to swim at the artificial beach. Return to the hotel."
+                }
+            ]
+        },
+        {
+            "day": "Day 03: Full Day Amazon",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Boat trip on the Amazon River, spotting pink river dolphins. Visit to the Yagua tribe to learn about their culture, dances, and blowgun. Lunch at a rustic lodge. Visit to Barrio Florido and walk to Pedrito Farm to see caimans, paiches, and Victoria regia. Return to Iquitos."
+                }
+            ]
+        },
+        {
+            "day": "Day 04: Farewell",
+            "activities": [
+                {
+                    "time": "08:30 hrs",
+                    "text": "Breakfast. Free time to enjoy the hotel or go shopping. Transfer to the airport and end of the tour."
+                }
+            ]
+        }
+    ],
+    "includesTitle": "Our Package Includes",
+    "includesSubtitle": "All-inclusive system – One-time payment",
+    "includes": [
+        "Flight Lima – Iquitos – Lima",
+        "Tourist transportation in private bus",
+        "IN/OUT transfers",
+        "03 nights accommodation in *** hotel with pool",
+        "04 breakfasts",
+        "Tours as per itinerary (3 days of excursions)",
+        "Local tour guide",
+        "Agency staff accompanying the entire trip",
+        "First aid personnel",
+        "First aid kit",
+        "Professional guiding and tourist entertainment",
+        "Entrance tickets to all tourist sites",
+        "Transportation with SOAT insurance",
+        "Permanent and personalized assistance"
+    ]
+}

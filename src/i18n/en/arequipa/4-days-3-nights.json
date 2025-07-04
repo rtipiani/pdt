@@ -1,0 +1,59 @@
+{
+  "title": "Magical Arequipa 4D/3N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "AREQUIPA – CITY TOUR – COLCA – CRUZ DEL CONDOR – VIEWPOINTS",
+    "clientType": "Group, Couples, Families",
+    "serviceType": "Private / Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Arrival in Arequipa - City Tour",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Reception at the airport/terminal and transfer to the hotel. In the afternoon, city tour through the Historic Center, Santa Catalina Monastery, viewpoints, and traditional neighborhoods."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Journey to the Colca Canyon",
+      "activities": [
+        {
+          "time": "07:30 hrs",
+          "text": "Departure to Chivay, passing through the Salinas and Aguada Blanca National Reserve. Stops at Patahuasi and Volcanoes Viewpoint. Lunch and free afternoon in Chivay."
+        }
+      ]
+    },
+    {
+      "day": "Day 03: Cruz del Condor",
+      "activities": [
+        {
+          "time": "06:00 hrs",
+          "text": "Visit to the Cruz del Condor to observe the flight of the condor. Visit to traditional towns such as Maca and Yanque. Return to Arequipa in the afternoon."
+        }
+      ]
+    },
+    {
+      "day": "Day 04: Farewell",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Breakfast. Free time for shopping or an additional walk. Transfer to the airport or terminal."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "Full service – One-time payment",
+  "includes": [
+    "IN/OUT transfers",
+    "03 nights of hotel accommodation",
+    "Daily breakfasts",
+    "City tour in Arequipa",
+    "Colca Canyon Tour 2D/1N",
+    "Professional guide",
+    "Tourist entrance tickets",
+    "Permanent assistance"
+  ]
+}

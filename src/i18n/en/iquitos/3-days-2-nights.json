@@ -1,0 +1,56 @@
+{
+    "title": "Mysterious Iquitos 3D/2N",
+    "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "summary": {
+        "route": "FLIGHT / IQUITOS – AMAZON – PEDRITO FARM",
+        "clientType": "Group",
+        "serviceType": "Private"
+    },
+    "itinerary": [
+        {
+            "day": "Day 01: Flight to Iquitos - City Tour",
+            "activities": [
+                {
+                    "time": "--:-- hrs",
+                    "text": "Flight and arrival in Iquitos, airport reception and transfer to the hotel. Panoramic tour of the city: squares, cathedrals, and riverfront promenade. Free time."
+                }
+            ]
+        },
+        {
+            "day": "Day 02: Full Day Amazon and Pedrito Farm",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Boat departure on the Amazon River. Observation of pink river dolphins. Visit to the Yagua tribe to learn about their culture, dances, and blowgun use. Lunch at an Amazon lodge. Continue to Barrio Florido and walk to Pedrito Farm to see caimans, paiches, and Victoria regia. Return to Iquitos."
+                }
+            ]
+        },
+        {
+            "day": "Day 03: Farewell",
+            "activities": [
+                {
+                    "time": "08:30 hrs",
+                    "text": "Breakfast. Free time to enjoy the hotel or go shopping. Transfer to the airport. End of the tour."
+                }
+            ]
+        }
+    ],
+    "includesTitle": "Our Package Includes",
+    "includesSubtitle": "All-inclusive system – One-time payment",
+    "includes": [
+        "Flight Lima – Iquitos – Lima",
+        "Tourist transportation in private bus",
+        "IN/OUT transfers",
+        "02 nights accommodation in *** hotel with pool",
+        "03 breakfasts",
+        "Tours according to itinerary (2 days of excursions)",
+        "Local tour guide",
+        "Agency staff accompanying the entire trip",
+        "First aid personnel",
+        "First aid kit",
+        "Professional guide and tourist entertainment",
+        "Entrance tickets to all tourist attractions",
+        "Transportation with SOAT insurance",
+        "Permanent and personalized assistance"
+    ]
+}

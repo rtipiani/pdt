@@ -1,0 +1,65 @@
+{
+    "title": "Iquitos Misterioso 4D/3N",
+    "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "summary": {
+        "route": "VUELO / IQUITOS – QUITOCOCHA – AMAZONAS – FUNDO PEDRITO",
+        "clientType": "Grupo",
+        "serviceType": "Privado"
+    },
+    "itinerary": [
+        {
+            "day": "Día 01: Vuelo a Iquitos - Día de Paseo",
+            "activities": [
+                {
+                    "time": "--:-- hrs",
+                    "text": "Vuelo y llegada a Iquitos, recepción en el aeropuerto y traslado al hotel. Visita a los alrededores de Iquitos: plazas, catedrales, miradores. Tiempo libre."
+                }
+            ]
+        },
+        {
+            "day": "Día 02: Laguna Quistococha y Manatíes",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Recogida en el hotel y recorrido por Iquitos con guía local. Visita al centro de conservación de manatíes ACOBIA y al parque zoológico nacional Quistococha. Tiempo para bañarse en la playa artificial. Retorno al hotel."
+                }
+            ]
+        },
+        {
+            "day": "Día 03: Full Day Amazonas",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Salida en bote por el río Amazonas, avistamiento de delfines rosados. Visita a la tribu Yagua para conocer su cultura, danzas y cerbatana. Almuerzo en refugio. Visita a Barrio Florido y caminata al fundo Pedrito para ver caimanes, paiches y Victoria regia. Retorno a Iquitos."
+                }
+            ]
+        },
+        {
+            "day": "Día 04: Despedida",
+            "activities": [
+                {
+                    "time": "08:30 hrs",
+                    "text": "Desayuno. Tiempo libre para disfrutar del hotel o hacer compras. Traslado al aeropuerto y fin del tour."
+                }
+            ]
+        }
+    ],
+    "includesTitle": "Nuestro Sistema Incluye",
+    "includesSubtitle": "Sistema todo incluido – Pago único",
+    "includes": [
+        "Vuelo Lima – Iquitos – Lima",
+        "Transporte turístico en bus privado",
+        "Traslados IN/OUT",
+        "03 noches de alojamiento en hotel *** con piscina",
+        "04 desayunos",
+        "Tours según itinerario (3 días de excursiones)",
+        "Guía local de turismo",
+        "Personal de la agencia durante todo el viaje",
+        "Personal de primeros auxilios",
+        "Botiquín de primeros auxilios",
+        "Guiado profesional y entretenimiento turístico",
+        "Entradas a todos los lugares turísticos",
+        "Movilidad con seguro SOAT",
+        "Asistencia permanente y personalizada"
+    ]
+}
