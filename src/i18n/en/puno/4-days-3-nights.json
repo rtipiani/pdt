@@ -1,0 +1,60 @@
+{
+  "title": "Essential Puno 4D/3N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "PUNO – LAKE TITICACA – UROS – TAQUILE – SILLUSTANI",
+    "clientType": "Group, Couples, Families",
+    "serviceType": "Private / Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Arrival in Puno",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Reception at Juliaca airport or bus terminal and transfer to the hotel in Puno. Free day for acclimatization. We recommend walking through the historic center or visiting the Kuntur Wasi viewpoint."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Uros Floating Islands and Taquile",
+      "activities": [
+        {
+          "time": "07:00 hrs",
+          "text": "Transfer to the Puno port. Boat ride on Lake Titicaca. Visit to the floating Uros Islands and then to Taquile Island, known for its textile traditions. Typical lunch on the island. Return to Puno in the afternoon."
+        }
+      ]
+    },
+    {
+      "day": "Day 03: Sillustani Archaeological Complex",
+      "activities": [
+        {
+          "time": "09:00 hrs",
+          "text": "Visit to the archaeological site of Sillustani, famous for its pre-Incan funerary towers (chullpas). Panoramic views of Lake Umayo. Free afternoon in Puno for shopping or optional activities."
+        }
+      ]
+    },
+    {
+      "day": "Day 04: Farewell",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Breakfast at the hotel. Free time until your transfer to Juliaca airport or bus terminal. End of the tour."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "All-inclusive service – One-time payment",
+  "includes": [
+    "IN/OUT transfers (airport or terminal)",
+    "03 nights of hotel accommodation in Puno",
+    "Daily breakfasts",
+    "Tour to Uros and Taquile with typical lunch",
+    "Tour to Sillustani",
+    "Entrance fees to tourist sites",
+    "Professional guide",
+    "Lake and land tourist transportation",
+    "Permanent assistance"
+  ]
+}

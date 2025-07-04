@@ -1,0 +1,60 @@
+{
+  "title": "Puno Esencial 4D/3N",
+  "certificate": "Operador autorizado por MINCETUR",
+  "summary": {
+    "route": "PUNO – LAGO TITICACA – UROS – TAQUILE – SILLUSTANI",
+    "clientType": "Grupo, Parejas, Familias",
+    "serviceType": "Privado / Compartido"
+  },
+  "itinerary": [
+    {
+      "day": "Día 01: Llegada a Puno",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Recepción en el terminal o aeropuerto de Juliaca y traslado al hotel en Puno. Día libre para aclimatación. Recomendamos caminar por el centro histórico o visitar el mirador Kuntur Wasi."
+        }
+      ]
+    },
+    {
+      "day": "Día 02: Islas Flotantes de los Uros y Taquile",
+      "activities": [
+        {
+          "time": "07:00 hrs",
+          "text": "Traslado al puerto de Puno. Paseo en lancha por el Lago Titicaca. Visita a las islas flotantes de los Uros y luego a la isla Taquile, conocida por sus tradiciones textiles. Almuerzo típico en la isla. Retorno a Puno por la tarde."
+        }
+      ]
+    },
+    {
+      "day": "Día 03: Complejo Arqueológico de Sillustani",
+      "activities": [
+        {
+          "time": "09:00 hrs",
+          "text": "Visita al complejo arqueológico de Sillustani, famoso por sus chullpas preincaicas. Vistas panorámicas a la laguna Umayo. Tarde libre en Puno para compras o actividades opcionales."
+        }
+      ]
+    },
+    {
+      "day": "Día 04: Despedida",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Desayuno en el hotel. Tiempo libre hasta la hora de traslado al aeropuerto de Juliaca o terminal terrestre. Fin del tour."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Nuestro Sistema Incluye",
+  "includesSubtitle": "Servicio completo – Pago único",
+  "includes": [
+    "Traslados IN/OUT (aeropuerto o terminal)",
+    "03 noches de alojamiento en hotel en Puno",
+    "Desayunos diarios",
+    "Tour a Uros y Taquile con almuerzo típico",
+    "Tour a Sillustani",
+    "Entradas a los lugares turísticos",
+    "Guía profesional",
+    "Transporte turístico lacustre y terrestre",
+    "Asistencia permanente"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Titicaca Islands 2D/1N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "PUNO – UROS ISLANDS – TAQUILE",
+    "clientType": "Group, Couples, Families",
+    "serviceType": "Private / Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Uros and Taquile with Overnight",
+      "activities": [
+        {
+          "time": "07:00 hrs",
+          "text": "Reception at the bus terminal or airport. Transfer to the port. Boat ride on Lake Titicaca to visit the floating Uros Islands. Continue to Taquile Island. Guided walk and typical lunch. Overnight in a local family home (homestay) or return to Puno depending on the selected option."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Return and Farewell",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Typical breakfast on the island or at the hotel. Free time to take photos or interact with the community. Return by boat to Puno. Transfer to the airport or bus terminal. End of the tour."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "All-inclusive service – One-time payment",
+  "includes": [
+    "IN/OUT transfers (airport or terminal)",
+    "01 night of accommodation in Puno or homestay in Taquile",
+    "1 breakfast and 1 typical lunch",
+    "Tour to Uros and Taquile Islands",
+    "Entrance tickets to tourist attractions",
+    "Local professional guide",
+    "Shared or private boat service depending on the package",
+    "Permanent assistance"
+  ]
+}

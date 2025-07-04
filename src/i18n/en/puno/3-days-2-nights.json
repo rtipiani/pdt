@@ -1,0 +1,50 @@
+{
+  "title": "Classic Puno 3D/2N",
+  "certificate": "Operator authorized by MINCETUR",
+  "summary": {
+    "route": "PUNO – LAKE TITICACA – UROS – TAQUILE",
+    "clientType": "Group, Couples, Families",
+    "serviceType": "Private / Shared"
+  },
+  "itinerary": [
+    {
+      "day": "Day 01: Arrival in Puno",
+      "activities": [
+        {
+          "time": "--:-- hrs",
+          "text": "Reception at the Juliaca airport or bus terminal and transfer to the hotel in Puno. Free day for acclimatization. Recommended: stroll through the historic center or visit the Kuntur Wasi viewpoint."
+        }
+      ]
+    },
+    {
+      "day": "Day 02: Uros and Taquile Islands",
+      "activities": [
+        {
+          "time": "07:00 hrs",
+          "text": "Transfer to the port of Puno. Boat ride on Lake Titicaca. Visit the floating Uros Islands and then continue to Taquile Island, known for its textile traditions. Typical lunch on the island. Return to Puno in the afternoon."
+        }
+      ]
+    },
+    {
+      "day": "Day 03: Farewell",
+      "activities": [
+        {
+          "time": "08:00 hrs",
+          "text": "Breakfast at the hotel. Free time to relax, shop, or take an optional walk. Transfer to the Juliaca airport or bus terminal. End of the tour."
+        }
+      ]
+    }
+  ],
+  "includesTitle": "Our Package Includes",
+  "includesSubtitle": "All-inclusive service – One-time payment",
+  "includes": [
+    "IN/OUT transfers (airport or terminal)",
+    "02 nights of accommodation in Puno",
+    "Daily breakfasts",
+    "Tour to Uros and Taquile Islands with typical lunch",
+    "Entrance tickets to tourist sites",
+    "Professional local guide",
+    "Lake and land tourist transportation",
+    "Permanent assistance"
+  ]
+}

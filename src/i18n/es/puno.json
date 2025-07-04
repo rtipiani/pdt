@@ -7,19 +7,19 @@
             "title": "Puno Clásico - Lago Titicaca y Uros",
             "duration": "3D/2N",
             "image": "/puno-clasico-3-dias.png",
-            "link": "puno-clasico-3-dias-2-noches"
+            "link": "3-dias-2-noches"
         },
         {
             "title": "Islas de los Uros y Taquile",
             "duration": "2D/1N",
             "image": "/uros-taquile-2-dias.png",
-            "link": "uros-taquile-2-dias-1-noche"
+            "link": "2-dias-1-noche"
         },
         {
             "title": "Puno Esencial - Cultura y Naturaleza",
             "duration": "4D/3N",
             "image": "/puno-esencial-4-dias.png",
-            "link": "puno-esencial-4-dias-3-noches"
+            "link": "4-dias-3-noches"
         }
     ]
 }
