@@ -1,0 +1,83 @@
+{
+	"title": "Aruba Mágico 4D/3N",
+	"certificate": "",
+	"itinerary": [
+		{
+			"day": "Día 01: Llegada y City Tour",
+			"activities": [
+				{ "time": "15:00 hrs", "text": "Llegada al aeropuerto internacional Reina Beatrix y traslado al hotel." },
+				{ "time": "16:30 hrs", "text": "City tour por Oranjestad: Plaza Principal, edificios coloniales y tiendas locales." },
+				{ "time": "18:00 hrs", "text": "Paseo por el puerto y cena de bienvenida." }
+			]
+		},
+		{
+			"day": "Día 02: Playas y Actividades Acuáticas",
+			"activities": [
+				{ "time": "09:00 hrs", "text": "Desayuno en el hotel." },
+				{ "time": "10:00 hrs", "text": "Visita a Eagle Beach y Palm Beach: tiempo libre para nadar y tomar el sol." },
+				{ "time": "14:00 hrs", "text": "Deportes acuáticos: snorkel, kayak o paddle board." },
+				{ "time": "17:00 hrs", "text": "Regreso al hotel y tarde libre." }
+			]
+		},
+		{
+			"day": "Día 03: Excursión Natural y Cultura",
+			"activities": [
+				{ "time": "08:00 hrs", "text": "Tour al Parque Nacional Arikok: cuevas, formaciones rocosas y flora local." },
+				{ "time": "12:00 hrs", "text": "Almuerzo típico arubeño en restaurante local." },
+				{ "time": "14:00 hrs", "text": "Visita a la Capilla de Alto Vista y Faro California." },
+				{ "time": "17:00 hrs", "text": "Tarde libre para compras o actividades opcionales." }
+			]
+		},
+		{
+			"day": "Día 04: Relax y Salida",
+			"activities": [
+				{ "time": "08:00 hrs", "text": "Desayuno en el hotel y mañana libre para disfrutar de la playa o piscina." },
+				{ "time": "12:00 hrs", "text": "Check-out del hotel." },
+				{ "time": "14:00 hrs", "text": "Traslado al aeropuerto para vuelo de regreso." }
+			]
+		}
+	],
+	"includesTitle": "El Programa Incluye",
+	"includesSubtitle": "(Válido todo el año – Temporada baja)",
+	"includes": [
+		"Vuelo o bus Lima – Aruba – Lima.",
+		"Recepción y traslado: aeropuerto / alojamiento / aeropuerto.",
+		"Transporte para los tours programados.",
+		"Guía especializado en español.",
+		"04 excursiones según itinerario.",
+		"03 noches de alojamiento.",
+		"04 desayunos.",
+		"Asesoramiento de viaje.",
+		"Asistencia permanente y personalizada.",
+		"Equipo de primeros auxilios.",
+		"Movilidad con seguro.",
+		"Incluye todos los impuestos de ley."
+	],
+	"notIncluded": [
+		"Almuerzos y cenas (excepto donde se indique).",
+		"Entradas a los atractivos turísticos.",
+		"Gastos extras o personales."
+	],
+	"conditions": [
+		"Tarifas válidas solo para temporada baja.",
+		"Tarifa no reembolsable, postergable hasta 4 meses (excepto feriados largos).",
+		"Reserva confirmada con 50% de pago. El saldo se paga 1 día antes del viaje.",
+		"Ingreso a la habitación: 15:00 hrs.",
+		"Salida de la habitación: 12:00 hrs.",
+		"Consultar tarifa por noche adicional según alojamiento.",
+		"Mínimo 2 personas por reserva.",
+		"Niños de 3 a 5 años: 15% de descuento.",
+		"Desde 5 años pagan tarifa completa.",
+		"Itinerario sujeto a cambios por clima o huelgas sin previo aviso."
+	],
+	"recommendations": [
+		"Ropa ligera y de playa.",
+		"Lentes de sol.",
+		"Gorra o sombrero.",
+		"Sandalias y zapatillas cómodas.",
+		"Protector solar y repelente.",
+		"Cámara fotográfica o filmadora.",
+		"Documentos personales.",
+		"Traje de baño."
+	]
+}

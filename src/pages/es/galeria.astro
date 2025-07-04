@@ -4,8 +4,7 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 import Gallery from '../../components/Gallery.astro';
 import data from '../../i18n/es/galeria.json';
 ---
-
 <Layout>
-  <Breadcrumb image="/bc-cajamarca.png" title="Galería" alt="Imágenes de Galería" lang="es" />
-  <Gallery images={data.images} />
+    <Breadcrumb image="/bc-gallery.png" title="Galería" alt="Imágenes de Galería" lang="es" />
+    <Gallery images={data.images} />
 </Layout>

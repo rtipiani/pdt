@@ -47,31 +47,29 @@ const routeMap: { [key: string]: string } = {
     '/en/gallery': '/es/galeria',
 };
 const currentPath = pathname.toLowerCase().replace(/\/$/, '');
-const switchUrl =
-  routeMap[currentPath] || getRelativeLocaleUrl(switchLocale, pathname.replace(/^\/(es|en)/, ''));
+const switchUrl = routeMap[currentPath] || getRelativeLocaleUrl(switchLocale, pathname.replace(/^\/(es|en)/, ''));
 
 const i18n = currentLocale === 'es' ? es : en;
 
 const destinationKeys = [
-  'cajamarca', 'ayacucho', 'cusco', 'tarapoto', 'mancora',
-  'selva-central', 'iquitos', 'arequipa', 'puno'
+    'cajamarca', 'ayacucho', 'cusco', 'tarapoto', 'mancora',
+    'selva-central', 'iquitos', 'arequipa', 'puno'
 ] as const;
 
 // Enlaces turísticos + galería
 const links = [
-  ...destinationKeys.map((path) => ({
-    name: i18n.menu[path],
-    url: getRelativeLocaleUrl(currentLocale, path)
-  })),
-  {
-    name: i18n.menu.galeria,
-    url: currentLocale === 'es'
-      ? getRelativeLocaleUrl('es', 'galeria')
-      : getRelativeLocaleUrl('en', 'gallery')
-  }
+    ...destinationKeys.map((path) => ({
+        name: i18n.menu[path],
+        url: getRelativeLocaleUrl(currentLocale, path)
+    })),
+    {
+        name: i18n.menu.galeria,
+        url: currentLocale === 'es'
+        ? getRelativeLocaleUrl('es', 'galeria')
+        : getRelativeLocaleUrl('en', 'gallery')
+    }
 ];
 ---
-
 <header id="main-header" class="fixed top-0 left-0 w-full backdrop-blur-md z-50">
     <nav class="container mx-auto flex items-center justify-between px-4 py-4">
         <div>
@@ -116,43 +114,54 @@ const links = [
             const menuLinks = document.querySelectorAll(".menu-link");
 
             if (header) {
-                window.addEventListener("scroll", () => {
-                    header.style.background = window.scrollY > 50 ? "rgba(10, 10, 10, 0.75)" : "transparent";
-                });
+            window.addEventListener("scroll", () => {
+                header.style.background = window.scrollY > 50
+                ? "rgba(10, 10, 10, 0.75)"
+                : "transparent";
+            });
             }
 
             if (menuToggle && menu) {
-                menuToggle.addEventListener("click", () => {
-                    menu.classList.toggle("max-h-0");
-                    menu.classList.toggle("max-h-screen");
-                });
+            menuToggle.addEventListener("click", () => {
+                menu.classList.toggle("max-h-0");
+                menu.classList.toggle("max-h-screen");
+            });
 
-                menuLinks.forEach(link => {
-                    link.addEventListener("click", () => {
-                        menu.classList.remove("max-h-screen");
-                        menu.classList.add("max-h-0");
-                    });
+            menuLinks.forEach(link => {
+                link.addEventListener("click", () => {
+                menu.classList.remove("max-h-screen");
+                menu.classList.add("max-h-0");
                 });
+            });
 
-                window.addEventListener("resize", () => {
-                    if (window.innerWidth >= 1280) {
-                        menu.classList.add("max-h-0");
-                    }
-                });
+            window.addEventListener("resize", () => {
+                if (window.innerWidth >= 1280) {
+                menu.classList.add("max-h-0");
+                }
+            });
             }
 
-            const currentPath = window.location.pathname.toLowerCase();
+            const currentPath = window.location.pathname.toLowerCase().replace(/\/$/, '');
+
+            const routeMap = {
+            '/es/galeria': '/en/gallery',
+            '/en/gallery': '/es/galeria',
+            // puedes añadir más rutas si lo deseas
+            };
+
             menuLinks.forEach(link => {
-                const href = link.getAttribute("href")?.toLowerCase();
-                if (!href) return;
+            const href = link.getAttribute("href")?.toLowerCase().replace(/\/$/, '');
+            if (!href) return;
 
-                const isExactMatch = currentPath === href;
-                const isHome = href === '/' || href === '/es/' || href === '/en/';
-                const isActive = isExactMatch || (isHome && currentPath === href);
+            const isExactMatch = currentPath === href;
+            const isMappedMatch = routeMap[currentPath] === href || routeMap[href] === currentPath;
+            const isHome = href === '/' || href === '/es' || href === '/en';
 
-                link.classList.toggle("text-yellow-400", isActive);
-                link.classList.toggle("font-bold", isActive);
-                link.classList.toggle("text-white", !isActive);
+            const isActive = isExactMatch || isMappedMatch || (isHome && currentPath === href);
+
+            link.classList.toggle("text-yellow-400", isActive);
+            link.classList.toggle("font-bold", isActive);
+            link.classList.toggle("text-white", !isActive);
             });
         });
     </script>

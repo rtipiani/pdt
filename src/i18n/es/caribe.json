@@ -1,0 +1,25 @@
+{
+    "title": "Aruba",
+    "description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel en la paradisíaca isla de Aruba. Relájate en sus playas de arena blanca, disfruta de deportes acuáticos y explora la vibrante cultura local. Ya sea en pareja, familia o amigos, te ofrecemos itinerarios exclusivos, alojamientos confortables y un servicio personalizado para que tu viaje sea inolvidable.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Aruba Clásico - Playas y Relax",
+            "duration": "3D/2N",
+            "image": "/aruba-clasico-3-dias.png",
+            "link": "aruba-clasico-3-dias-2-noches"
+        },
+        {
+            "title": "Aventura en Aruba - Deportes Acuáticos",
+            "duration": "2D/1N",
+            "image": "/aruba-aventura-2-dias.png",
+            "link": "aruba-aventura-2-dias-1-noche"
+        },
+        {
+            "title": "Aruba Esencial - Cultura y Gastronomía",
+            "duration": "4D/3N",
+            "image": "/aruba-gastronomia-4-dias.png",
+            "link": "caribe/4-dias-3-noches"
+        }
+    ]
+}
