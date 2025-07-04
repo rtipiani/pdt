@@ -1,24 +1,24 @@
 {
-    "title": "Tarapoto - Chachapoyas - Kuelap - Mysterious",
-    "description": "Immerse yourself in the beauty of the Peruvian jungle by visiting waterfalls like Ahuashiyacu, Lago Lindo, the Castle of Lamas, and other natural and cultural destinations. Whether traveling as a couple, with family, or friends, we offer exclusive itineraries, quality accommodations, and personalized service to make your trip a truly unforgettable experience.",
-    "consultNow": "Inquire now",
+    "title": "Máncora Premium",
+    "description": "Discover the best tour packages with PDT Peruvian Travel in the beautiful city of Máncora. Enjoy its paradise-like beaches, warm weather, and vibrant coastal life. Whether you're traveling as a couple, with family, or friends, we offer exclusive itineraries, quality accommodations, and personalized service that will make your trip a truly unforgettable experience.",
+    "consultNow": "Consult now",
     "packages": [
         {
-            "title": "Mystical Tarapoto Kuelap",
-            "duration": "6D/5N",
-            "image": "/kuelap-6-dias.png",
-            "link": "6-days-5-nights"
+            "title": "Máncora Premium",
+            "duration": "3D/2N",
+            "image": "/mancora-3-dias.png",
+            "link": "3-days-2-nights"
         },
         {
-            "title": "VIP Tarapoto",
+            "title": "Máncora Premium",
             "duration": "4D/3N",
-            "image": "/kuelap-6-d.png",
+            "image": "/mancora-4-dias.png",
             "link": "4-days-3-nights"
         },
         {
-            "title": "VIP Tarapoto",
+            "title": "Máncora Premium",
             "duration": "5D/4N",
-            "image": "/kuelap-5-dias.png",
+            "image": "/mancora-5-dias.png",
             "link": "5-days-4-nights"
         }
     ]

@@ -1,0 +1,25 @@
+{
+    "title": "Iquitos",
+    "description": "Explora los mejores paquetes turísticos con PDT Peruvian Travel en la fascinante ciudad de Iquitos. Vive la aventura en la selva amazónica, disfruta de la biodiversidad, la cultura local y la hospitalidad de su gente. Ya sea en pareja, familia o amigos, te ofrecemos itinerarios exclusivos, alojamientos confortables y un servicio personalizado para que tu viaje sea inolvidable.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Iquitos Clásico - Selva y Aventura",
+            "duration": "4D/3N",
+            "image": "/iquitos-clasico-4-dias.png",
+            "link": "iquitos-clasico-4-dias-3-noches"
+        },
+        {
+            "title": "Iquitos Mágico - Reserva Pacaya Samiria",
+            "duration": "5D/4N",
+            "image": "/iquitos-pacaya-5-dias.png",
+            "link": "iquitos-pacaya-5-dias-4-noches"
+        },
+        {
+            "title": "Iquitos Esencial - Naturaleza y Cultura",
+            "duration": "3D/2N",
+            "image": "/iquitos-esencial-3-dias.png",
+            "link": "iquitos-esencial-3-dias-2-noches"
+        }
+    ]
+}

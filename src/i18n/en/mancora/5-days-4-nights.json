@@ -1,0 +1,87 @@
+{
+  "title": "Unforgettable North – 5 Days / 4 Nights",
+  "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Day 01: Flight to Piura - Hotel - Free Day",
+      "activities": [
+        { "time": "---- Hrs", "text": "Board the flight and transfer to the hotel." },
+        { "time": "15:00 Hrs", "text": "Lunch." },
+        { "time": "16:00 Hrs", "text": "Free afternoon at the beach." },
+        { "time": "20:00 Hrs", "text": "Dinner." },
+        { "time": "22:00 Hrs", "text": "Bonfire and welcome party for the group." }
+      ]
+    },
+    {
+      "day": "Day 02: Tumbes: Puerto Pizarro + Mangroves of Tumbes - Ecuador",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Breakfast." },
+        { "time": "09:30 Hrs", "text": "Departure for the Full Day tour to the Mangroves of Tumbes." },
+        { "time": "10:30 Hrs", "text": "Visit to Puerto Pizarro and the Mangroves Sanctuary, boat ride through islands like Bird Island and Whale Bone Island." },
+        { "time": "11:30 Hrs", "text": "Crocodile hatchery visit with an explanation of these species in Peru." },
+        { "time": "13:30 Hrs", "text": "Lunch." },
+        { "time": "14:30 Hrs", "text": "Beach afternoon and water sports: jet skis, banana boats (optional)." },
+        { "time": "19:00 Hrs", "text": "Visit to Ecuador and return to the hotel." },
+        { "time": "20:00 Hrs", "text": "Dinner." }
+      ]
+    },
+    {
+      "day": "Day 03: Los Ñuros Beach - Sea Turtles",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Breakfast." },
+        { "time": "09:00 Hrs", "text": "Tour begins." },
+        { "time": "10:00 Hrs", "text": "Visit to Los Ñuros to swim with sea turtles." },
+        { "time": "14:00 Hrs", "text": "Lunch." },
+        { "time": "16:00 Hrs", "text": "Return to the hotel and afternoon at Vichayitos beach." },
+        { "time": "20:00 Hrs", "text": "Dinner." },
+        { "time": "21:00 Hrs", "text": "Beach bonfire and group fun night." }
+      ]
+    },
+    {
+      "day": "Day 04: Punta Sal & White Party",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Breakfast." },
+        { "time": "09:00 Hrs", "text": "Tour to Punta Sal resort for a beach day and photos." },
+        { "time": "13:30 Hrs", "text": "Lunch and pool time." },
+        { "time": "16:00 Hrs", "text": "Return to Máncora." },
+        { "time": "22:00 Hrs", "text": "White Party on the beach with bonfire." }
+      ]
+    },
+    {
+      "day": "Day 05: Aquapark Piura - Catacaos",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Breakfast." },
+        { "time": "09:00 Hrs", "text": "Visit to Aquapark Piura with the largest pools and slides in Peru." },
+        { "time": "13:00 Hrs", "text": "Lunch." },
+        { "time": "---- Hrs", "text": "Transfer to Piura airport and flight to Lima." },
+        { "time": "---- Hrs", "text": "Trip to final destination." }
+      ]
+    }
+  ],
+  "includesTitle": "Program Includes",
+  "includesSubtitle": "(All-Inclusive System – Single Payment)",
+  "includes": [
+    "Pick-up and arrival at the school.",
+    "Round-trip flight Lima – Piura – Lima.",
+    "Tourist transportation Lima – Piura – Máncora – Tumbes – Lima.",
+    "04 nights accommodation in Máncora with pool.",
+    "04 nights of evening activities (bonfires and beach parties).",
+    "05 breakfasts.",
+    "05 lunches.",
+    "04 dinners according to itinerary.",
+    "05 days of tours as described.",
+    "Group photos and videos throughout the trip.",
+    "Group party.",
+    "Tortugas yacht ride.",
+    "Local tour guide.",
+    "01 agency staff member accompanying the entire trip.",
+    "First aid staff.",
+    "First aid kit.",
+    "Professional guide and tourist entertainment.",
+    "Entrance tickets to all tourist attractions.",
+    "Transportation with SOAT insurance policy.",
+    "Permanent and personalized assistance."
+  ],
+  "not_included": [],
+  "recommendations": []
+}

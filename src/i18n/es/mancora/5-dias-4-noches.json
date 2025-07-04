@@ -1,54 +1,87 @@
 {
-    "title": "5 Días / 4 Noches en Máncora",
-    "description": "Disfruta de unas vacaciones inolvidables en las hermosas playas de Máncora con nuestro paquete de 5 días y 4 noches.",
-    "itinerary": [
-        {
-            "day": 1,
-            "title": "Llegada a Máncora",
-            "details": "Recepción en el terminal o aeropuerto y traslado al hotel. Día libre para disfrutar de la playa."
-        },
-        {
-            "day": 2,
-            "title": "Tour a las Pocitas y Punta Sal",
-            "details": "Excursión a las playas de Las Pocitas y Punta Sal. Tiempo para nadar y relajarse."
-        },
-        {
-            "day": 3,
-            "title": "Avistamiento de tortugas en El Ñuro",
-            "details": "Visita al muelle de El Ñuro para observar tortugas marinas. Tarde libre."
-        },
-        {
-            "day": 4,
-            "title": "Día libre en Máncora",
-            "details": "Disfruta de actividades opcionales como surf, paddle o masajes en la playa."
-        },
-        {
-            "day": 5,
-            "title": "Retorno",
-            "details": "Traslado al terminal o aeropuerto para retorno a ciudad de origen."
-        }
-    ],
-    "includes": [
-        "Traslados de llegada y salida",
-        "4 noches de alojamiento en hotel seleccionado",
-        "Desayunos diarios",
-        "Tours mencionados en el itinerario",
-        "Guía profesional en español"
-    ],
-    "not_included": [
-        "Almuerzos y cenas",
-        "Gastos personales",
-        "Propinas",
-        "Actividades no mencionadas"
-    ],
-    "recommendations": [
-        "Llevar bloqueador solar y repelente",
-        "Ropa ligera y traje de baño",
-        "Cámara fotográfica",
-        "Dinero en efectivo para gastos personales"
-    ],
-    "contact": {
-        "email": "info@pdtperuviantravel.com",
-        "phone": "+51 999 999 999"
+  "title": "Norte Inolvidable – 5 Días / 4 Noches",
+  "certificate": "CONSTANCIA N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+  "itinerary": [
+    {
+      "day": "Día 01: Vuelo a Piura - Hotel - Día Libre",
+      "activities": [
+        { "time": "---- Hrs", "text": "Abordar el avión y traslado al hotel." },
+        { "time": "15:00 Hrs", "text": "Almuerzo." },
+        { "time": "16:00 Hrs", "text": "Tarde libre en la playa." },
+        { "time": "20:00 Hrs", "text": "Cena." },
+        { "time": "22:00 Hrs", "text": "Fogata y fiesta de bienvenida para el grupo." }
+      ]
+    },
+    {
+      "day": "Día 02: Tumbes: Puerto Pizarro + Manglares de Tumbes - Ecuador",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Desayuno." },
+        { "time": "09:30 Hrs", "text": "Salida al tour Full Day Manglares de Tumbes." },
+        { "time": "10:30 Hrs", "text": "Visita a Puerto Pizarro y Santuario Manglares Tumbes, recorrido en lancha por islas como Isla Pájaros y Hueso de Ballena." },
+        { "time": "11:30 Hrs", "text": "Zoocriadero de cocodrilos: explicación sobre estas especies en Perú." },
+        { "time": "13:30 Hrs", "text": "Almuerzo." },
+        { "time": "14:30 Hrs", "text": "Tarde de playa y deportes acuáticos: motos, bananas (opcionales)." },
+        { "time": "19:00 Hrs", "text": "Visita a Ecuador y llegada al hotel." },
+        { "time": "20:00 Hrs", "text": "Cena." }
+      ]
+    },
+    {
+      "day": "Día 03: Playa Los Ñuros - Tortugas Marinas",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Desayuno." },
+        { "time": "09:00 Hrs", "text": "Inicio del tour." },
+        { "time": "10:00 Hrs", "text": "Visita a Los Ñuros para nadar con tortugas marinas." },
+        { "time": "14:00 Hrs", "text": "Almuerzo." },
+        { "time": "16:00 Hrs", "text": "Llegada al hotel y tarde en la playa de Vichayitos." },
+        { "time": "20:00 Hrs", "text": "Cena." },
+        { "time": "21:00 Hrs", "text": "Noche de fogata en la playa y diversión." }
+      ]
+    },
+    {
+      "day": "Día 04: Punta Sal y Fiesta Blanca",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Desayuno." },
+        { "time": "09:00 Hrs", "text": "Tour al balneario de Punta Sal para disfrutar del mar y tomarse fotos." },
+        { "time": "13:30 Hrs", "text": "Almuerzo y tiempo en piscina." },
+        { "time": "16:00 Hrs", "text": "Regreso a Máncora." },
+        { "time": "22:00 Hrs", "text": "Fiesta de Blanco en la playa con fogata." }
+      ]
+    },
+    {
+      "day": "Día 05: Aquapark Piura - Catacaos",
+      "activities": [
+        { "time": "08:00 Hrs", "text": "Desayuno." },
+        { "time": "09:00 Hrs", "text": "Visita a Aquapark Piura con piscinas y toboganes." },
+        { "time": "13:00 Hrs", "text": "Almuerzo." },
+        { "time": "---- Hrs", "text": "Traslado al aeropuerto de Piura y vuelo a Lima." },
+        { "time": "---- Hrs", "text": "Viaje al destino de origen." }
+      ]
     }
+  ],
+  "includesTitle": "El Programa Incluye",
+  "includesSubtitle": "(Sistema Todo Incluido – Pago Único)",
+  "includes": [
+    "Recojo y llegada al colegio.",
+    "Boleto aéreo Lima – Piura – Lima.",
+    "Transporte turístico Lima – Piura – Máncora – Tumbes – Lima.",
+    "04 noches de alojamiento en Máncora con piscina.",
+    "04 noches de recreación nocturna (fogatas y fiestas en la playa).",
+    "05 desayunos.",
+    "05 almuerzos.",
+    "04 cenas según itinerario.",
+    "05 días de tours según itinerario.",
+    "Fotografías y videos del grupo durante todo el viaje.",
+    "Fiesta para el grupo.",
+    "Paseo en yate Tortugas.",
+    "Guía local de turismo.",
+    "01 personal de la agencia que acompaña todo el viaje.",
+    "Personal de primeros auxilios.",
+    "Botiquín de primeros auxilios.",
+    "Guía profesional y entretenimiento turístico.",
+    "Entradas a todos los lugares turísticos.",
+    "Movilidad con póliza de seguro SOAT.",
+    "Asistencia permanente y personalizada."
+  ],
+  "not_included": [],
+  "recommendations": []
 }

@@ -1,0 +1,25 @@
+{
+    "title": "Iquitos",
+    "description": "Explore the best tour packages with PDT Peruvian Travel in the fascinating city of Iquitos. Experience adventure in the Amazon jungle, enjoy biodiversity, local culture, and the hospitality of its people. Whether as a couple, family, or friends, we offer exclusive itineraries, comfortable accommodations, and personalized service to make your trip unforgettable.",
+    "consultNow": "Consult now",
+    "packages": [
+        {
+            "title": "Classic Iquitos - Jungle and Adventure",
+            "duration": "4D/3N",
+            "image": "/iquitos-clasico-4-dias.png",
+            "link": "iquitos-clasico-4-dias-3-noches"
+        },
+        {
+            "title": "Magical Iquitos - Pacaya Samiria Reserve",
+            "duration": "5D/4N",
+            "image": "/iquitos-pacaya-5-dias.png",
+            "link": "iquitos-pacaya-5-dias-4-noches"
+        },
+        {
+            "title": "Essential Iquitos - Nature and Culture",
+            "duration": "3D/2N",
+            "image": "/iquitos-esencial-3-dias.png",
+            "link": "iquitos-esencial-3-dias-2-noches"
+        }
+    ]
+}

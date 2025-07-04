@@ -1,25 +1,25 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import cuscoData from '../../../i18n/en/mancora.json';
+import tarapotoData from '../../../i18n/en/iquitos.json';
 import PackageCard from '../../../components/PackageCard.astro';
 import Breadcrumb from '../../../components/Breadcrumb.astro';
 ---
 <Layout>
-    <Breadcrumb image="/bc-mancora.png" title="Máncora" alt="Imagen de Cusco" lang="en"/>
+    <Breadcrumb image="/bc-iquitos.png" title="Iquitos" alt="Imagen de Iquitos" lang="en"/>
     <section class="bg-white my-14">
         <div class="max-w-7xl mx-auto px-4">
             <div class="mb-8 text-center">
                 <h3 class="text-4xl font-bold mb-4 text-gray-950">
-                    {cuscoData.title}
+                    {tarapotoData.title}
                 </h3>
                 <p class="text-gray-950">
-                    {cuscoData.description}
+                    {tarapotoData.description}
                 </p>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {cuscoData.packages.map((pkg) => (
-                    <PackageCard title={pkg.title} duration={pkg.duration} image={pkg.image} link={pkg.link} i18n={{ consultNow: cuscoData.consultNow }} />
+                {tarapotoData.packages.map((pkg) => (
+                    <PackageCard title={pkg.title} duration={pkg.duration} image={pkg.image} link={pkg.link} i18n={{ consultNow: tarapotoData.consultNow }} />
                 ))}
             </div>
         </div>

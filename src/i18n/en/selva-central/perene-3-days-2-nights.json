@@ -1,0 +1,65 @@
+{
+    "title": "Selva Central - Perené - 3 Days / 2 Nights",
+    "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "itinerary": [
+        {
+            "day": "Day 01: Arrival in La Merced & City Tour",
+            "activities": [
+                { "time": "--:-- hrs", "text": "Arrival in La Merced." },
+                { "time": "08:00 hrs", "text": "Transfer to hotel and check-in." },
+                { "time": "09:30 hrs", "text": "City tour in La Merced: visit to the main square, cathedral, and local market." },
+                { "time": "13:00 hrs", "text": "Lunch." },
+                { "time": "15:00 hrs", "text": "Visit to the viewpoint of La Merced for panoramic views." },
+                { "time": "19:00 hrs", "text": "Dinner and overnight in La Merced." }
+            ]
+        },
+        {
+            "day": "Day 02: Perené Valley & Asháninka Community",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Breakfast." },
+                { "time": "08:30 hrs", "text": "Departure to Perené Valley." },
+                { "time": "09:30 hrs", "text": "Visit to the Bayoz and Velo de la Novia waterfalls. Opportunity for swimming and photos." },
+                { "time": "12:30 hrs", "text": "Lunch in Perené." },
+                { "time": "14:00 hrs", "text": "Visit to an Asháninka native community: cultural exchange, traditional dances, and handicrafts." },
+                { "time": "17:00 hrs", "text": "Return to La Merced." },
+                { "time": "19:00 hrs", "text": "Dinner and overnight." }
+            ]
+        },
+        {
+            "day": "Day 03: San Ramón & Coffee Route",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Breakfast." },
+                { "time": "08:30 hrs", "text": "Departure to San Ramón." },
+                { "time": "09:00 hrs", "text": "Visit to Tirol Waterfall and short hike through the forest." },
+                { "time": "11:00 hrs", "text": "Tour of a local coffee plantation: explanation of the process and tasting." },
+                { "time": "13:00 hrs", "text": "Lunch in San Ramón." },
+                { "time": "15:00 hrs", "text": "Visit to the Butterfly House and orchid garden." },
+                { "time": "17:00 hrs", "text": "Return to La Merced." },
+                { "time": "19:00 hrs", "text": "End of program." }
+            ]
+        }
+    ],
+    "includesTitle": "Our Program Includes",
+    "includesSubtitle": "(All-inclusive system – One-time payment)",
+    "includes": [
+        "Pick-up and drop-off at the school.",
+        "Private tourist transportation.",
+        "IN/OUT transfers.",
+        "02 nights at 3-star hotel with pool.",
+        "02 breakfasts.",
+        "03 lunches.",
+        "02 dinners as outlined in the itinerary.",
+        "03 days of tours (as per itinerary).",
+        "Group photos throughout the trip.",
+        "Trip video.",
+        "Group party.",
+        "Group banner.",
+        "Official tour guide.",
+        "01 agency staff member accompanying the group for full assistance.",
+        "Tours mentioned in the program, first aid kit.",
+        "Professional guiding and tourist entertainment.",
+        "Entrance tickets to all tourist sites.",
+        "Transport with SOAT insurance policy.",
+        "Permanent and personalized assistance."
+    ]
+}

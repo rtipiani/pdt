@@ -1,0 +1,25 @@
+{
+    "title": "Puno",
+    "description": "Discover the best tour packages with PDT Peruvian Travel in the magical city of Puno. Sail on Lake Titicaca, visit the floating Uros Islands, and experience the local culture. Whether as a couple, family, or friends, we offer exclusive itineraries, comfortable accommodations, and personalized service to make your trip unforgettable.",
+    "consultNow": "Consult now",
+    "packages": [
+        {
+            "title": "Classic Puno - Lake Titicaca and Uros",
+            "duration": "3D/2N",
+            "image": "/puno-clasico-3-dias.png",
+            "link": "puno-clasico-3-dias-2-noches"
+        },
+        {
+            "title": "Uros and Taquile Islands",
+            "duration": "2D/1N",
+            "image": "/uros-taquile-2-dias.png",
+            "link": "uros-taquile-2-dias-1-noche"
+        },
+        {
+            "title": "Essential Puno - Culture and Nature",
+            "duration": "4D/3N",
+            "image": "/puno-esencial-4-dias.png",
+            "link": "puno-esencial-4-dias-3-noches"
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "title": "Unforgettable North – 3 Days / 2 Nights",
+    "title": "Unforgettable North – 4 Days / 3 Nights",
     "certificate": "Certificate No. 028-2017-GRJ-DIRCETUR (MINCETUR)",
     "itinerary": [
         {
@@ -31,6 +31,15 @@
                 { "time": "08:00 Hrs", "text": "Breakfast." },
                 { "time": "09:00 Hrs", "text": "Visit to Aquapark Piura: the largest pools and water slides in Peru." },
                 { "time": "13:00 Hrs", "text": "Lunch." },
+                { "time": "15:30 Hrs", "text": "Visit to Catacaos artisan center." },
+                { "time": "20:00 Hrs", "text": "Dinner and cultural night at the hotel." }
+            ]
+        },
+        {
+            "day": "Day 04: Farewell and Return",
+            "activities": [
+                { "time": "08:00 Hrs", "text": "Breakfast at the hotel." },
+                { "time": "09:00 Hrs", "text": "Free time to pack and prepare for departure." },
                 { "time": "---- Hrs", "text": "Transfer to Piura airport and flight to Lima." },
                 { "time": "---- Hrs", "text": "Return to place of origin." }
             ]
@@ -42,12 +51,12 @@
         "Pickup and arrival at the school.",
         "Airfare Lima – Piura – Lima.",
         "Tourist transport Lima – Piura – Máncora – Tumbes – Lima.",
-        "02 nights accommodation in Máncora with pool.",
-        "02 nights of nighttime recreation (bonfires and beach parties).",
-        "03 breakfasts.",
-        "03 lunches.",
-        "02 dinners as per itinerary.",
-        "03 days of tours (according to itinerary).",
+        "03 nights accommodation in Máncora with pool.",
+        "03 nights of nighttime recreation (bonfires and beach parties).",
+        "04 breakfasts.",
+        "04 lunches.",
+        "03 dinners as per itinerary.",
+        "04 days of tours (according to itinerary).",
         "Photos and videos of the group throughout the trip.",
         "Party for the group.",
         "Yacht ride to Tortugas.",

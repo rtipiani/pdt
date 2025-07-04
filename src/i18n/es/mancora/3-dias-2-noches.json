@@ -1,54 +1,65 @@
 {
-    "title": "Máncora: 3 Días / 2 Noches",
-    "description": "Disfruta de un paquete turístico de 3 días y 2 noches en las hermosas playas de Máncora, con alojamiento, traslados y actividades incluidas.",
+    "title": "Norte Inolvidable – 3 Días / 2 Noches",
+    "certificate": "CONSTANCIA N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
     "itinerary": [
         {
-            "day": 1,
-            "title": "Llegada a Máncora",
+            "day": "Día 01: Vuelo a Piura - Hotel - Día Libre",
             "activities": [
-                "Recepción en el terminal o aeropuerto.",
-                "Traslado al hotel seleccionado.",
-                "Tarde libre para disfrutar de la playa."
+                { "time": "---- Hrs", "text": "Abordar el avión y traslado al hotel." },
+                { "time": "15:00 Hrs", "text": "Almuerzo." },
+                { "time": "16:00 Hrs", "text": "Tarde libre en la playa." },
+                { "time": "20:00 Hrs", "text": "Cena." },
+                { "time": "22:00 Hrs", "text": "Fogata y fiesta de bienvenida para el grupo." }
             ]
         },
         {
-            "day": 2,
-            "title": "Tour y Actividades",
+            "day": "Día 02: Tumbes: Puerto Pizarro + Manglares de Tumbes - Ecuador",
             "activities": [
-                "Desayuno en el hotel.",
-                "Tour a los Manglares de Tumbes o avistamiento de tortugas (según temporada).",
-                "Tarde libre para actividades opcionales: surf, paseo en cuatrimoto, etc."
+                { "time": "08:00 Hrs", "text": "Desayuno." },
+                { "time": "09:30 Hrs", "text": "Salimos al tour Full Day Manglares de Tumbes." },
+                { "time": "10:30 Hrs", "text": "Visita a Puerto Pizarro y Santuario Manglares Tumbes, recorrido en lancha por islas como Isla Pájaros y Hueso de Ballena." },
+                { "time": "11:30 Hrs", "text": "Zoocriadero de cocodrilos: explicación sobre estas especies en Perú." },
+                { "time": "13:30 Hrs", "text": "Almuerzo." },
+                { "time": "14:30 Hrs", "text": "Tarde de playa y deportes acuáticos: motos, bananas (opcionales)." },
+                { "time": "19:00 Hrs", "text": "Visita a Ecuador y regreso al hotel." },
+                { "time": "20:00 Hrs", "text": "Cena." }
             ]
         },
         {
-            "day": 3,
-            "title": "Despedida",
+            "day": "Día 03: Aquapark Piura - Catacaos",
             "activities": [
-                "Desayuno en el hotel.",
-                "Tiempo libre hasta la hora de salida.",
-                "Traslado al terminal o aeropuerto."
+                { "time": "08:00 Hrs", "text": "Desayuno." },
+                { "time": "09:00 Hrs", "text": "Visita a Aquapark Piura: piscinas y toboganes más grandes del Perú." },
+                { "time": "13:00 Hrs", "text": "Almuerzo." },
+                { "time": "---- Hrs", "text": "Traslado al aeropuerto de Piura y vuelo a Lima." },
+                { "time": "---- Hrs", "text": "Viaje al destino de origen." }
             ]
         }
     ],
+    "includesTitle": "El Programa Incluye",
+    "includesSubtitle": "(Sistema Todo Incluido – Pago Único)",
     "includes": [
-        "2 noches de alojamiento en hotel seleccionado",
-        "Desayunos diarios",
-        "Traslados de llegada y salida",
-        "Tour según itinerario"
+        "Recojo y llegada al colegio.",
+        "Boleto aéreo Lima – Piura – Lima.",
+        "Transporte turístico Lima – Piura – Máncora – Tumbes – Lima.",
+        "02 noches de alojamiento en Máncora con piscina.",
+        "02 noches de recreación nocturna (fogatas y fiestas en la playa).",
+        "03 desayunos.",
+        "03 almuerzos.",
+        "02 cenas según itinerario.",
+        "03 días de tours según itinerario.",
+        "Fotografías y videos del grupo durante todo el viaje.",
+        "Fiesta para el grupo.",
+        "Paseo en yate Tortugas.",
+        "Guía local de turismo.",
+        "01 personal de la agencia que acompaña todo el viaje.",
+        "Personal de primeros auxilios.",
+        "Botiquín de primeros auxilios.",
+        "Guía profesional y entretenimiento turístico.",
+        "Entradas a todos los lugares turísticos.",
+        "Movilidad con póliza de seguro SOAT.",
+        "Asistencia permanente y personalizada."
     ],
-    "not_included": [
-        "Almuerzos y cenas",
-        "Gastos personales",
-        "Actividades opcionales",
-        "Propinas"
-    ],
-    "recommendations": [
-        "Llevar bloqueador solar y repelente",
-        "Ropa ligera y traje de baño",
-        "Dinero en efectivo para gastos personales"
-    ],
-    "contact": {
-        "email": "info@pdtperuviantravel.com",
-        "phone": "+51 999 999 999"
-    }
+    "not_included": [],
+    "recommendations": []
 }

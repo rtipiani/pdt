@@ -1,0 +1,31 @@
+{
+    "title": "Selva Central",
+    "description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel en la maravillosa Selva Central. Disfruta de la naturaleza, el clima agradable y la cultura local. Ya sea que viajes en pareja, en familia o con amigos, te ofrecemos itinerarios exclusivos, alojamientos de calidad y un servicio personalizado que harán de tu viaje una experiencia realmente inolvidable.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Perené - Oxapampa - Pozuzo Borg - CITY",
+            "duration": "5D/4N",
+            "image": "/perene-5-dias.png",
+            "link": "perene-5-dias-4-noches"
+        },
+        {
+            "title": "Perené - Oxapampa - Pozuzo - Borg",
+            "duration": "4D/3N",
+            "image": "/perene-4-dias.png",
+            "link": "perene-4-dias-3-noches"
+        },
+        {
+            "title": "Perené - Oxapampa - Pozuzo",
+            "duration": "3D/2N",
+            "image": "/perene-3-dias.png",
+            "link": "perene-3-dias-2-noches"
+        },
+        {
+            "title": "Perené - Oxapampa",
+            "duration": "2D/1N",
+            "image": "/perene-2-dias.png",
+            "link": "perene-2-dias-1-noche"
+        }
+    ]
+}

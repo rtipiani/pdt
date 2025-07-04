@@ -1,0 +1,65 @@
+{
+    "title": "Selva Central - Perené - 3 Días / 2 Noches",
+    "certificate": "Certificado N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "itinerary": [
+        {
+            "day": "Día 01: Llegada a La Merced y City Tour",
+            "activities": [
+                { "time": "--:-- hrs", "text": "Llegada a La Merced." },
+                { "time": "08:00 hrs", "text": "Traslado al hotel y check-in." },
+                { "time": "09:30 hrs", "text": "City tour en La Merced: visita a la plaza principal, catedral y mercado local." },
+                { "time": "13:00 hrs", "text": "Almuerzo." },
+                { "time": "15:00 hrs", "text": "Visita al mirador de La Merced para vistas panorámicas." },
+                { "time": "19:00 hrs", "text": "Cena y pernocte en La Merced." }
+            ]
+        },
+        {
+            "day": "Día 02: Valle del Perené y Comunidad Asháninka",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Desayuno." },
+                { "time": "08:30 hrs", "text": "Salida hacia el Valle del Perené." },
+                { "time": "09:30 hrs", "text": "Visita a las cataratas Bayoz y Velo de la Novia. Oportunidad para nadar y tomar fotos." },
+                { "time": "12:30 hrs", "text": "Almuerzo en Perené." },
+                { "time": "14:00 hrs", "text": "Visita a una comunidad nativa Asháninka: intercambio cultural, danzas tradicionales y artesanías." },
+                { "time": "17:00 hrs", "text": "Retorno a La Merced." },
+                { "time": "19:00 hrs", "text": "Cena y pernocte." }
+            ]
+        },
+        {
+            "day": "Día 03: San Ramón y Ruta del Café",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Desayuno." },
+                { "time": "08:30 hrs", "text": "Salida hacia San Ramón." },
+                { "time": "09:00 hrs", "text": "Visita a la catarata Tirol y caminata corta por el bosque." },
+                { "time": "11:00 hrs", "text": "Recorrido por una finca cafetalera local: explicación del proceso y degustación." },
+                { "time": "13:00 hrs", "text": "Almuerzo en San Ramón." },
+                { "time": "15:00 hrs", "text": "Visita a la Casa de las Mariposas y jardín de orquídeas." },
+                { "time": "17:00 hrs", "text": "Retorno a La Merced." },
+                { "time": "19:00 hrs", "text": "Fin del programa." }
+            ]
+        }
+    ],
+    "includesTitle": "Nuestro Programa Incluye",
+    "includesSubtitle": "(Sistema todo incluido – Pago único)",
+    "includes": [
+        "Recojo y retorno al colegio.",
+        "Transporte turístico privado.",
+        "Traslados IN/OUT.",
+        "02 noches en hotel 3 estrellas con piscina.",
+        "02 desayunos.",
+        "03 almuerzos.",
+        "02 cenas según itinerario.",
+        "03 días de tours (según itinerario).",
+        "Fotos grupales durante el viaje.",
+        "Video del viaje.",
+        "Fiesta grupal.",
+        "Banner grupal.",
+        "Guía oficial de turismo.",
+        "01 personal de la agencia acompañando al grupo para asistencia total.",
+        "Tours mencionados en el programa, botiquín de primeros auxilios.",
+        "Guiado profesional y animación turística.",
+        "Entradas a todos los sitios turísticos.",
+        "Transporte con póliza de seguro SOAT.",
+        "Asistencia permanente y personalizada."
+    ]
+}

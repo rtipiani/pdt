@@ -1,0 +1,86 @@
+{
+    "title": "Selva Central - Perené - 5 Días / 4 Noches",
+    "certificate": "Certificado N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "itinerary": [
+        {
+            "day": "Día 01: Llegada a La Merced y City Tour",
+            "activities": [
+                { "time": "--:-- hrs", "text": "Llegada a La Merced." },
+                { "time": "08:00 hrs", "text": "Traslado al hotel y check-in." },
+                { "time": "09:30 hrs", "text": "City tour en La Merced: visita a la plaza principal, catedral y mercado local." },
+                { "time": "13:00 hrs", "text": "Almuerzo." },
+                { "time": "15:00 hrs", "text": "Visita al mirador de La Merced para vistas panorámicas." },
+                { "time": "19:00 hrs", "text": "Cena y pernocte en La Merced." }
+            ]
+        },
+        {
+            "day": "Día 02: Valle del Perené y Comunidad Asháninka",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Desayuno." },
+                { "time": "08:30 hrs", "text": "Salida hacia el Valle del Perené." },
+                { "time": "09:30 hrs", "text": "Visita a las cataratas Bayoz y Velo de la Novia. Oportunidad para nadar y tomar fotos." },
+                { "time": "12:30 hrs", "text": "Almuerzo en Perené." },
+                { "time": "14:00 hrs", "text": "Visita a una comunidad nativa Asháninka: intercambio cultural, danzas tradicionales y artesanías." },
+                { "time": "17:00 hrs", "text": "Retorno a La Merced." },
+                { "time": "19:00 hrs", "text": "Cena y pernocte." }
+            ]
+        },
+        {
+            "day": "Día 03: Aventura en Oxapampa",
+            "activities": [
+                { "time": "06:30 hrs", "text": "Desayuno." },
+                { "time": "07:00 hrs", "text": "Salida hacia Oxapampa (aprox. 3 horas)." },
+                { "time": "10:00 hrs", "text": "City tour en Oxapampa: plaza principal, iglesia y tiendas locales." },
+                { "time": "12:00 hrs", "text": "Visita a una lechería y degustación de productos locales." },
+                { "time": "13:30 hrs", "text": "Almuerzo en Oxapampa." },
+                { "time": "15:00 hrs", "text": "Visita a la Cueva Tunqui o Catarata El Tirol (según condiciones climáticas)." },
+                { "time": "18:00 hrs", "text": "Retorno a La Merced." },
+                { "time": "20:00 hrs", "text": "Cena y pernocte." }
+            ]
+        },
+        {
+            "day": "Día 04: San Ramón y Ruta del Café",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Desayuno." },
+                { "time": "08:30 hrs", "text": "Salida hacia San Ramón." },
+                { "time": "09:00 hrs", "text": "Visita a la Catarata El Tirol y caminata corta por el bosque." },
+                { "time": "11:00 hrs", "text": "Tour por una plantación de café local: explicación del proceso y degustación." },
+                { "time": "13:00 hrs", "text": "Almuerzo en San Ramón." },
+                { "time": "15:00 hrs", "text": "Visita a la Casa de las Mariposas y jardín de orquídeas." },
+                { "time": "17:00 hrs", "text": "Retorno a La Merced." },
+                { "time": "19:00 hrs", "text": "Cena y pernocte." }
+            ]
+        },
+        {
+            "day": "Día 05: Despedida y Retorno",
+            "activities": [
+                { "time": "07:30 hrs", "text": "Desayuno." },
+                { "time": "09:00 hrs", "text": "Tiempo libre para compras o descanso." },
+                { "time": "11:00 hrs", "text": "Check-out y traslado al terminal terrestre o aeropuerto." }
+            ]
+        }
+    ],
+    "includesTitle": "Nuestro Programa Incluye",
+    "includesSubtitle": "(Sistema todo incluido – Pago único)",
+    "includes": [
+        "Recojo y retorno al colegio.",
+        "Transporte turístico privado.",
+        "Traslados IN/OUT.",
+        "04 noches en hotel 3 estrellas con piscina.",
+        "04 desayunos.",
+        "05 almuerzos.",
+        "04 cenas según itinerario.",
+        "05 días de tours (según itinerario).",
+        "Fotos grupales durante el viaje.",
+        "Video del viaje.",
+        "Fiesta grupal.",
+        "Banner grupal.",
+        "Guía oficial de turismo.",
+        "01 personal de la agencia acompañando al grupo para asistencia total.",
+        "Tours mencionados en el programa, botiquín de primeros auxilios.",
+        "Guiado profesional y animación turística.",
+        "Entradas a todos los sitios turísticos.",
+        "Transporte con póliza de seguro SOAT.",
+        "Asistencia permanente y personalizada."
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Arequipa",
+    "description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel en la hermosa ciudad de Arequipa. Explora el majestuoso Cañón del Colca, admira la arquitectura colonial y disfruta de la gastronomía local. Ya sea en pareja, familia o amigos, te ofrecemos itinerarios exclusivos, alojamientos confortables y un servicio personalizado para que tu viaje sea inolvidable.",
+    "consultNow": "Consultar ahora",
+    "packages": [
+        {
+            "title": "Arequipa Clásico - Ciudad Blanca y Monasterio",
+            "duration": "3D/2N",
+            "image": "/arequipa-clasico-3-dias.png",
+            "link": "arequipa-clasico-3-dias-2-noches"
+        },
+        {
+            "title": "Cañón del Colca - Naturaleza y Cultura",
+            "duration": "2D/1N",
+            "image": "/colca-2-dias.png",
+            "link": "colca-2-dias-1-noche"
+        },
+        {
+            "title": "Arequipa Esencial - Ruta Gastronómica",
+            "duration": "4D/3N",
+            "image": "/arequipa-gastronomia-4-dias.png",
+            "link": "arequipa-gastronomia-4-dias-3-noches"
+        }
+    ]
+}

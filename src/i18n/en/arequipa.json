@@ -1,0 +1,25 @@
+{
+    "title": "Arequipa",
+    "description": "Discover the best tour packages with PDT Peruvian Travel in the beautiful city of Arequipa. Explore the majestic Colca Canyon, admire colonial architecture, and enjoy the local cuisine. Whether as a couple, family, or friends, we offer exclusive itineraries, comfortable accommodations, and personalized service to make your trip unforgettable.",
+    "consultNow": "Consult now",
+    "packages": [
+        {
+            "title": "Classic Arequipa - White City and Monastery",
+            "duration": "3D/2N",
+            "image": "/arequipa-clasico-3-dias.png",
+            "link": "arequipa-clasico-3-dias-2-noches"
+        },
+        {
+            "title": "Colca Canyon - Nature and Culture",
+            "duration": "2D/1N",
+            "image": "/colca-2-dias.png",
+            "link": "colca-2-dias-1-noche"
+        },
+        {
+            "title": "Essential Arequipa - Gastronomic Route",
+            "duration": "4D/3N",
+            "image": "/arequipa-gastronomia-4-dias.png",
+            "link": "arequipa-gastronomia-4-dias-3-noches"
+        }
+    ]
+}

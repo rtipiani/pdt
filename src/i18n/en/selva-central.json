@@ -1,0 +1,31 @@
+{
+    "title": "Central Jungle",
+    "description": "Discover the best tour packages with PDT Peruvian Travel in the wonderful Central Jungle. Enjoy nature, pleasant weather, and local culture. Whether you travel as a couple, with family, or with friends, we offer exclusive itineraries, quality accommodations, and personalized service that will make your trip a truly unforgettable experience.",
+    "consultNow": "Consult now",
+    "packages": [
+        {
+            "title": "Perené - Oxapampa - Pozuzo Borg - CITY",
+            "duration": "5D/4N",
+            "image": "/perene-5-dias.png",
+            "link": "perene-5-days-4-nights"
+        },
+        {
+            "title": "Perené - Oxapampa - Pozuzo - Borg",
+            "duration": "4D/3N",
+            "image": "/perene-4-dias.png",
+            "link": "perene-4-days-3-nights"
+        },
+        {
+            "title": "Perené - Oxapampa - Pozuzo",
+            "duration": "3D/2N",
+            "image": "/perene-3-dias.png",
+            "link": "perene-3-days-2-nights"
+        },
+        {
+            "title": "Perené - Oxapampa",
+            "duration": "2D/1N",
+            "image": "/perene-2-dias.png",
+            "link": "perene-2-days-1-night"
+        }
+    ]
+}
