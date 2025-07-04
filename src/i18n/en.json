@@ -309,5 +309,90 @@
 			"Permanent assistance during the stay.",
 			"Hotel taxes."
 		]
-	}
+	},
+	"sanAndresTour": {
+		"certification": "International Tour Operator Certificate",
+		"routeTitle": "Route",
+		"routeText": "SAN ANDRÉS – JOHNNY CAY – AQUARIUM – HAINES CAY – COLOMBIA",
+		"duration": "Duration",
+		"durationValue": "03 days / 02 nights",
+		"clientType": "Client Type",
+		"clientTypeValue": "Couples, Families, Friends",
+		"serviceType": "Service Type",
+		"serviceTypeValue": "Private / Shared",
+		"itinerary": "Itinerary",
+		"day01Title": "Day 01: Arrival in San Andrés",
+		"day01Text": "--:-- hrs: Arrival at Gustavo Rojas Pinilla International Airport. Transfer to the selected hotel. Free time to enjoy the beach and facilities.",
+		"day02Title": "Day 02: Johnny Cay and Aquarium",
+		"day02Schedule": [
+			"08:00 hrs: Breakfast at the hotel.",
+			"09:00 hrs: Excursion to Johnny Cay and Aquarium (Haines Cay).",
+			"13:00 hrs: Lunch on the island.",
+			"15:00 hrs: Free time for water activities and to enjoy the sea of seven colors.",
+			"17:00 hrs: Return to the hotel and rest."
+		],
+		"day03Title": "Day 03: Return",
+		"day03Schedule": [
+			"08:00 hrs: Breakfast.",
+			"10:00 hrs: Check-out and transfer to the airport.",
+			"--:-- hrs: Return flight."
+		],
+		"includedTitle": "The Program Includes",
+		"includedItems": [
+			"Airport – hotel – airport transfers.",
+			"02 nights of accommodation in the selected hotel.",
+			"Daily breakfasts.",
+			"Excursion to Johnny Cay and Aquarium (Haines Cay).",
+			"Local Spanish-speaking guide.",
+			"Permanent assistance during the stay.",
+			"Hotel taxes."
+		]
+	},
+	"cartagenaTour": {
+		"certification": "International Tour Operator Certificate",
+		"routeTitle": "Route",
+		"routeText": "CARTAGENA DE INDIAS – ROSARIO ISLANDS – PLAYA BLANCA – COLOMBIA",
+		"duration": "Duration",
+		"durationValue": "04 days / 03 nights",
+		"clientType": "Client Type",
+		"clientTypeValue": "Couples, Families, Friends",
+		"serviceType": "Service Type",
+		"serviceTypeValue": "Private / Shared",
+		"itinerary": "Itinerary",
+		"day01Title": "Day 01: Arrival in Cartagena",
+		"day01Text": "--:-- hrs: Arrival at Rafael Núñez International Airport. Transfer to the selected hotel. Free time to enjoy the facilities and explore the walled city.",
+		"day02Title": "Day 02: Historic Cartagena City Tour",
+		"day02Schedule": [
+			"08:00 hrs: Breakfast at the hotel.",
+			"09:00 hrs: Tour of the historic center, Clock Tower, San Felipe Castle, and traditional neighborhoods.",
+			"13:00 hrs: Lunch at a local restaurant.",
+			"15:00 hrs: Free afternoon for shopping or optional activities.",
+			"19:00 hrs: Dinner and free evening."
+		],
+		"day03Title": "Day 03: Rosario Islands and Playa Blanca Excursion",
+		"day03Schedule": [
+			"07:00 hrs: Breakfast.",
+			"08:00 hrs: Departure by boat to Rosario Islands.",
+			"10:00 hrs: Visit to the aquarium and free time at Playa Blanca.",
+			"13:00 hrs: Typical lunch on the island.",
+			"16:00 hrs: Return to the hotel and rest."
+		],
+		"day04Title": "Day 04: Return",
+		"day04Schedule": [
+			"08:00 hrs: Breakfast.",
+			"10:00 hrs: Check-out and transfer to the airport.",
+			"--:-- hrs: Return flight."
+		],
+		"includedTitle": "Program Includes",
+		"includedItems": [
+			"Airport – hotel – airport transfers.",
+			"03 nights accommodation at the selected hotel.",
+			"Daily breakfasts.",
+			"Historic Cartagena city tour.",
+			"Excursion to Rosario Islands and Playa Blanca with lunch.",
+			"Local Spanish-speaking guide.",
+			"Permanent assistance during the stay.",
+			"Hotel taxes."
+		]
+	}			
 }

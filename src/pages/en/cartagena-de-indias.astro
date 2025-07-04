@@ -1,0 +1,12 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import CartagenaTour from '../../components/CartagenaTour.astro';
+import en from '../../i18n/en.json';
+const i18n = en;
+---
+
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-cartagena-de-indias.png" title="Cartagena de Indias" alt="Imagen de Cartagena de Indias" lang="en"/>
+    <CartagenaTour t={en.cartagenaTour} />
+</Layout>

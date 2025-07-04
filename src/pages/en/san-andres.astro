@@ -1,0 +1,12 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import SanAndresTour from '../../components/SanAndresTour.astro';
+import en from '../../i18n/en.json';
+const i18n = en;
+---
+
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-colombia.png" title="San Andrés" alt="Imagen de San Andrés" lang="en"/>
+    <SanAndresTour t={en.sanAndresTour} />
+</Layout>

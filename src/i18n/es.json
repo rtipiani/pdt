@@ -95,7 +95,7 @@
 			{
         		"title": "COLOMBIA - SAN ANDRÉS",
         		"image": "/san-andres.png",
-        		"link": "colombia/san-andres"
+        		"link": "san-andres"
       		},
 			{
         		"title": "ARUBA",
@@ -109,8 +109,8 @@
       		},
 			{
         		"title": "CARTAGENA DE INDIAS",
-        		"image": "/cartagena-de-indias.png",
-        		"link": "colombia/cartagena-de-indias"
+        		"image": "/bc-cartagena-de-indias.png",
+        		"link": "cartagena-de-indias"
       		}
     	]
   	},
@@ -305,6 +305,91 @@
 			"Desayunos diarios.",
 			"Excursión a Isla Saona con almuerzo.",
 			"City tour por Higüey y Playa Bávaro.",
+			"Guía local en español.",
+			"Asistencia permanente durante la estadía.",
+			"Impuestos hoteleros."
+		]
+	},
+	"sanAndresTour": {
+		"certification": "Certificado de Operador Turístico Internacional",
+		"routeTitle": "Ruta",
+		"routeText": "SAN ANDRÉS – JOHNNY CAY – ACUARIO – HAINES CAY – COLOMBIA",
+		"duration": "Duración",
+		"durationValue": "03 días / 02 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Parejas, Familias, Amigos",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado / Compartido",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Llegada a San Andrés",
+		"day01Text": "--:-- hrs: Llegada al aeropuerto internacional Gustavo Rojas Pinilla. Traslado al hotel seleccionado. Tiempo libre para disfrutar de la playa y las instalaciones.",
+		"day02Title": "Día 02: Johnny Cay y Acuario",
+		"day02Schedule": [
+			"08:00 hrs: Desayuno en el hotel.",
+			"09:00 hrs: Excursión a Johnny Cay y Acuario (Haines Cay).",
+			"13:00 hrs: Almuerzo en la isla.",
+			"15:00 hrs: Tiempo libre para actividades acuáticas y disfrutar del mar de los siete colores.",
+			"17:00 hrs: Regreso al hotel y descanso."
+		],
+		"day03Title": "Día 03: Retorno",
+		"day03Schedule": [
+			"08:00 hrs: Desayuno.",
+			"10:00 hrs: Check-out y traslado al aeropuerto.",
+			"--:-- hrs: Vuelo de retorno."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Traslados aeropuerto – hotel – aeropuerto.",
+			"02 noches de alojamiento en hotel seleccionado.",
+			"Desayunos diarios.",
+			"Excursión a Johnny Cay y Acuario (Haines Cay).",
+			"Guía local en español.",
+			"Asistencia permanente durante la estadía.",
+			"Impuestos hoteleros."
+		]
+	},
+	"cartagenaTour": {
+		"certification": "Certificado de Operador Turístico Internacional",
+		"routeTitle": "Ruta",
+		"routeText": "CARTAGENA DE INDIAS – ISLAS DEL ROSARIO – PLAYA BLANCA – COLOMBIA",
+		"duration": "Duración",
+		"durationValue": "04 días / 03 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Parejas, Familias, Amigos",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado / Compartido",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Llegada a Cartagena",
+		"day01Text": "--:-- hrs: Llegada al aeropuerto internacional Rafael Núñez. Traslado al hotel seleccionado. Tiempo libre para disfrutar de las instalaciones y conocer la ciudad amurallada.",
+		"day02Title": "Día 02: City Tour Cartagena Histórica",
+		"day02Schedule": [
+			"08:00 hrs: Desayuno en el hotel.",
+			"09:00 hrs: Recorrido por el centro histórico, Torre del Reloj, Castillo de San Felipe y barrios tradicionales.",
+			"13:00 hrs: Almuerzo en restaurante local.",
+			"15:00 hrs: Tarde libre para compras o actividades opcionales.",
+			"19:00 hrs: Cena y noche libre."
+		],
+		"day03Title": "Día 03: Excursión Islas del Rosario y Playa Blanca",
+		"day03Schedule": [
+			"07:00 hrs: Desayuno.",
+			"08:00 hrs: Salida en lancha hacia Islas del Rosario.",
+			"10:00 hrs: Visita al acuario y tiempo libre en Playa Blanca.",
+			"13:00 hrs: Almuerzo típico en la isla.",
+			"16:00 hrs: Regreso al hotel y descanso."
+		],
+		"day04Title": "Día 04: Retorno",
+		"day04Schedule": [
+			"08:00 hrs: Desayuno.",
+			"10:00 hrs: Check-out y traslado al aeropuerto.",
+			"--:-- hrs: Vuelo de retorno."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Traslados aeropuerto – hotel – aeropuerto.",
+			"03 noches de alojamiento en hotel seleccionado.",
+			"Desayunos diarios.",
+			"City tour por Cartagena histórica.",
+			"Excursión a Islas del Rosario y Playa Blanca con almuerzo.",
 			"Guía local en español.",
 			"Asistencia permanente durante la estadía.",
 			"Impuestos hoteleros."
