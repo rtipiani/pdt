@@ -1,0 +1,12 @@
+---
+// English gallery page
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import GalleryP from '../../components/Gallery.astro';
+import data from '../../i18n/en/gallery.json';
+---
+
+<Layout>
+  <Breadcrumb image="/bc-cajamarca.png" title="Gallery" alt="Gallery images" lang="en" />
+  <GalleryP images={data.images} />
+</Layout>

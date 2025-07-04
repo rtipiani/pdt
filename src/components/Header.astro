@@ -41,21 +41,35 @@ const routeMap: { [key: string]: string } = {
     '/en/selva-central/perene-3-days-2-nights': '/es/selva-central/perene-3-dias-2-noches',
     '/es/selva-central/perene-2-dias-1-noche': '/en/selva-central/perene-2-days-1-night',
     '/en/selva-central/perene-2-days-1-night': '/es/selva-central/perene-2-dias-1-noche',
+    '/es/iquitos/5-dias-4-noches': '/en/iquitos/5-days-4-nights',
+    '/en/iquitos/5-days-4-nights': '/es/iquitos/5-dias-4-noches',
+    '/es/galeria': '/en/gallery',
+    '/en/gallery': '/es/galeria',
 };
 const currentPath = pathname.toLowerCase().replace(/\/$/, '');
-
-const switchUrl = routeMap[currentPath] || getRelativeLocaleUrl(switchLocale, pathname.replace(/^\/(es|en)/, ''));
+const switchUrl =
+  routeMap[currentPath] || getRelativeLocaleUrl(switchLocale, pathname.replace(/^\/(es|en)/, ''));
 
 const i18n = currentLocale === 'es' ? es : en;
 
 const destinationKeys = [
-    'cajamarca', 'ayacucho', 'cusco', 'tarapoto', 'mancora', 'selva-central', 'iquitos', 'arequipa', 'puno'
+  'cajamarca', 'ayacucho', 'cusco', 'tarapoto', 'mancora',
+  'selva-central', 'iquitos', 'arequipa', 'puno'
 ] as const;
 
-const links = destinationKeys.map((path) => ({
+// Enlaces turísticos + galería
+const links = [
+  ...destinationKeys.map((path) => ({
     name: i18n.menu[path],
     url: getRelativeLocaleUrl(currentLocale, path)
-}));
+  })),
+  {
+    name: i18n.menu.galeria,
+    url: currentLocale === 'es'
+      ? getRelativeLocaleUrl('es', 'galeria')
+      : getRelativeLocaleUrl('en', 'gallery')
+  }
+];
 ---
 
 <header id="main-header" class="fixed top-0 left-0 w-full backdrop-blur-md z-50">

@@ -1,0 +1,87 @@
+{
+    "title": "Iquitos Misterioso 5D/4N",
+    "certificate": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+    "summary": {
+        "route": "VUELO / MANCORA HOTEL PLAYA – MANGLARES DE TUMBES - ECUADOR – PIURA/CATACAOS/VIAJE",
+        "clientType": "Grupo",
+        "serviceType": "Privado"
+    },
+    "itinerary": [
+        {
+            "day": "Día 01: Vuelo a Iquitos - Día de Paseo",
+            "activities": [
+                {
+                    "time": "--:-- hrs",
+                    "text": "Vuelo y Llegada a Iquitos, recepción en el aeropuerto y traslado al Hotel. Visita Iquitos a sus alrededores, Plazas, catedrales, miradores."
+                }
+            ]
+        },
+        {
+            "day": "Día 02: Laguna Quistococha y Manatíes",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Te recogeremos en tu hotel para comenzar el tour en el que pasaremos por los puntos más importantes de la ciudad de Iquitos. El guía nos entregará información valiosa sobre algunos edificios de carácter histórico y sobre la ciudad en general, que tuvo su época de gloria a fines del siglo XIX y principios del siglo XX debido a la fiebre del caucho. Luego, tomaremos la carretera que une Iquitos con Nauta para realizar una parada en el Centro ACOBIA, lugar de conservación de manatíes. Estos mamíferos acuáticos, también conocidos como vacas marinas, son rescatados por un grupo de biólogos para su protección, debido a que sufren por la depredación del hombre. Luego de verlos, y obtener información sobre su conducta y ciclo de vida, continuaremos nuestro tour hacia el parque zoológico nacional Quistococha, donde veremos diferentes animales que habitan la región del Amazonas. También, podremos bañarnos en la playa artificial que existe en el lugar. Después de este momento, regresaremos a Iquitos para terminar la actividad."
+                }
+            ]
+        },
+        {
+            "day": "Día 03: Full Day Iquitos",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "Te pasaremos a buscar a tu hotel para comenzar este tour. El Full Day Iquitos iniciará con un recorrido por esta ciudad cuya fundación no se conoce con exactitud. Lo que sí sabemos, es que tuvo su mayor apogeo durante la fiebre del caucho en la región, a fines del siglo XIX y principios del siglo XX. Conoceremos los principales atractivos turísticos e históricos, para luego trasladarnos hacia Nauta. En el camino, visitaremos el Centro ACOBIA, lugar donde un grupo de biólogos rescata y ayuda a manatíes para su conservación. También, visitaremos el parque zoológico nacional Quistococha, donde veremos animales de la selva amazónica y, también, disfrutaremos de la playa artificial del lugar."
+                },
+                {
+                    "time": "",
+                    "text": "Posteriormente, tendremos nuestro almuerzo, luego de lo que continuaremos la experiencia yendo hacia el puerto Bellavista Nanay, donde embarcaremos para navegar hacia Padre Cocha, donde se encuentra una granja de mariposas llamada Pilpintuwasi. En este lugar existen 42 especies de mariposas, de las que podremos reconocer algunas. Luego, visitaremos la comunidad Los Boras, quienes nos enseñarán sobre sus costumbres y folklore"
+                },
+                {
+                    "time": "",
+                    "text": "También, tendremos tiempo de visitar un santuario de animales en el que nos aproximaremos a diversas especies, como la anaconda, oso perezoso y diferentes monos. Luego, embarcaremos para comenzar el retorno a la ciudad de Iquitos, donde termina nuestra actividad."
+                }
+            ]
+        },
+        {
+            "day": "Día 04: Full Day Amazonas",
+            "activities": [
+                {
+                    "time": "",
+                    "text": "La recogida será en tu hotel para salir de Iquitos tomando el bote en el que navegaremos por el río Amazonas hasta la desembocadura del río Nanay. Así comienza este Full Day Amazonas, tratando de identificar los delfines rosados de agua dulce. Posteriormente, continuaremos navegando hacia un refugio rústico natural y visitaremos una tribu yagua, uno de los grupos étnicos más antiguos de la Amazonia. Ellos nos enseñarán algunas de sus costumbres, bailes e idioma. También, tendremos la posibilidad de practicar puntería con cerbatana."
+                },
+                {
+                    "time": "",
+                    "text": "Después del almuerzo en el refugio, continuaremos navegando el río Amazonas hasta el pequeño pueblo de Barrio Florido, comunidad que se dedica a la pesca y la agricultura. Desde este lugar, caminaremos hasta el fundo Pedrito, donde podremos ver diferentes animales como caimanes y paiches. También, veremos la Victoria regia, la planta acuática más grande del mundo. Nuestra última visita del día será el Santuario de Animales, donde podremos ver una anaconda, osos perezosos y diferentes monos. Luego de esto, abordaremos nuestro bote para retornar a Iquitos, donde finaliza la actividad"
+                }
+            ]
+        },
+        {
+            "day": "Día 05: Despedida y tiempo libre",
+            "activities": [
+                {
+                    "time": "08:30 hrs",
+                    "text": "Desayuno y día libre ideal para disfrutar del hotel (piscina) y hacer algunas comprar antes de salir de viaje."
+                }
+            ]
+        }
+    ],
+    "includesTitle": "Nuestro Sistema Incluye",
+    "includesSubtitle": "Sistema todo incluido – Pago único",
+    "includes": [
+        "Vuelo Lima – Iquitos – Lima",
+        "Transporte Turístico en bus privado.",
+        "Traslados IN/OUT.",
+        "04 Noches de alojamiento hotel *** con piscina.",
+        "01 Noche de recreación nocturna.",
+        "04 Desayunos.",
+        "05 Días de tours (según itinerario).",
+        "Guía local de turismo.",
+        "01 personal de la agencia que realiza el viaje completo con la promoción para dar. seguridad en cumplimiento del tour.",
+        "Personal de primeros auxilios.",
+        "Tour mencionado en el programa, Botiquín de primeros auxilios.",
+        "Guiado Profesional y entretenimiento turístico.",
+        "Boleto de ingreso a todos los lugares turísticos.",
+        "Movilidad con Póliza de seguro SOAT.",
+        "Asistencia permanente y personalizada."
+    ]
+}

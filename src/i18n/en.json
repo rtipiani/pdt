@@ -9,7 +9,8 @@
     	"selva-central": "Central Jungle",
     	"iquitos": "Iquitos",
     	"arequipa": "Arequipa",
-    	"puno": "Puno"
+    	"puno": "Puno",
+		"galeria": "Gallery"
   	},
   	"slides": [
     	{ "title": "MACHU PICCHU - CUSCO", "buttonText": "Ask Now" },
