@@ -95,7 +95,7 @@
 			{
         		"title": "COLOMBIA - SAN ANDRÉS",
         		"image": "/san-andres.png",
-        		"link": "colombia/san-andres"
+        		"link": "san-andres"
       		},
 			{
         		"title": "ARUBA",
@@ -105,12 +105,12 @@
 			{
         		"title": "PUNTA CANA",
         		"image": "/punta-cana.png",
-        		"link": "republica-dominicana/punta-cana"
+        		"link": "punta-cana"
       		},
 			{
         		"title": "CARTAGENA DE INDIAS",
         		"image": "/cartagena-de-indias.png",
-        		"link": "colombia/cartagena-de-indias"
+        		"link": "cartagena-de-indias"
       		}
     	]
   	},
