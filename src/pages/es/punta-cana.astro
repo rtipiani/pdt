@@ -1,0 +1,12 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import PuntaCanaTour from '../../components/PuntaCanaTour.astro';
+import es from '../../i18n/es.json';
+const i18n = es;
+---
+
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-punta-cana2.png" title="Punta Cana" alt="Imagen de Punta Cana" lang="es"/>
+    <PuntaCanaTour t={es.puntaCanaTour} />
+</Layout>

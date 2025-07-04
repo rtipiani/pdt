@@ -100,12 +100,12 @@
 			{
         		"title": "ARUBA",
         		"image": "/aruba.png",
-        		"link": "caribe/aruba"
+        		"link": "aruba"
       		},
 			{
         		"title": "PUNTA CANA",
         		"image": "/punta-cana.png",
-        		"link": "republica-dominicana/punta-cana"
+        		"link": "punta-cana"
       		},
 			{
         		"title": "CARTAGENA DE INDIAS",
@@ -208,6 +208,106 @@
 			"Boleto de ingreso a todos los lugares turísticos.",
 			"Movilidad con Póliza de seguro SOAT.",
 			"Asistencia permanente y personalizada."
+		]
+	},
+	"arubaTour": {
+		"certification": "Certificado de Operador Turístico Internacional",
+		"routeTitle": "Ruta",
+		"routeText": "ORANJESTAD – PALM BEACH – EAGLE BEACH – ARASHI BEACH – ARUBA",
+		"duration": "Duración",
+		"durationValue": "04 días / 03 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Parejas, Familias, Amigos",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado / Compartido",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Llegada a Aruba",
+		"day01Text": "--:-- hrs: Llegada al aeropuerto internacional Reina Beatrix. Traslado al hotel seleccionado. Tiempo libre para disfrutar de las instalaciones.",
+		"day02Title": "Día 02: City Tour Oranjestad y Playas",
+		"day02Schedule": [
+			"08:00 hrs: Desayuno en el hotel.",
+			"09:00 hrs: Recorrido por el centro histórico de Oranjestad.",
+			"12:00 hrs: Visita a Eagle Beach y Palm Beach.",
+			"15:00 hrs: Tiempo libre para actividades acuáticas.",
+			"19:00 hrs: Cena y noche libre."
+		],
+		"day03Title": "Día 03: Tour Arashi Beach y Faro California",
+		"day03Schedule": [
+			"08:00 hrs: Desayuno.",
+			"09:30 hrs: Excursión a Arashi Beach y snorkel.",
+			"13:00 hrs: Almuerzo en restaurante local.",
+			"15:00 hrs: Visita al Faro California.",
+			"19:00 hrs: Regreso al hotel y descanso."
+		],
+		"day04Title": "Día 04: Retorno",
+		"day04Schedule": [
+			"08:00 hrs: Desayuno.",
+			"10:00 hrs: Check-out y traslado al aeropuerto.",
+			"--:-- hrs: Vuelo de retorno."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Traslados aeropuerto – hotel – aeropuerto.",
+			"03 noches de alojamiento en hotel seleccionado.",
+			"Desayunos diarios.",
+			"City tour por Oranjestad y principales playas.",
+			"Excursión a Arashi Beach y Faro California.",
+			"Guía local en español.",
+			"Asistencia permanente durante la estadía.",
+			"Impuestos hoteleros."
+		]
+	},
+	"puntaCanaTour": {
+		"certification": "Certificado de Operador Turístico Internacional",
+		"routeTitle": "Ruta",
+		"routeText": "PUNTA CANA – PLAYA BÁVARO – ISLA SAONA – HIGÜEY – REPÚBLICA DOMINICANA",
+		"duration": "Duración",
+		"durationValue": "05 días / 04 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Parejas, Familias, Amigos",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado / Compartido",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Llegada a Punta Cana",
+		"day01Text": "--:-- hrs: Llegada al Aeropuerto Internacional de Punta Cana. Traslado al hotel seleccionado. Tiempo libre para disfrutar de las instalaciones y la playa.",
+		"day02Title": "Día 02: Excursión Isla Saona",
+		"day02Schedule": [
+			"07:00 hrs: Desayuno en el hotel.",
+			"08:00 hrs: Salida hacia Isla Saona. Paseo en catamarán y actividades acuáticas.",
+			"13:00 hrs: Almuerzo buffet en la isla.",
+			"16:00 hrs: Regreso al hotel.",
+			"19:00 hrs: Cena y noche libre."
+		],
+		"day03Title": "Día 03: City Tour Higüey y Playa Bávaro",
+		"day03Schedule": [
+			"08:00 hrs: Desayuno.",
+			"09:00 hrs: Visita a la Basílica de Higüey y recorrido por el centro histórico.",
+			"13:00 hrs: Almuerzo en restaurante local.",
+			"15:00 hrs: Tarde libre en Playa Bávaro.",
+			"19:00 hrs: Regreso al hotel y descanso."
+		],
+		"day04Title": "Día 04: Día Libre",
+		"day04Schedule": [
+			"08:00 hrs: Desayuno.",
+			"Día libre para disfrutar de las instalaciones del hotel, playa o actividades opcionales.",
+			"19:00 hrs: Cena."
+		],
+		"day05Title": "Día 05: Retorno",
+		"day05Schedule": [
+			"08:00 hrs: Desayuno.",
+			"10:00 hrs: Check-out y traslado al aeropuerto.",
+			"--:-- hrs: Vuelo de retorno."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Traslados aeropuerto – hotel – aeropuerto.",
+			"04 noches de alojamiento en hotel seleccionado.",
+			"Desayunos diarios.",
+			"Excursión a Isla Saona con almuerzo.",
+			"City tour por Higüey y Playa Bávaro.",
+			"Guía local en español.",
+			"Asistencia permanente durante la estadía.",
+			"Impuestos hoteleros."
 		]
 	}
 }

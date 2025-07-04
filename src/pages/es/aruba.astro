@@ -1,0 +1,11 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ArubaTour from '../../components/ArubaTour.astro';
+import es from '../../i18n/es.json';
+const i18n = es;
+---
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-aruba.png" title="Aruba" alt="Imagen de Aruba" lang="es"/>
+    <ArubaTour t={es.arubaTour} />
+</Layout>

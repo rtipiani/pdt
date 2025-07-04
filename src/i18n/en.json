@@ -100,7 +100,7 @@
 			{
         		"title": "ARUBA",
         		"image": "/aruba.png",
-        		"link": "caribe/aruba"
+        		"link": "aruba"
       		},
 			{
         		"title": "PUNTA CANA",
@@ -209,6 +209,105 @@
 			"Transport with SOAT insurance policy.",
 			"Permanent and personalized assistance."
 		]
+	},
+	"arubaTour": {
+		"certificatinpmon": "International Tour Operator Certificate",
+		"routeTitle": "Route",
+		"routeText": "ORANJESTAD – PALM BEACH – EAGLE BEACH – ARASHI BEACH – ARUBA",
+		"duration": "Duration",
+		"durationValue": "04 days / 03 nights",
+		"clientType": "Client Type",
+		"clientTypeValue": "Couples, Families, Friends",
+		"serviceType": "Service Type",
+		"serviceTypeValue": "Private / Shared",
+		"itinerary": "Itinerary",
+		"day01Title": "Day 01: Arrival in Aruba",
+		"day01Text": "--:-- hrs: Arrival at Queen Beatrix International Airport. Transfer to the selected hotel. Free time to enjoy the facilities.",
+		"day02Title": "Day 02: Oranjestad City Tour and Beaches",
+		"day02Schedule": [
+			"08:00 hrs: Breakfast at the hotel.",
+			"09:00 hrs: Tour of the historic center of Oranjestad.",
+			"12:00 hrs: Visit to Eagle Beach and Palm Beach.",
+			"15:00 hrs: Free time for water activities.",
+			"19:00 hrs: Dinner and free evening."
+		],
+		"day03Title": "Day 03: Arashi Beach and California Lighthouse Tour",
+		"day03Schedule": [
+			"08:00 hrs: Breakfast.",
+			"09:30 hrs: Excursion to Arashi Beach and snorkeling.",
+			"13:00 hrs: Lunch at a local restaurant.",
+			"15:00 hrs: Visit to the California Lighthouse.",
+			"19:00 hrs: Return to the hotel and rest."
+		],
+		"day04Title": "Day 04: Return",
+		"day04Schedule": [
+			"08:00 hrs: Breakfast.",
+			"10:00 hrs: Check-out and transfer to the airport.",
+			"--:-- hrs: Return flight."
+		],
+		"includedTitle": "The Program Includes",
+		"includedItems": [
+			"Airport – hotel – airport transfers.",
+			"03 nights of accommodation in the selected hotel.",
+			"Daily breakfasts.",
+			"City tour of Oranjestad and main beaches.",
+			"Excursion to Arashi Beach and California Lighthouse.",
+			"Local Spanish-speaking guide.",
+			"Permanent assistance during the stay.",
+			"Hotel taxes."
+		]
+	},
+	"puntaCanaTour": {
+		"certification": "International Tour Operator Certificate",
+		"routeTitle": "Route",
+		"routeText": "PUNTA CANA – BÁVARO BEACH – SAONA ISLAND – HIGÜEY – DOMINICAN REPUBLIC",
+		"duration": "Duration",
+		"durationValue": "05 days / 04 nights",
+		"clientType": "Client Type",
+		"clientTypeValue": "Couples, Families, Friends",
+		"serviceType": "Service Type",
+		"serviceTypeValue": "Private / Shared",
+		"itinerary": "Itinerary",
+		"day01Title": "Day 01: Arrival in Punta Cana",
+		"day01Text": "--:-- hrs: Arrival at Punta Cana International Airport. Transfer to the selected hotel. Free time to enjoy the facilities and the beach.",
+		"day02Title": "Day 02: Saona Island Excursion",
+		"day02Schedule": [
+			"07:00 hrs: Breakfast at the hotel.",
+			"08:00 hrs: Departure to Saona Island. Catamaran ride and water activities.",
+			"13:00 hrs: Buffet lunch on the island.",
+			"16:00 hrs: Return to the hotel.",
+			"19:00 hrs: Dinner and free evening."
+		],
+		"day03Title": "Day 03: Higüey City Tour and Bávaro Beach",
+		"day03Schedule": [
+			"08:00 hrs: Breakfast.",
+			"09:00 hrs: Visit to the Basilica of Higüey and tour of the historic center.",
+			"13:00 hrs: Lunch at a local restaurant.",
+			"15:00 hrs: Free afternoon at Bávaro Beach.",
+			"19:00 hrs: Return to the hotel and rest."
+		],
+		"day04Title": "Day 04: Free Day",
+		"day04Schedule": [
+			"08:00 hrs: Breakfast.",
+			"Free day to enjoy the hotel facilities, beach, or optional activities.",
+			"19:00 hrs: Dinner."
+		],
+		"day05Title": "Day 05: Return",
+		"day05Schedule": [
+			"08:00 hrs: Breakfast.",
+			"10:00 hrs: Check-out and transfer to the airport.",
+			"--:-- hrs: Return flight."
+		],
+		"includedTitle": "The Program Includes",
+		"includedItems": [
+			"Airport – hotel – airport transfers.",
+			"04 nights of accommodation in the selected hotel.",
+			"Daily breakfasts.",
+			"Excursion to Saona Island with lunch.",
+			"City tour of Higüey and Bávaro Beach.",
+			"Local Spanish-speaking guide.",
+			"Permanent assistance during the stay.",
+			"Hotel taxes."
+		]
 	}
-
 }
