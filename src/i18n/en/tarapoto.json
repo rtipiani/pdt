@@ -6,19 +6,19 @@
         {
             "title": "Mystical Tarapoto Kuelap",
             "duration": "6D/5N",
-            "image": "/kuelap-6-dias.png",
+            "image": "/kuelap-6-d.avif",
             "link": "6-days-5-nights"
         },
         {
             "title": "VIP Tarapoto",
             "duration": "4D/3N",
-            "image": "/kuelap-6-d.png",
+            "image": "/tarapoto-4-dias.avif",
             "link": "4-days-3-nights"
         },
         {
             "title": "VIP Tarapoto",
             "duration": "5D/4N",
-            "image": "/kuelap-5-dias.png",
+            "image": "/tarapoto-5-dias.avif",
             "link": "5-days-4-nights"
         }
     ]

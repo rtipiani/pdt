@@ -4,6 +4,7 @@ interface Package {
     title: string;
     image: string;
     link: string;
+    whatsapp: string;
 }
 ---
 <section class="bg-white my-14">
@@ -22,13 +23,13 @@ interface Package {
                             {pkg.title}
                         </a>
                     </div>
-                    <div class="border border-orange-600 my-4"></div>
-                    <a href={pkg.link} class="flex justify-between items-center group">
-                        <p class="text-gray-950 font-bold group-hover:text-orange-600 transition-colors">
+                    <div class="border border-red-500 my-4"></div>
+                    <a href={pkg.whatsapp} class="flex justify-between items-center group" target="_blank">
+                        <p class="text-red-500 font-bold group-hover:text-red-500 transition-colors">
                             {packagesSection.consultText}
                         </p>
-                        <span class="w-8 h-8 flex items-center justify-center bg-gray-950 rounded-full group-hover:bg-orange-600 transition-colors">
-                            <i class="fas fa-angle-right text-white"></i>
+                        <span class="w-8 h-8 flex items-center justify-center bg-red-500 rounded-full">
+                            <i class="fa-brands fa-whatsapp text-white"></i>
                         </span>
                     </a>
                 </div>

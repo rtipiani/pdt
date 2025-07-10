@@ -3,3 +3,21 @@
 @import '@fortawesome/fontawesome-free/css/all.min.css';
 
 @import 'photoswipe/photoswipe.css';
+
+@layer utilities {
+    @keyframes vibrate-once {
+        0% { transform: translate(0); }
+        20% { transform: translate(-1px, 1px); }
+        40% { transform: translate(1px, -1px); }
+        60% { transform: translate(-1px, -1px); }
+        80% { transform: translate(1px, 1px); }
+        100% { transform: translate(0); }
+    }
+
+    .animate-vibrate-once {
+        animation: vibrate-once 0.4s ease-in-out 1;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+        animation-play-state: paused;
+    }
+}

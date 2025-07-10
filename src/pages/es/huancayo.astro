@@ -1,0 +1,11 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import HuancayoTour from '../../components/HuancayoTour.astro';
+import es from '../../i18n/es.json';
+const i18n = es;
+---
+<Layout i18n={i18n}>
+    <Breadcrumb image="/bc-huancayo.avif" title="Huancayo" alt="Imagen de Huancayo" lang="es"/>
+    <HuancayoTour t={es.huancayoSelvaTour} />
+</Layout>

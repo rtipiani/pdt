@@ -6,25 +6,25 @@
         {
             "title": "Perené - Oxapampa - Pozuzo Borg - CITY",
             "duration": "5D/4N",
-            "image": "/perene-5-dias.png",
+            "image": "/perene-5-dias.avif",
             "link": "perene-5-days-4-nights"
         },
         {
             "title": "Perené - Oxapampa - Pozuzo - Borg",
             "duration": "4D/3N",
-            "image": "/perene-4-dias.png",
+            "image": "/perene-4-dias.avif",
             "link": "perene-4-days-3-nights"
         },
         {
             "title": "Perené - Oxapampa - Pozuzo",
             "duration": "3D/2N",
-            "image": "/perene-3-dias.png",
+            "image": "/perene-3-dias.avif",
             "link": "perene-3-days-2-nights"
         },
         {
             "title": "Perené - Oxapampa",
             "duration": "2D/1N",
-            "image": "/perene-2-dias.png",
+            "image": "/perene-2-dias.avif",
             "link": "perene-2-days-1-night"
         }
     ]

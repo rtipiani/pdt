@@ -1,25 +1,74 @@
 ---
 import "../styles/global.css";
 import Header from '../components/Header.astro';
-import slidesText from '../i18n/es.json';
 import Footer from '../components/Footer.astro';
 
 const pathname = Astro.url.pathname;
 const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
+const i18nData = await import(`../i18n/${currentLocale}.json`);
 
-const { i18n } = Astro.props;
+const { title = 'PDT Peruvian Travel', description = 'Explora Perú y Latinoamérica con nosotros' } = Astro.props;
+
+const message = currentLocale === 'en'
+  ? "Hello, I’m interested in learning more about your tour packages."
+  : "Hola, estoy interesado en conocer más sobre sus paquetes turísticos.";
+
+const encodedMessage = encodeURIComponent(message);
+const whatsappUrl = `https://wa.me/51980852997?text=${encodedMessage}`;
+
+const tooltipText = currentLocale === 'en'
+  ? "Need help? Message us!"
+  : "¿Tienes dudas? ¡Escríbenos!";
 ---
 <!doctype html>
-<html lang={currentLocale}>
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<title>PDT Peruvian Travel</title>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5/dist/photoswipe.css" />
-	</head>
-	<body>
-		<Header />
-		<slot />
-		<Footer i18n={{ footer: slidesText.footer }} />
-	</body>
+<html lang={currentLocale} dir="ltr">
+  	<head>
+    	<meta charset="UTF-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    	<title>{title} | {description}</title>
+    	<meta name="description" content={description} />
+    	<meta name="robots" content="index, follow" />
+    	<meta name="author" content="Rubén Tipiani" />
+
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="es" />
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/en/" hreflang="en" />
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="x-default" />
+		<link rel="canonical" href="https://pdtperuviantravel.com.pe/" />
+
+    	<meta property="og:title" content={title} />
+    	<meta property="og:description" content={description} />
+    	<meta property="og:image" content="/og-image.avif" />
+    	<meta property="og:url" content="https://pdtperuviantravel.com.pe" />
+    	<meta property="og:type" content="website" />
+    	<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content="/og-image.avif" />
+		<meta name="twitter:site" content="@pdtperuviantravel" />
+		<meta name="twitter:creator" content="@pdtperuviantravel" />
+
+    	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.avif">
+    	<link rel="icon" type="image/avif" sizes="32x32" href="/favicon-32x32.avif">
+    	<link rel="icon" type="image/avif" sizes="16x16" href="/favicon-16x16.avif">
+    	<link rel="manifest" href="/site.webmanifest">
+  	</head>
+
+  	<body>
+    	<Header />
+    	<slot />
+    	<Footer i18n={{ footer: i18nData.default.footer }} />
+
+    	<div class="group fixed bottom-6 right-6 z-50 flex items-center space-x-2">
+      		<div class="relative mr-3 hidden sm:block">
+        		<div class="absolute right-full top-1/2 transform -translate-y-1/2 translate-x-2 px-3 py-2 bg-gray-800 text-white text-sm rounded-md opacity-0 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300 ease-out whitespace-nowrap">
+          			{tooltipText}
+          			<div class="absolute top-1/2 left-full transform -translate-y-1/2 -ml-px w-0 h-0 border-t-6 border-b-6 border-l-6 border-transparent border-l-gray-800"></div>
+        		</div>
+      		</div>
+
+      		<a href={whatsappUrl} class="bg-green-500 hover:bg-green-600 text-white w-14 h-14 flex items-center justify-center rounded-full shadow-lg transition-transform hover:scale-110 animate-vibrate-once" target="_blank" rel="noopener" aria-label="Chat on WhatsApp" title="Chat on WhatsApp">
+        		<i class="fab fa-whatsapp text-2xl"></i>
+      		</a>
+    	</div>
+  	</body>
 </html>

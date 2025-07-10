@@ -13,112 +13,140 @@
 		"galeria": "Galería"
 	},
     "slides": [
-        { "title": "MACHU PICCHU - CUSCO", "buttonText": "Consultar Ahora" },
-    	{ "title": "VILLA RICA - OXAPAMPA", "buttonText": "Consultar Ahora" },
-    	{ "title": "SAN CRISTOBAL - TARMA", "buttonText": "Consultar Ahora" }
+        { 
+			"title": "MACHU PICCHU - CUSCO", "buttonText": "Consultar Ahora",
+			"buttonLink": "https://wa.me/51980852997?text=Hola%20*PDT%20Peruvian%20Travel*,%20quiero%20más%20información%20sobre%20la%20experiencia%20Machu%20Picchu."
+		},
+    	{ 
+			"title": "VILLA RICA - OXAPAMPA", "buttonText": "Consultar Ahora",
+			"buttonLink": "https://wa.me/51980852997?text=Hola%20*PDT%20Peruvian%20Travel*,%20quiero%20más%20información%20sobre%20la%20experiencia%20Villa%20Rica%20-%20Oxapampa."
+		},
+    	{ 
+			"title": "SAN CRISTOBAL - TARMA", "buttonText": "Consultar Ahora",
+			"buttonLink": "https://wa.me/51980852997?text=Hola%20*PDT%20Peruvian%20Travel*,%20quiero%20más%20información%20sobre%20la%20experiencia%20San%20Cristobal%20-%20Tarma."
+		}
   	],
   	"packagesSection": {
     	"title": "Los mejores paquetes turísticos",
-    	"description": "Descubre los mejores paquetes turísticos con <strong>PDT Peruvian Travel</strong>. Somos tu opción ideal para viajes en pareja, en familia o con amigos. Celebra tu luna de miel, cumpleaños o aniversario en los más exclusivos hoteles y lodges de la selva amazónica. Garantizamos experiencias inolvidables y un servicio de calidad excepcional.",
+    	"description": "Descubre los mejores paquetes turísticos con PDT Peruvian Travel. Somos tu opción ideal para viajes en pareja, en familia o con amigos. Celebra tu luna de miel, cumpleaños o aniversario en los más exclusivos hoteles y lodges de la selva amazónica. Garantizamos experiencias inolvidables y un servicio de calidad excepcional.",
     	"consultText": "Consultar paquete",
     	"packages": [
-      		{
-        		"title": "CUSCO INOLVIDABLE VIP 4D/3N",
-        		"image": "/cusco-inolvidable-4d.png",
-        		"link": "cusco/4-dias-3-noches"
-      		},
-      		{
-        		"title": "CUSCO INOLVIDABLE VIP 5D/4N SURHUME",
-        		"image": "/cusco-inolvidable-5d.png",
-        		"link": "cusco/5-dias-4-noches-surhume"
-      		},
-      		{
-        		"title": "CUSCO INOLVIDABLE VIP 5D/4N",
-        		"image": "/cusco-inolvidable-5d-4n.png",
-        		"link": "cusco/5-dias-4-noches"
-      		},
 			{
-        		"title": "CUSCO INOLVIDABLE VIP 6D/5N PUNO - AREQUIPA",
-        		"image": "/cusco-inolvidable-6d-5n.png",
-        		"link": "cusco/6-dias-5-noches"
-      		},
+			"title": "Inolvidable Cusco VIP 4D/3N",
+			"image": "/cusco-inolvidable-4d.avif",
+			"link": "cusco/4-dias-3-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20UNFORGETTABLE%20CUSCO%20VIP%204D%2F3N"
+			},
 			{
-        		"title": "MÁNCORA PREMIUM 3D/2N",
-        		"image": "/mancora-3-dias.png",
-        		"link": "mancora/3-dias-2-noches"
-      		},
+			"title": "Inolvidable Cusco VIP 5D/4N Surhume",
+			"image": "/cusco-inolvidable-5d.avif",
+			"link": "cusco/5-dias-4-noches-surhume",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20UNFORGETTABLE%20CUSCO%20VIP%205D%2F4N%20SURHUME"
+			},
 			{
-        		"title": "MÁNCORA PREMIUM 5D/4N",
-        		"image": "/mancora-5-dias.png",
-        		"link": "mancora/5-dias-4-noches"
-      		},
+			"title": "Inolvidable Cusco VIP 5D/4N",
+			"image": "/cusco-inolvidable-5d-4n.avif",
+			"link": "cusco/5-dias-4-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20UNFORGETTABLE%20CUSCO%20VIP%205D%2F4N"
+			},
 			{
-        		"title": "TARAPOTO KUÉLAP MÍSTICO VIP 6D/5N",
-        		"image": "/kuelap-6-dias.png",
-        		"link": "tarapoto/tarapoto-kuelap-mistico"
-      		},
+			"title": "Inolvidable Cusco VIP 6D/5N Puno - Arequipa",
+			"image": "/cusco-inolvidable-6d-5n.avif",
+			"link": "cusco/6-dias-5-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20UNFORGETTABLE%20CUSCO%20VIP%206D%2F5N%20PUNO%20-%20AREQUIPA"
+			},
 			{
-        		"title": "TARAPOTO VIP 4D/3N",
-        		"image": "/tarapoto-4-dias.png",
-        		"link": "tarapoto/4-dias-3-noches"
-      		},
+			"title": "Máncora Premium 3D/2N",
+			"image": "/mancora-3-dias.avif",
+			"link": "mancora/3-dias-2-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20MÁNCORA%20PREMIUM%203D%2F2N"
+			},
 			{
-        		"title": "TARAPOTO VIP 5D/4N",
-        		"image": "/tarapoto-5-dias.png",
-        		"link": "tarapoto/5-dias-4-noches"
-      		},
+			"title": "Máncora Premium 5D/4N",
+			"image": "/mancora-5-dias.avif",
+			"link": "mancora/5-dias-4-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20MÁNCORA%20PREMIUM%205D%2F4N"
+			},
 			{
-        		"title": "HUANCAYO - SELVA CENTRAL MISTICO 5D/4N",
-        		"image": "/huancayo-5-dias.png",
-        		"link": "#"
-      		},
+			"title": "Tarapoto Kuélap Mystic VIP 6D/5N",
+			"image": "/kuelap-6-dias.avif",
+			"link": "tarapoto/tarapoto-kuelap-mistico",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20TARAPOTO%20KUÉLAP%20MYSTIC%20VIP%206D%2F5N"
+			},
 			{
-        		"title": "PERENÉ - OXAPAMPA - POZUZO BORG - CIT 5D/4N",
-        		"image": "/perene-5-dias.png",
-        		"link": "selva-central/perene-5-dias-4-noches"
-      		},
+			"title": "Tarapoto VIP 4D/3N",
+			"image": "/tarapoto-4-dias.avif",
+			"link": "tarapoto/4-dias-3-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20TARAPOTO%20VIP%204D%2F3N"
+			},
 			{
-        		"title": "PERENÉ - OXAPAMPA - POZUZO - BORG 4D/3N",
-        		"image": "/perene-4-dias.png",
-        		"link": "selva-central/perene-4-dias-3-noches"
-      		},
+			"title": "Tarapoto VIP 5D/4N",
+			"image": "/tarapoto-5-dias.avif",
+			"link": "tarapoto/5-dias-4-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20TARAPOTO%20VIP%205D%2F4N"
+			},
 			{
-        		"title": "PERENÉ - OXAPAMPA - POZUZO 3D/2N",
-        		"image": "/perene-3-dias.png",
-        		"link": "selva-central/perene-3-dias-2-noches"
-      		},
+			"title": "Huancayo - Selva Central Mystic 5D/4N",
+			"image": "/huancayo-5-dias.avif",
+			"link": "huancayo",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20HUANCAYO%20-%20SELVA%20CENTRAL%20MYSTIC%205D%2F4N"
+			},
 			{
-        		"title": "PERENÉ - OXAPAMPA 2D/1N",
-        		"image": "/perene-2-dias.png",
-        		"link": "selva-central/perene-2-dias-1-noche"
-      		},
+			"title": "Perené - Oxapampa - Pozuzo Borg - CIT 5D/4N",
+			"image": "/perene-5-dias.avif",
+			"link": "selva-central/perene-5-dias-4-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20PERENÉ%20-%20OXAPAMPA%20-%20POZUZO%20BORG%20-%20CIT%205D%2F4N"
+			},
 			{
-        		"title": "COLOMBIA - SAN ANDRÉS",
-        		"image": "/san-andres.png",
-        		"link": "san-andres"
-      		},
+			"title": "Perené - Oxapampa - Pozuzo - Borg 4D/3N",
+			"image": "/perene-4-dias.avif",
+			"link": "selva-central/perene-4-dias-3-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20PERENÉ%20-%20OXAPAMPA%20-%20POZUZO%20-%20BORG%204D%2F3N"
+			},
 			{
-        		"title": "ARUBA",
-        		"image": "/aruba.png",
-        		"link": "aruba"
-      		},
+			"title": "Perené - Oxapampa - Pozuzo 3D/2N",
+			"image": "/perene-3-dias.avif",
+			"link": "selva-central/perene-3-dias-2-noches",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20PERENÉ%20-%20OXAPAMPA%20-%20POZUZO%203D%2F2N"
+			},
 			{
-        		"title": "PUNTA CANA",
-        		"image": "/punta-cana.png",
-        		"link": "punta-cana"
-      		},
+			"title": "Perené - Oxapampa 2D/1N",
+			"image": "/perene-2-dias.avif",
+			"link": "selva-central/perene-2-dias-1-noche",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20PERENÉ%20-%20OXAPAMPA%202D%2F1N"
+			},
 			{
-        		"title": "CARTAGENA DE INDIAS",
-        		"image": "/bc-cartagena-de-indias.png",
-        		"link": "cartagena-de-indias"
-      		}
-    	]
+			"title": "Colombia - San Andrés",
+			"image": "/san-andres.avif",
+			"link": "san-andres",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20COLOMBIA%20-%20SAN%20ANDRÉS"
+			},
+			{
+			"title": "Aruba",
+			"image": "/aruba.avif",
+			"link": "aruba",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20ARUBA"
+			},
+			{
+			"title": "Punta Cana",
+			"image": "/punta-cana.avif",
+			"link": "punta-cana",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20PUNTA%20CANA"
+			},
+			{
+			"title": "Cartagena de Indias",
+			"image": "/cartagena-de-indias.avif",
+			"link": "cartagena-de-indias",
+			"whatsapp": "https://wa.me/51980852997?text=Hola,%20quiero%20más%20información%20sobre%20el%20paquete:%20CARTAGENA%20DE%20INDIAS"
+			}
+		]
   	},
 	"ctaIquitos": {
 		"tag": "Exploremos Iquitos",
 		"title": "Historia y Transformación",
 		"description": "Ubicada en la selva noreste del Perú, Iquitos es la capital de Loreto y Maynas, rodeada por los ríos Amazonas, Nanay e Itaya. Fundada en 1757 por la misión jesuita como San Pablo de los Napeanos, la ciudad fue habitada por los Iquitos tras la partida de los napeanos a finales del siglo XVIII. Entre 1880 y 1914, la fiebre del caucho impulsó su crecimiento, atrayendo a peruanos y europeos en busca de oportunidades. Este auge convirtió a Iquitos en un centro comercial, modernizando la ciudad con nueva arquitectura y servicios públicos que mejoraron la calidad de vida de sus habitantes.",
-		"button": "Consultar ahora"
+		"button": "Consultar ahora",
+		"buttonLink": "https://wa.me/51980852997?text=Hola%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20experiencias%20de%20viaje."
 	},
 	"footer": {
 		"contactTitle": "Contáctanos",
@@ -137,11 +165,11 @@
 			"marcaPeru": "Marca Perú"
 		},
 		"interestList": {
-			"irapay": "Irapay Amazon",
-			"heliconia": "Heliconia Lodge",
-			"cumaceba": "Cumaceba Lodge",
-			"pacaya": "Pacaya Samiria",
-			"tours": "Tours Diarios"
+			"cajamarca": "Cajamarca",
+			"ayacucho": "Ayacucho",
+			"cusco": "Cusco",
+			"mancora": "Máncora",
+			"puno": "Puno"
 		}
 	},
 	"cajamarcaTour": {
@@ -211,7 +239,7 @@
 		]
 	},
 	"arubaTour": {
-		"certification": "Certificado de Operador Turístico Internacional",
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
 		"routeTitle": "Ruta",
 		"routeText": "ORANJESTAD – PALM BEACH – EAGLE BEACH – ARASHI BEACH – ARUBA",
 		"duration": "Duración",
@@ -258,7 +286,7 @@
 		]
 	},
 	"puntaCanaTour": {
-		"certification": "Certificado de Operador Turístico Internacional",
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
 		"routeTitle": "Ruta",
 		"routeText": "PUNTA CANA – PLAYA BÁVARO – ISLA SAONA – HIGÜEY – REPÚBLICA DOMINICANA",
 		"duration": "Duración",
@@ -311,7 +339,7 @@
 		]
 	},
 	"sanAndresTour": {
-		"certification": "Certificado de Operador Turístico Internacional",
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
 		"routeTitle": "Ruta",
 		"routeText": "SAN ANDRÉS – JOHNNY CAY – ACUARIO – HAINES CAY – COLOMBIA",
 		"duration": "Duración",
@@ -349,7 +377,7 @@
 		]
 	},
 	"cartagenaTour": {
-		"certification": "Certificado de Operador Turístico Internacional",
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
 		"routeTitle": "Ruta",
 		"routeText": "CARTAGENA DE INDIAS – ISLAS DEL ROSARIO – PLAYA BLANCA – COLOMBIA",
 		"duration": "Duración",
@@ -393,6 +421,62 @@
 			"Guía local en español.",
 			"Asistencia permanente durante la estadía.",
 			"Impuestos hoteleros."
+		]
+	},
+	"huancayoSelvaTour": {
+		"certification": "Constancia N° 028-2017-GRJ-DIRCETUR (MINCETUR)",
+		"routeTitle": "Ruta",
+		"routeText": "HUANCAYO – OXAPAMPA – POZUZO – SELVA CENTRAL – PERÚ",
+		"duration": "Duración",
+		"durationValue": "05 días / 04 noches",
+		"clientType": "Tipo de Cliente",
+		"clientTypeValue": "Parejas, Familias, Grupos, Amantes de la naturaleza",
+		"serviceType": "Tipo de Servicio",
+		"serviceTypeValue": "Privado / Compartido",
+		"itinerary": "Itinerario",
+		"day01Title": "Día 01: Llegada a Huancayo",
+		"day01Text": "--:-- hrs: Recepción en terminal terrestre de Huancayo. Traslado al hotel y descanso. Caminata opcional por la Plaza Constitución y artesanías de Hualhuas y San Jerónimo.",
+		"day02Title": "Día 02: Huancayo - Tarma - Oxapampa",
+		"day02Schedule": [
+			"06:00 hrs: Desayuno.",
+			"07:00 hrs: Salida con destino a Oxapampa vía Tarma y el Abra Anticona.",
+			"12:00 hrs: Parada en Tarma para breve visita y almuerzo típico.",
+			"15:00 hrs: Llegada a Oxapampa. Alojamiento y tarde libre.",
+			"19:00 hrs: Cena y descanso."
+		],
+		"day03Title": "Día 03: Full Day Pozuzo Místico",
+		"day03Schedule": [
+			"06:30 hrs: Desayuno.",
+			"07:30 hrs: Salida hacia Pozuzo atravesando el Parque Nacional Yanachaga-Chemillén.",
+			"10:30 hrs: Visita a la colonia austro-alemana: iglesia, museo, cementerio, etc.",
+			"13:00 hrs: Almuerzo en restaurante local.",
+			"15:00 hrs: Experiencia espiritual mística en zona natural (ritual opcional).",
+			"17:00 hrs: Retorno a Oxapampa."
+		],
+		"day04Title": "Día 04: Oxapampa - Villa Rica - Huancayo",
+		"day04Schedule": [
+			"07:00 hrs: Desayuno.",
+			"08:00 hrs: Ruta hacia Villa Rica para visitar fincas cafetaleras y catarata El León.",
+			"12:00 hrs: Almuerzo típico.",
+			"13:30 hrs: Inicio de retorno hacia Huancayo vía carretera central.",
+			"20:00 hrs: Llegada a Huancayo y alojamiento."
+		],
+		"day05Title": "Día 05: Despedida",
+		"day05Schedule": [
+			"08:00 hrs: Desayuno.",
+			"10:00 hrs: Tiempo libre para compras y recuerdos.",
+			"--:-- hrs: Traslado al terminal terrestre."
+		],
+		"includedTitle": "El Programa Incluye",
+		"includedItems": [
+			"Traslados terminal – hotel – terminal en Huancayo.",
+			"Transporte turístico privado durante toda la ruta.",
+			"04 noches de alojamiento (2 en Huancayo, 2 en Oxapampa).",
+			"Desayunos diarios.",
+			"Visita guiada a Pozuzo y Villa Rica.",
+			"Entradas a los lugares turísticos indicados.",
+			"Guía oficial de turismo en español.",
+			"Asistencia permanente durante el viaje."
 		]
 	}
 }
