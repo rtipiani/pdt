@@ -1,12 +1,40 @@
+---
+const { 
+  	title = 'PDT Peruvian Travel', 
+  	description = 'Disfruta experiencias auténticas en los destinos más impresionantes de Perú y Latinoamérica. Con PDT Peruvian Travel, accede a paquetes turísticos personalizados, alojamientos exclusivos y un servicio profesional que convierte tu viaje en una aventura inolvidable. Explora con confianza, viaja con propósito.' 
+} = Astro.props;
+---
 <!DOCTYPE html>
 <html lang="es">
   	<head>
     	<meta charset="UTF-8" />
-    	<meta http-equiv="refresh" content="3;url=/es/" />
     	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    	<title>
-			Redirigiendo...
-		</title>
+    	<title>{title} | {description}</title>
+    	<meta name="description" content={description} />
+    	<meta name="robots" content="index, follow" />
+    	<meta name="author" content="Rubén Tipiani" />
+
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="es" />
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/en/" hreflang="en" />
+    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="x-default" />
+		<link rel="canonical" href="https://pdtperuviantravel.com.pe/" />
+
+    	<meta property="og:title" content={title} />
+    	<meta property="og:description" content={description} />
+    	<meta property="og:image" content="/og-image.avif" />
+    	<meta property="og:url" content="https://pdtperuviantravel.com.pe" />
+    	<meta property="og:type" content="website" />
+    	<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content="/og-image.avif" />
+		<meta name="twitter:site" content="@pdtperuviantravel" />
+		<meta name="twitter:creator" content="@pdtperuviantravel" />
+
+    	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.avif">
+    	<link rel="icon" type="image/avif" sizes="32x32" href="/favicon-32x32.avif">
+    	<link rel="icon" type="image/avif" sizes="16x16" href="/favicon-16x16.avif">
+    	<link rel="manifest" href="/site.webmanifest">
     	<style>
       		body {
         		font-family: Arial, sans-serif;
