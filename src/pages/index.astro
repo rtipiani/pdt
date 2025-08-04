@@ -1,4 +1,6 @@
 ---
+export const prerender = false;
+
 const pathname = Astro.url.pathname;
 const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
 
