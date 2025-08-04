@@ -40,7 +40,6 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta http-equiv="refresh" content="8; URL={redirectUrl}" />
 
     <!-- Meta SEO y Open Graph -->
     <meta name="robots" content="index, follow" />
@@ -110,6 +109,13 @@ const {
         to { transform: rotate(360deg); }
       }
     </style>
+
+    <script>
+      // Redirigir luego de 8 segundos manualmente
+      setTimeout(() => {
+        window.location.href = "{redirectUrl}";
+      }, 8000);
+    </script>
   </head>
   <body>
     <main>
