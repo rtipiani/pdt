@@ -1,99 +1,69 @@
 ---
+export const prerender = true;
+
 const { 
-  	title = 'PDT Peruvian Travel', 
-  	description = 'Disfruta experiencias auténticas en los destinos más impresionantes de Perú y Latinoamérica. Con PDT Peruvian Travel, accede a paquetes turísticos personalizados, alojamientos exclusivos y un servicio profesional que convierte tu viaje en una aventura inolvidable. Explora con confianza, viaja con propósito.' 
+  	title = 'PDT Peruvian Travel | Agencia de viajes en Perú', 
+  	description = 'Disfruta experiencias auténticas en Perú y Latinoamérica con PDT Peruvian Travel...' 
 } = Astro.props;
 ---
 <!DOCTYPE html>
 <html lang="es">
   	<head>
     	<meta charset="UTF-8" />
-    	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    	
-    	<meta property="description" content={description} />
-    	<meta property="robots" content="index, follow" />
-    	<meta property="author" content="Rubén Tipiani" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{title}</title>
+		<meta name="description" content={description} />
+		<meta name="robots" content="index, follow" />
+		<meta name="author" content="Rubén Tipiani" />
 
-		<meta property="twitter:image" content="https://pdtperuviantravel.com.pe/og-image.avif" />
-		<meta property="twitter:card" content="summary_large_image" />
-		<meta property="twitter:title" content={title} />
-		<meta property="twitter:description" content={description} />
+		<!-- Canonical -->
+		<link rel="canonical" href="https://www.pdtperuviantravel.com.pe/" />
 
-		<title>{title} | {description}</title>
+		<meta http-equiv="refresh" content="8; URL=/es/" />
 
-		<meta property="description" content={description} />
-
-		<meta property="og:image" content="https://pdtperuviantravel.com.pe/og-image.avif" />
-		<meta property="og:site_name" content="PDT Peruvian Travel" />
+		<!-- Open Graph -->
+		<meta property="og:type" content="website" />
 		<meta property="og:title" content={title} />
 		<meta property="og:description" content={description} />
-
-		<meta property="twitter:site" content="@pdtperuviantravel" />
-		<meta property="twitter:creator" content="@pdtperuviantravel" />
-		<meta property="og:url" content="https://pdtperuviantravel.com.pe" />
-    	
-    	<meta property="og:locale" content="es_PE" />
+		<meta property="og:image" content="https://www.pdtperuviantravel.com.pe/og-image.avif" />
+		<meta property="og:image" content="https://www.pdtperuviantravel.com.pe/og-image.png" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:url" content="https://www.pdtperuviantravel.com.pe/" />
+		<meta property="og:site_name" content="PDT Peruvian Travel" />
+		<meta property="og:locale" content="es_PE" />
 		<meta property="og:locale:alternate" content="en_US" />
 		<meta property="og:locale:alternate" content="es_ES" />
-    	<meta property="og:type" content="website" />
+
+		<!-- Twitter Card -->
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content="https://www.pdtperuviantravel.com.pe/og-image.avif" />
+		<meta name="twitter:image" content="https://www.pdtperuviantravel.com.pe/og-image.png" />
+		<meta name="twitter:site" content="@pdtperuviantravel" />
+		<meta name="twitter:creator" content="@pdtperuviantravel" />
+
+		<!-- Icons & manifest -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.avif" />
+		<link rel="icon" type="image/avif" sizes="32x32" href="/favicon-32x32.avif" />
+		<link rel="icon" type="image/avif" sizes="16x16" href="/favicon-16x16.avif" />
+		<link rel="manifest" href="/site.webmanifest" />
+
+		<!-- Hreflangs -->
+		<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/" hreflang="es" />
+		<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/en/" hreflang="en" />
+		<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/" hreflang="x-default" />
 		
 		<meta property="google-site-verification" content="BumbWo4IzqezJJkny6u1VE8uwX-2_hKVWLQsQSCZ4u8" />
-
-    	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.avif">
-    	<link rel="icon" type="image/avif" sizes="32x32" href="/favicon-32x32.avif">
-    	<link rel="icon" type="image/avif" sizes="16x16" href="/favicon-16x16.avif">
-    	<link rel="manifest" href="/site.webmanifest">
-		<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="es" />
-    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/en/" hreflang="en" />
-    	<link rel="alternate" href="https://pdtperuviantravel.com.pe/" hreflang="x-default" />
-		<link rel="canonical" href="https://pdtperuviantravel.com.pe/" />
-    	<style>
-      		body {
-        		font-family: Arial, sans-serif;
-        		background-color: #f9f9f9;
-        		color: #333;
-        		display: flex;
-        		flex-direction: column;
-        		align-items: center;
-        		justify-content: center;
-        		height: 100vh;
-        		margin: 0;
-        		text-align: center;
-      		}
-      		.spinner {
-        		width: 50px;
-        		height: 50px;
-        		border: 6px solid #ccc;
-        		border-top: 6px solid #007acc;
-        		border-radius: 50%;
-        		animation: spin 1s linear infinite;
-        		margin-bottom: 20px;
-      		}
-      		@keyframes spin {
-        		to {
-          			transform: rotate(360deg);
-        		}
-      		}
-      		a {
-        		color: #007acc;
-        		text-decoration: none;
-        		font-weight: bold;
-      		}
-      		a:hover {
-        		text-decoration: underline;
-      		}
-    	</style>
-    	<script>
-      		setTimeout(() => {
-        		window.location.href = "/es/";
-      		}, 8000);
-    	</script>
   	</head>
   	<body>
-    	<div class="spinner"></div>
-    	<p>
-      		Estás siendo redirigido a <a href="/es/">/es/</a>. <br />
-      		Si no ocurre automáticamente, haz clic en el enlace.
-    	</p>
+    	<main>
+			<h1>Redirigiendo a la nueva página principal</h1>
+			<p>
+			Estás siendo redirigido a <a href="/es/">/es/</a>. <br />
+			Si no ocurre automáticamente, haz clic en el enlace.
+			</p>
+		</main>
   	</body>
 </html>
