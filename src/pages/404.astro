@@ -1,0 +1,82 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout 
+    title="Página no encontrada | Page Not Found - PDT Peruvian Travel" 
+    description="Lo sentimos, la página que buscas no existe. Explora nuestros tours auténticos en Perú."
+>
+    <!-- Contenedor principal con fondo de paisaje -->
+    <main class="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
+        <!-- Imagen de Fondo (Paisaje de Perú) -->
+        <div class="absolute inset-0 z-0">
+            <img 
+                src="/bc-gallery.avif" 
+                alt="Paisaje de Perú - Machu Picchu" 
+                class="w-full h-full object-cover filter brightness-[0.4] scale-105"
+            />
+        </div>
+
+        <!-- Efecto de gradiente sutil encima del fondo -->
+        <div class="absolute inset-0 bg-gradient-to-b from-black/20 via-transparent to-black/60 z-10"></div>
+
+        <!-- Tarjeta de Error con Glassmorphism -->
+        <div class="relative z-20 max-w-2xl mx-auto px-6 py-12 text-center">
+            <div class="backdrop-blur-md bg-white/10 p-8 sm:p-12 rounded-3xl border border-white/20 shadow-2xl animate-fade-in">
+                <h1 class="satisfy text-7xl sm:text-9xl font-bold text-white mb-4 drop-shadow-2xl">
+                    404
+                </h1>
+                
+                <div class="space-y-6">
+                    <!-- Sección en Español -->
+                    <div class="border-b border-white/10 pb-6">
+                        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-2">
+                            ¡Ups! Página no encontrada
+                        </h2>
+                        <p class="text-gray-200 text-lg">
+                            Lo sentimos, la ruta que buscas no existe o ha sido movida.
+                        </p>
+                    </div>
+
+                    <!-- Sección en Inglés -->
+                    <div class="pt-2">
+                        <h2 class="text-2xl sm:text-3xl font-bold text-white mb-2">
+                            Oops! Page Not Found
+                        </h2>
+                        <p class="text-gray-200 text-lg">
+                            Sorry, the page you're looking for doesn't exist or has been moved.
+                        </p>
+                    </div>
+
+                    <!-- Botones de Acción -->
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center mt-10">
+                        <a 
+                            href="/es/" 
+                            class="px-8 py-3 bg-red-500 hover:bg-red-600 text-white font-bold rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center gap-2"
+                        >
+                            <i class="fa-solid fa-house"></i>
+                            Volver al Inicio
+                        </a>
+                        <a 
+                            href="/en/" 
+                            class="px-8 py-3 bg-white/10 hover:bg-white/20 text-white font-bold rounded-full border border-white/30 transition-all duration-300 transform hover:scale-105 backdrop-blur-sm flex items-center justify-center gap-2"
+                        >
+                            <i class="fa-solid fa-home"></i>
+                            Back to Home
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    .animate-fade-in {
+        animation: fadeIn 0.8s ease-out forwards;
+    }
+</style>
