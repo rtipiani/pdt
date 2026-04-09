@@ -15,6 +15,7 @@ const slides = slideImages.map((slide, index) => ({
 
 const generateSrcSet = (image: string) => `
     ${image.replace('.avif', '-355w.avif')} 355w,
+    ${image.replace('.avif', '-600w.avif')} 600w,
     ${image.replace('.avif', '-852w.avif')} 852w,
     ${image.replace('.avif', '-1278w.avif')} 1278w,
     ${image.replace('.avif', '-1680w.avif')} 1680w,
@@ -28,6 +29,7 @@ const sizes = `
     (min-width: 1680px) 1680px,
     (min-width: 1278px) 1278px,
     (min-width: 852px) 852px,
+    (min-width: 600px) 600px,
     (min-width: 355px) 355px,
     100vw
 `;

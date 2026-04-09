@@ -19,8 +19,8 @@ interface Package {
                 <div class="bg-gray-50 bg-opacity-65 rounded-md px-6 py-4">
                     <img 
                         src={pkg.image} 
-                        srcset={`${pkg.image.replace('.avif', '-400w.avif')} 400w, ${pkg.image.replace('.avif', '-800w.avif')} 800w`}
-                        sizes="(max-width: 640px) 400px, 800px"
+                        srcset={`${pkg.image.replace('.avif', '-400w.avif')} 400w, ${pkg.image.replace('.avif', '-600w.avif')} 600w, ${pkg.image.replace('.avif', '-800w.avif')} 800w`}
+                        sizes="(max-width: 768px) 95vw, (max-width: 1024px) 45vw, 30vw"
                         alt={pkg.title} 
                         width="400" 
                         height="176" 
