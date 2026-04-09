@@ -22,7 +22,14 @@ const { images = [] }: { images?: ImageItem[] } = Astro.props;
 <script>
     import PhotoSwipeLightbox from 'photoswipe/lightbox';
 
-    const lightbox = new PhotoSwipeLightbox({ gallery:   '#my-gallery', children: 'a', pswpModule: () => import('photoswipe')
+    const lightbox = new PhotoSwipeLightbox({ 
+        gallery: '#my-gallery', 
+        children: 'a', 
+        pswpModule: () => import('photoswipe')
     });
     lightbox.init();
 </script>
+
+<style>
+    @import "photoswipe/photoswipe.css";
+</style>

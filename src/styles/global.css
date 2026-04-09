@@ -3,8 +3,6 @@
 
 @import '@fortawesome/fontawesome-free/css/all.min.css';
 
-@import 'photoswipe/photoswipe.css';
-
 @layer utilities {
     @keyframes vibrate-once {
         0% { transform: translate(0); }

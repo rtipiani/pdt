@@ -22,6 +22,9 @@ export default defineConfig({
         priority: 0.7,
         lastmod: new Date()
     })],
+    build: {
+        inlineStylesheets: 'always'
+    },
     vite: {
         plugins: [tailwindcss()],
     },
