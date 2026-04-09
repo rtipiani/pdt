@@ -8,6 +8,9 @@ import { routeMap } from '../utils/routes';
 import es from '../i18n/es.json';
 import en from '../i18n/en.json';
 
+import faBrands from '@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2?url';
+import faSolid from '@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2?url';
+
 const pathname = Astro.url.pathname;
 const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
 const i18nData = currentLocale === 'en' ? en : es;
@@ -140,6 +143,27 @@ const structuredData = {
                 fetchpriority="high" 
             />
         )}
+
+        <!-- Font Preloads -->
+        <link rel="preload" href={faBrands} as="font" type="font/woff2" crossorigin />
+        <link rel="preload" href={faSolid} as="font" type="font/woff2" crossorigin />
+
+        <style is:inline define:vars={{ faBrands, faSolid }}>
+            @font-face {
+                font-family: 'Font Awesome 6 Brands';
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(var(--faBrands)) format('woff2');
+            }
+            @font-face {
+                font-family: 'Font Awesome 6 Free';
+                font-style: normal;
+                font-weight: 900;
+                font-display: swap;
+                src: url(var(--faSolid)) format('woff2');
+            }
+        </style>
 
     	<meta name="google-site-verification" content="BumbWo4IzqezJJkny6u1VE8uwX-2_hKVWLQsQSCZ4u8" />
   	</head>
