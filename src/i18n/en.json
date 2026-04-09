@@ -155,6 +155,12 @@
 		"vision": {
 			"label": "Vision",
 			"text": "To become a recognized travel agency in our country, providing high-quality service to our clients, presenting innovative services, and ensuring stable tourism activity with the best market offers for each of our clients."
+		},
+		"stats": {
+			"years": "Years of experience",
+			"commitment": "Commitment",
+			"travelers": "Thousands",
+			"travelersSub": "Of satisfied travelers"
 		}
 	},
 	"ctaIquitos": {

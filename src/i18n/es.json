@@ -155,6 +155,12 @@
 		"vision": {
 			"label": "Visión",
 			"text": "Llegar a ser una agencia de viajes reconocida en nuestro país. brindando un servicio de calidad a nuestros clientes, presentando innovadores servicios, asegurando una actividad turística estable con las mejores ofertas del mercado para cada uno de nuestros clientes."
+		},
+		"stats": {
+			"years": "Años de experiencia",
+			"commitment": "Compromiso",
+			"travelers": "Miles",
+			"travelersSub": "De viajeros satisfechos"
 		}
 	},
 	"ctaIquitos": {

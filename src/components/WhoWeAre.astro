@@ -12,6 +12,12 @@ interface Props {
                 label: string;
                 text: string;
             };
+            stats: {
+                years: string;
+                commitment: string;
+                travelers: string;
+                travelersSub: string;
+            };
         };
     };
 }
@@ -66,15 +72,15 @@ const { i18n } = Astro.props;
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
             <div class="bg-white p-6 rounded-lg border-t-4 border-red-700 shadow-sm">
                 <p class="text-3xl font-bold text-gray-950">+10</p>
-                <p class="text-gray-600 text-xs uppercase font-semibold">Años de experiencia</p>
+                <p class="text-gray-600 text-xs uppercase font-semibold">{i18n.whoWeAre.stats.years}</p>
             </div>
             <div class="bg-white p-6 rounded-lg border-t-4 border-red-700 shadow-sm">
                 <p class="text-3xl font-bold text-gray-950">100%</p>
-                <p class="text-gray-600 text-xs uppercase font-semibold">Compromiso</p>
+                <p class="text-gray-600 text-xs uppercase font-semibold">{i18n.whoWeAre.stats.commitment}</p>
             </div>
             <div class="bg-white p-6 rounded-lg border-t-4 border-red-700 shadow-sm">
-                <p class="text-3xl font-bold text-gray-950">Miles</p>
-                <p class="text-gray-600 text-xs uppercase font-semibold">De viajeros satisfechos</p>
+                <p class="text-3xl font-bold text-gray-950">{i18n.whoWeAre.stats.travelers}</p>
+                <p class="text-gray-600 text-xs uppercase font-semibold">{i18n.whoWeAre.stats.travelersSub}</p>
             </div>
         </div>
     </div>
