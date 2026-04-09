@@ -5,13 +5,17 @@ import Footer from '../components/Footer.astro';
 
 import { routeMap } from '../utils/routes';
 
+import es from '../i18n/es.json';
+import en from '../i18n/en.json';
+
 const pathname = Astro.url.pathname;
 const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
-const i18nData = await import(`../i18n/${currentLocale}.json`);
+const i18nData = currentLocale === 'en' ? en : es;
 
 const {
   	title = 'PDT Peruvian Travel | Agencia de viajes en Perú',
-  	description = 'Disfruta experiencias auténticas en Perú y Latinoamérica con PDT Peruvian Travel...'
+  	description = 'Disfruta experiencias auténticas en Perú y Latinoamérica con PDT Peruvian Travel...',
+    preloadImage = null
 } = Astro.props;
 
 const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
@@ -110,13 +114,18 @@ const structuredData = {
     	<link rel="alternate" href={alternateEnUrl} hreflang="en" />
     	<link rel="alternate" href={alternateEsUrl} hreflang="x-default" />
 
+        <!-- LCP Preload -->
+        {preloadImage && (
+            <link rel="preload" as="image" href={preloadImage} fetchpriority="high" />
+        )}
+
     	<meta name="google-site-verification" content="BumbWo4IzqezJJkny6u1VE8uwX-2_hKVWLQsQSCZ4u8" />
   	</head>
 
   	<body>
     	<Header />
     	<slot />
-    	<Footer i18n={{ footer: i18nData.default.footer }} />
+    	<Footer i18n={{ footer: i18nData.footer }} />
 
     	<div class="group fixed bottom-6 right-6 z-50 flex items-center space-x-2">
       		<div class="relative mr-3 hidden sm:block">

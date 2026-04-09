@@ -15,7 +15,7 @@ const { i18n } = Astro.props;
 ---
 <section class="bg-gray-100">
     <div class="grid grid-cols-1 lg:grid-cols-2 max-w-7xl px-8 py-24 mx-auto justify-center items-center gap-8">
-        <img src="/cta-selva.avif" alt="Tours en Iquitos, Perú - Amazonía Peruana" class="rounded-md order-2 lg:order-1" loading="lazy" />
+        <img src="/cta-selva.avif" alt="Tours en Iquitos, Perú - Amazonía Peruana" class="rounded-md order-2 lg:order-1" loading="lazy" decoding="async" />
         <div class="order-1 lg:order-2 space-y-2">
             <p class="uppercase text-red-700 font-medium">
                 {i18n.ctaIquitos.tag}
