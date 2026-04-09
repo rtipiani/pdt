@@ -141,6 +141,22 @@
 			}
 		]
   	},
+	"whoWeAre": {
+		"title": "Who are we?",
+		"paragraphs": [
+			"Since its founding in 2014, Pdt Peruvian Travel has consolidated itself as a leading company in organizing unique travel experiences both nationally and internationally. Our passion for tourism, commitment to service quality, and personalized attention have allowed us to earn the trust of thousands of travelers from different parts of the world.",
+			"We offer a wide range of services including tour packages, excursions, tailor-made trips, corporate services, and specialized attention for groups and individual travelers. Our team of highly trained professionals works daily to design authentic, safe, and memorable experiences, taking care of every detail from planning to trip execution.",
+			"Thanks to strategic alliances with operators, hotels, and providers in multiple destinations, Pdt Peruvian Travel guarantees excellence, competitiveness, and close attention, adapted to the needs and expectations of each client. More than a decade of experience is our background; the satisfaction of our travelers is our greatest achievement."
+		],
+		"mision": {
+			"label": "Mission",
+			"text": "To offer high-quality personalized service through the excellent attention of our properly trained staff, with our objective being to satisfy every expectation and design unique trips at affordable prices, achieving the satisfaction of our clients, providers, and community."
+		},
+		"vision": {
+			"label": "Vision",
+			"text": "To become a recognized travel agency in our country, providing high-quality service to our clients, presenting innovative services, and ensuring stable tourism activity with the best market offers for each of our clients."
+		}
+	},
 	"ctaIquitos": {
 		"tag": "Explore Iquitos",
 		"title": "History and Transformation",

@@ -4,6 +4,7 @@ import Slider from '../../components/Slider.astro';
 import slidesText from '../../i18n/en.json';
 import PackagesSection from '../../components/Packages.astro';
 import About from '../../components/About.astro';
+import WhoWeAre from '../../components/WhoWeAre.astro';
 ---
 <Layout
     title="PDT Peruvian Travel | Travel Agency in Peru - Authentic Tours"
@@ -11,6 +12,7 @@ import About from '../../components/About.astro';
     preloadImage="/slide1.avif"
 >
     <Slider slidesText={slidesText.slides} />
+    <WhoWeAre i18n={slidesText} />
     <PackagesSection packagesSection={slidesText.packagesSection} />
     <About i18n={slidesText} />
 </Layout>
