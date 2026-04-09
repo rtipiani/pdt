@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pdtperuviantravel.com.pe/sitemap.xml

@@ -5,7 +5,10 @@ import slidesText from '../../i18n/es.json';
 import PackagesSection from '../../components/Packages.astro';
 import About from '../../components/About.astro';
 ---
-<Layout>
+<Layout
+    title="PDT Peruvian Travel | Agencia de Viajes en Perú - Tours Auténticos"
+    description="Descubre Perú con PDT Peruvian Travel. Tours personalizados a Cusco, Machu Picchu, Arequipa, Puno y más. Experiencias auténticas con guías locales expertos. ¡Reserva ahora!"
+>
     <Slider slidesText={slidesText.slides} />
     <PackagesSection packagesSection={slidesText.packagesSection} />
     <About i18n={slidesText} />

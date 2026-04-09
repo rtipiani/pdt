@@ -3,6 +3,8 @@ import "../styles/global.css";
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
+import { routeMap } from '../utils/routes';
+
 const pathname = Astro.url.pathname;
 const currentLocale = pathname.startsWith('/en') ? 'en' : 'es';
 const i18nData = await import(`../i18n/${currentLocale}.json`);
@@ -11,6 +13,17 @@ const {
   	title = 'PDT Peruvian Travel | Agencia de viajes en Perú',
   	description = 'Disfruta experiencias auténticas en Perú y Latinoamérica con PDT Peruvian Travel...'
 } = Astro.props;
+
+const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const ogImageUrl = new URL('/og-image.png', Astro.site).toString();
+const logoUrl = new URL('/android-chrome-512x512.avif', Astro.site).toString();
+
+const cleanPath = pathname.toLowerCase().replace(/\/$/, '');
+const esPath = currentLocale === 'en' ? (routeMap[cleanPath] || '/') : (cleanPath || '/');
+const enPath = currentLocale === 'es' ? (routeMap[cleanPath] || '/en/') : (cleanPath || '/en/');
+
+const alternateEsUrl = new URL(esPath, Astro.site).toString();
+const alternateEnUrl = new URL(enPath, Astro.site).toString();
 
 const message = currentLocale === 'en'
   	? "Hello, I’m interested in learning more about your tour packages."
@@ -22,6 +35,31 @@ const whatsappUrl = `https://wa.me/51980852997?text=${encodedMessage}`;
 const tooltipText = currentLocale === 'en'
   	? "Need help? Message us!"
   	: "¿Tienes dudas? ¡Escríbenos!";
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "name": "PDT Peruvian Travel",
+  "description": currentLocale === 'en' 
+    ? "Enjoy authentic experiences in Peru and Latin America with PDT Peruvian Travel"
+    : "Disfruta experiencias auténticas en Perú y Latinoamérica con PDT Peruvian Travel",
+  "url": Astro.site,
+  "logo": logoUrl,
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+51-980-852-997",
+    "contactType": "customer service",
+    "availableLanguage": ["Spanish", "English"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "PE"
+  },
+  "sameAs": [
+    "https://www.facebook.com/pdtperuviantravel",
+    "https://www.instagram.com/pdtperuviantravel"
+  ]
+};
 ---
 <!doctype html>
 <html lang={currentLocale} dir="ltr">
@@ -34,19 +72,19 @@ const tooltipText = currentLocale === 'en'
     	<meta name="author" content="Rubén Tipiani" />
 
     	<!-- Canonical -->
-    	<link rel="canonical" href="https://www.pdtperuviantravel.com.pe/" />
+    	<link rel="canonical" href={currentUrl} />
 
     	<!-- Open Graph -->
     	<meta property="og:type" content="website" />
     	<meta property="og:title" content={title} />
     	<meta property="og:description" content={description} />
-    	<meta property="og:image" content="https://www.pdtperuviantravel.com.pe/og-image.avif" />
-    	<meta property="og:image" content="https://www.pdtperuviantravel.com.pe/og-image.png" />
+    	<meta property="og:image" content={ogImageUrl} />
+    	<meta property="og:image:type" content="image/png" />
     	<meta property="og:image:width" content="1200" />
     	<meta property="og:image:height" content="630" />
-    	<meta property="og:url" content="https://www.pdtperuviantravel.com.pe/" />
+    	<meta property="og:url" content={currentUrl} />
     	<meta property="og:site_name" content="PDT Peruvian Travel" />
-    	<meta property="og:locale" content="es_PE" />
+    	<meta property="og:locale" content={currentLocale === 'en' ? 'en_US' : 'es_PE'} />
     	<meta property="og:locale:alternate" content="en_US" />
     	<meta property="og:locale:alternate" content="es_ES" />
 
@@ -54,10 +92,12 @@ const tooltipText = currentLocale === 'en'
     	<meta name="twitter:card" content="summary_large_image" />
     	<meta name="twitter:title" content={title} />
     	<meta name="twitter:description" content={description} />
-    	<meta name="twitter:image" content="https://www.pdtperuviantravel.com.pe/og-image.avif" />
-    	<meta name="twitter:image" content="https://www.pdtperuviantravel.com.pe/og-image.png" />
+    	<meta name="twitter:image" content={ogImageUrl} />
     	<meta name="twitter:site" content="@pdtperuviantravel" />
     	<meta name="twitter:creator" content="@pdtperuviantravel" />
+
+    	<!-- Structured Data -->
+    	<script type="application/ld+json" set:html={JSON.stringify(structuredData)}></script>
 
     	<!-- Icons & manifest -->
     	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.avif" />
@@ -66,9 +106,9 @@ const tooltipText = currentLocale === 'en'
     	<link rel="manifest" href="/site.webmanifest" />
 
     	<!-- Hreflangs -->
-    	<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/" hreflang="es" />
-    	<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/en/" hreflang="en" />
-    	<link rel="alternate" href="https://www.pdtperuviantravel.com.pe/" hreflang="x-default" />
+    	<link rel="alternate" href={alternateEsUrl} hreflang="es" />
+    	<link rel="alternate" href={alternateEnUrl} hreflang="en" />
+    	<link rel="alternate" href={alternateEsUrl} hreflang="x-default" />
 
     	<meta name="google-site-verification" content="BumbWo4IzqezJJkny6u1VE8uwX-2_hKVWLQsQSCZ4u8" />
   	</head>

@@ -16,6 +16,7 @@ interface Props {
                 gore: string;
                 tripadvisor: string;
                 marcaPeru: string;
+                esnna: string;
             };
             interestList: {
                 cajamarca: string;
@@ -28,6 +29,9 @@ interface Props {
     };
 }
 const { i18n } = Astro.props;
+
+const currentLocale = Astro.url.pathname.startsWith('/en') ? 'en' : 'es';
+const esnnaLink = currentLocale === 'en' ? '/en/esnna' : '/es/esnna';
 ---
 <footer class="bg-gray-950 text-white py-12">
     <div class="max-w-7xl mx-auto px-6 lg:px-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -84,6 +88,7 @@ const { i18n } = Astro.props;
                 <li><a href="https://www.gob.pe/institucion/regionamazonas/funcionarios?sheet=2" class="hover:text-red-500" target="_blank">{i18n.footer.linkList.gore}</a></li>
                 <li><a href="https://www.tripadvisor.com/" class="hover:text-red-500" target="_blank">{i18n.footer.linkList.tripadvisor}</a></li>
                 <li><a href="https://peru.info/es-pe/" class="hover:text-red-500" target="_blank">{i18n.footer.linkList.marcaPeru}</a></li>
+                <li><a href={esnnaLink} class="hover:text-red-500 font-semibold">{i18n.footer.linkList.esnna}</a></li>
             </ul>
         </div>
 
