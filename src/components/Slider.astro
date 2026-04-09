@@ -77,7 +77,7 @@ const sizes = `
 </div>
 
 <script is:inline>
-    window.onload = function () {
+    document.addEventListener("DOMContentLoaded", () => {
         const slider = document.getElementById("slider");
         const prev = document.getElementById("prev");
         const next = document.getElementById("next");
@@ -105,5 +105,5 @@ const sizes = `
         prev.addEventListener("click", prevSlide);
 
         setInterval(nextSlide, 4000);
-    };
+    });
 </script>

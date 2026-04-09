@@ -116,7 +116,29 @@ const structuredData = {
 
         <!-- LCP Preload -->
         {preloadImage && (
-            <link rel="preload" as="image" href={preloadImage} fetchpriority="high" />
+            <link 
+                rel="preload" 
+                as="image" 
+                href={preloadImage} 
+                imagesrcset={`
+                    ${preloadImage.replace('.avif', '-355w.avif')} 355w,
+                    ${preloadImage.replace('.avif', '-852w.avif')} 852w,
+                    ${preloadImage.replace('.avif', '-1278w.avif')} 1278w,
+                    ${preloadImage.replace('.avif', '-1680w.avif')} 1680w,
+                    ${preloadImage.replace('.avif', '-2000w.avif')} 2000w,
+                    ${preloadImage.replace('.avif', '-2268w.avif')} 2268w
+                `}
+                imagesizes={`
+                    (min-width: 2268px) 2268px,
+                    (min-width: 2000px) 2000px,
+                    (min-width: 1680px) 1680px,
+                    (min-width: 1278px) 1278px,
+                    (min-width: 852px) 852px,
+                    (min-width: 355px) 355px,
+                    100vw
+                `}
+                fetchpriority="high" 
+            />
         )}
 
     	<meta name="google-site-verification" content="BumbWo4IzqezJJkny6u1VE8uwX-2_hKVWLQsQSCZ4u8" />
