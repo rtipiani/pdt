@@ -17,7 +17,7 @@ interface Package {
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {packagesSection.packages.map((pkg: Package) => (
                 <div class="bg-gray-50 bg-opacity-65 rounded-md px-6 py-4">
-                    <img src={pkg.image} alt={pkg.title} class="object-cover rounded-lg w-full h-44" loading="lazy" />
+                    <img src={pkg.image} alt={pkg.title} width="400" height="176" class="object-cover rounded-lg w-full h-44" loading="lazy" />
                     <div class="pt-8 pb-4">
                         <a href={pkg.link} class="block text-xl text-gray-950 font-bold h-14 hover:text-orange-600 transition-colors">
                             {pkg.title}
